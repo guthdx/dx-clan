@@ -106,15 +106,13 @@
       "Josephine Margaret 'Josie' Ducheneaux",
       "Camilla James Ducheneaux",
       "Douglas Frank Ducheneaux",
-      "Lillie Ducheneaux, II Mar 14",
+      "Lillie Ducheneaux, II",
       "Louis Ducheneaux",
       "Victor Ducheneaux",
-      "8 Betty Gilloth",
+      "Betty Gilloth",
       "Angelique Virginia Ducheneaux",
       "Blizzard",
-      "255",
-      "Josephine Margaret 'Josie'",
-      "Lillie Ducheneaux, II"
+      "Josephine Margaret 'Josie'"
     ]
   },
   {
@@ -365,10 +363,10 @@
     ]
   },
   {
-    "name": "Lillie Ducheneaux, II Mar 14",
-    "birth_year": null,
+    "name": "Lillie Ducheneaux, II",
+    "birth_year": 1889,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1967,
     "death_year_circa": false,
     "gender": "F",
     "generation": 4,
@@ -376,7 +374,18 @@
       "Sophia LeCompte Sep"
     ],
     "spouses": [],
-    "children": []
+    "children": [
+      "Irving William",
+      "Helen Anna Marshall",
+      "James John Marshall, Sr",
+      "Phillip Felix Marshall",
+      "Clifford Robert Marshall, SI",
+      "Thomas Louis Marshall",
+      "Alfred Aloyisius 'Swede' Marshall",
+      "Mary Grace Marshall",
+      "Ray Lloyd Marshall, SI",
+      "Gale Theresa Marshall"
+    ]
   },
   {
     "name": "Louis Ducheneaux",
@@ -415,7 +424,7 @@
       "Harry LaRoche",
       "DeSmet Richard 'Dick' LaRoche",
       "Carrie LaRoche",
-      "4 Mary LaRoche",
+      "Mary LaRoche",
       "Philip Felicia LaRoche, Sr Aug"
     ]
   },
@@ -600,19 +609,24 @@
     ]
   },
   {
-    "name": "4 Mary LaRoche",
-    "birth_year": null,
+    "name": "Mary LaRoche",
+    "birth_year": 1894,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1984,
     "death_year_circa": false,
-    "gender": null,
+    "gender": "F",
     "generation": 4,
     "parents": [
       "Angelique LeCompte",
       "Joseph LaRoche, SI"
     ],
     "spouses": [],
-    "children": []
+    "children": [
+      "Caroline F Skartvedt",
+      "Arthur Ellsworth Skartvedt",
+      "Thelma Mary Skartvedt",
+      "Frances Pauline Skartvedt"
+    ]
   },
   {
     "name": "Mary or Molle LeCompte",
@@ -761,7 +775,8 @@
       "Julia Clara LeCompte",
       "Regina Virginia LeCompte",
       "Emma Arliene 'Amy' LeCompte",
-      "Marcelline Martina LeCompte"
+      "Marcelline Martina LeCompte",
+      "Emma Arliene LeCompte"
     ]
   },
   {
@@ -828,7 +843,7 @@
       "Stephen Douglas LeCompte, I",
       "David Michael LeCompte, SI",
       "Morris LeCompte",
-      "Memoree Marjorie LeCompte Nov 30",
+      "Memoree Marjorie LeCompte",
       "Vivian Esther LeCompte"
     ]
   },
@@ -1360,7 +1375,7 @@
     "name": "May Lewis - 5",
     "birth_year": 1905,
     "birth_year_circa": false,
-    "death_year": 2192,
+    "death_year": null,
     "death_year_circa": false,
     "gender": null,
     "generation": null,
@@ -1831,7 +1846,7 @@
       "Mamie Marie Ducheneaux"
     ],
     "children": [
-      "8 Dawn Rae Horner",
+      "Dawn Rae Horner",
       "Charles Mortimer Cummings",
       "Elmer John Cummings",
       "Joseph Cummings",
@@ -1883,15 +1898,15 @@
       "Louisa DuCharme"
     ],
     "spouses": [
-      "Hannah Jeanette Anderson Nov 20"
+      "Hannah Jeanette Anderson"
     ],
     "children": []
   },
   {
-    "name": "Hannah Jeanette Anderson Nov 20",
-    "birth_year": null,
+    "name": "Hannah Jeanette Anderson",
+    "birth_year": 1898,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1966,
     "death_year_circa": false,
     "gender": "F",
     "generation": null,
@@ -7352,7 +7367,7 @@
     "children": [
       "Martha Louise 'Marti' Bowker",
       "Kenneth Theodore Spotted Bear Jr",
-      "8 Kelly Jo Spotted Bear Feb 195",
+      "Kelly Jo Spotted Bear Feb 195",
       "Joseph Wayne Spotted Bear",
       "Raylene Fay Spotted Bear",
       "Merrie Ellen Miller",
@@ -7489,7 +7504,7 @@
     "children": []
   },
   {
-    "name": "8 Kelly Jo Spotted Bear Feb 195",
+    "name": "Kelly Jo Spotted Bear Feb 195",
     "birth_year": 1987,
     "birth_year_circa": false,
     "death_year": null,
@@ -8687,7 +8702,7 @@
     "children": []
   },
   {
-    "name": "8 Betty Gilloth",
+    "name": "Betty Gilloth",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -8780,7 +8795,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Betty Gilloth"
+      "Betty Gilloth"
     ],
     "spouses": [],
     "children": []
@@ -8794,7 +8809,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Betty Gilloth"
+      "Betty Gilloth"
     ],
     "spouses": [],
     "children": [
@@ -9160,14 +9175,14 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Betty Gilloth"
+      "Betty Gilloth"
     ],
     "spouses": [
       "Elmer Earl Cummings"
     ],
     "children": [
       "Norma Mary Cummings",
-      "8 Dawn Rae Horner",
+      "Dawn Rae Horner",
       "Charles Mortimer Cummings",
       "Elmer John Cummings",
       "Joseph Cummings",
@@ -9226,7 +9241,6 @@
       "Ralph Martin Horner, Jr",
       "Jean Marie Horner",
       "Ralph Martin Horner, JI",
-      "Dawn Rae Horner",
       "Charlene Frances Horner"
     ]
   },
@@ -9275,7 +9289,7 @@
     "children": []
   },
   {
-    "name": "8 Dawn Rae Horner",
+    "name": "Dawn Rae Horner",
     "birth_year": 1971,
     "birth_year_circa": false,
     "death_year": null,
@@ -10038,7 +10052,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Betty Gilloth"
+      "Betty Gilloth"
     ],
     "spouses": [],
     "children": []
@@ -10052,7 +10066,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Betty Gilloth"
+      "Betty Gilloth"
     ],
     "spouses": [],
     "children": [
@@ -10079,7 +10093,9 @@
     "parents": [
       "Patrick Ducheneaux"
     ],
-    "spouses": [],
+    "spouses": [
+      "Louise Veronica Silva"
+    ],
     "children": [
       "Darrel Carlton Ducheneaux",
       "Patrick Lee Ducheneaux"
@@ -10094,7 +10110,8 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "Darrel Patrick Ducheneaux"
+      "Darrel Patrick Ducheneaux",
+      "Louise Veronica Silva"
     ],
     "spouses": [
       "Teri Jean West"
@@ -10143,7 +10160,8 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "Darrel Patrick Ducheneaux"
+      "Darrel Patrick Ducheneaux",
+      "Louise Veronica Silva"
     ],
     "spouses": [],
     "children": []
@@ -10615,7 +10633,7 @@
     "children": [
       "Rodney Royce Hogfoss",
       "Richard Meldon Hogfoss",
-      "8 Richard Matthew Murphy Hogfoss",
+      "Richard Matthew Murphy Hogfoss",
       "Pamela Rae Hogfoss",
       "Barry Alan Hogfoss"
     ]
@@ -10634,8 +10652,7 @@
     ],
     "spouses": [],
     "children": [
-      "Chaleena Marceen Hogfoss",
-      "Richard Matthew Murphy Hogfoss"
+      "Chaleena Marceen Hogfoss"
     ]
   },
   {
@@ -10714,7 +10731,7 @@
     "children": []
   },
   {
-    "name": "8 Richard Matthew Murphy Hogfoss",
+    "name": "Richard Matthew Murphy Hogfoss",
     "birth_year": 1984,
     "birth_year_circa": false,
     "death_year": null,
@@ -11417,7 +11434,7 @@
     "gender": "F",
     "generation": 5,
     "parents": [
-      "8 Betty Gilloth"
+      "Betty Gilloth"
     ],
     "spouses": [],
     "children": []
@@ -11431,7 +11448,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Betty Gilloth"
+      "Betty Gilloth"
     ],
     "spouses": [],
     "children": [
@@ -11538,7 +11555,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Betty Gilloth"
+      "Betty Gilloth"
     ],
     "spouses": [],
     "children": []
@@ -11552,7 +11569,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Betty Gilloth"
+      "Betty Gilloth"
     ],
     "spouses": [
       "Annie Josephine LeBeau"
@@ -12134,7 +12151,7 @@
     "name": "Tina Rae Odegaard",
     "birth_year": 1967,
     "birth_year_circa": false,
-    "death_year": 1963,
+    "death_year": null,
     "death_year_circa": false,
     "gender": null,
     "generation": 7,
@@ -12552,7 +12569,7 @@
     "children": [
       "Henry Elmer Hill",
       "Frederick Edward Hill, JI",
-      "Harold Kenneth Hill Aug 15"
+      "Harold Kenneth Hill"
     ]
   },
   {
@@ -12915,17 +12932,19 @@
     "children": []
   },
   {
-    "name": "Harold Kenneth Hill Aug 15",
-    "birth_year": null,
+    "name": "Harold Kenneth Hill",
+    "birth_year": 1922,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1948,
     "death_year_circa": false,
     "gender": null,
     "generation": 6,
     "parents": [
       "(baby boy) Hill"
     ],
-    "spouses": [],
+    "spouses": [
+      "Shirley Hardman"
+    ],
     "children": [
       "Joan Hill",
       "Jean Hill"
@@ -12940,7 +12959,8 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "Harold Kenneth Hill Aug 15"
+      "Harold Kenneth Hill",
+      "Shirley Hardman"
     ],
     "spouses": [],
     "children": []
@@ -12954,7 +12974,8 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "Harold Kenneth Hill Aug 15"
+      "Harold Kenneth Hill",
+      "Shirley Hardman"
     ],
     "spouses": [],
     "children": []
@@ -12993,7 +13014,6 @@
       "Peter Arpan",
       "Mabel May Arpan",
       "(twin) Arpan",
-      "(twin) Arpan Oct 5",
       "James S Arpan",
       "Irene Catherine Arpan"
     ]
@@ -15448,20 +15468,6 @@
     "children": []
   },
   {
-    "name": "(twin) Arpan Oct 5",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 5,
-    "parents": [
-      "Angelique Virginia Ducheneaux"
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
     "name": "James S Arpan",
     "birth_year": 1908,
     "birth_year_circa": false,
@@ -15761,7 +15767,10 @@
     "children": [
       "Frank Douglas Ducheneaux, I",
       "Edward Henry Ducheneaux",
-      "Ernest Camilla \"Tuff' Ducheneaux"
+      "Ernest Camilla \"Tuff' Ducheneaux",
+      "Rita Pauline Ducheneaux",
+      "Josephine Catherine 'Henrietta' Ducheneaux",
+      "Nellie Catherine Ducheneaux ~"
     ]
   },
   {
@@ -18274,8 +18283,7 @@
       "Mackenzie Ellen Lawrence",
       "Shawn Paul Smith, Sr",
       "Raquel Rae 'Rocky' Ducheneaux",
-      "Raquel Rae Ducheneaux",
-      "Shawn Paul Smith, SI Feb 27"
+      "Raquel Rae Ducheneaux"
     ]
   },
   {
@@ -20630,7 +20638,12 @@
       "Deloris Jean Ducheneaux",
       "Sharon Margaret Ducheneaux",
       "Arlyce Nadine Ducheneaux",
-      "Mary Jane Ducheneaux"
+      "Mary Jane Ducheneaux",
+      "Ernest Lyle Ducheneaux",
+      "Lila Faye Ducheneaux",
+      "Bernadine Sue 'Bunny' Ducheneaux",
+      "Deborah Lee Ducheneaux",
+      "Misty Lee Lawrence"
     ]
   },
   {
@@ -21752,10 +21765,9 @@
       "Kyle Dean Ward"
     ],
     "children": [
-      "Kyle Dean Ward Dec 16",
+      "Kyle Dean Ward (a)",
       "Kayla Deloris Ward",
       "Morgan Lorita Ward",
-      "Kyle Dean Ward (a)",
       "Kyle Dean Ward"
     ]
   },
@@ -21772,15 +21784,14 @@
       "Morgan Todd Ward"
     ],
     "children": [
-      "Kyle Dean Ward Dec 16",
+      "Kyle Dean Ward (a)",
       "Kayla Deloris Ward",
-      "Morgan Lorita Ward",
-      "Kyle Dean Ward (a)"
+      "Morgan Lorita Ward"
     ]
   },
   {
-    "name": "Kyle Dean Ward Dec 16",
-    "birth_year": null,
+    "name": "Kyle Dean Ward (a)",
+    "birth_year": 1978,
     "birth_year_circa": false,
     "death_year": null,
     "death_year_circa": false,
@@ -21790,8 +21801,12 @@
       "Morgan Todd Ward",
       "Janelle Marie Hall Nov 14;"
     ],
-    "spouses": [],
-    "children": []
+    "spouses": [
+      "Kara Lee Dupris"
+    ],
+    "children": [
+      "Cody Lamonte Todd Ward"
+    ]
   },
   {
     "name": "Kayla Deloris Ward",
@@ -22599,7 +22614,9 @@
     ],
     "spouses": [],
     "children": [
-      "Teri Deen Anderson Dec 1;"
+      "Teri Deen Anderson Dec 1;",
+      "Kelly Kim Anderson",
+      "Lyle Dean Anderson"
     ]
   },
   {
@@ -22648,24 +22665,6 @@
     "children": []
   },
   {
-    "name": "255",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 4,
-    "parents": [
-      "Sophia LeCompte Sep"
-    ],
-    "spouses": [],
-    "children": [
-      "Rita Pauline Ducheneaux",
-      "Josephine Catherine 'Henrietta' Ducheneaux",
-      "Nellie Catherine Ducheneaux ~"
-    ]
-  },
-  {
     "name": "Kelly Kim Anderson",
     "birth_year": null,
     "birth_year_circa": false,
@@ -22673,7 +22672,9 @@
     "death_year_circa": false,
     "gender": null,
     "generation": 7,
-    "parents": [],
+    "parents": [
+      "Mary Jane Ducheneaux"
+    ],
     "spouses": [],
     "children": [
       "Jace Tyler Anderson",
@@ -22731,7 +22732,9 @@
     "death_year_circa": false,
     "gender": null,
     "generation": 7,
-    "parents": [],
+    "parents": [
+      "Mary Jane Ducheneaux"
+    ],
     "spouses": [
       "Kimberly Atchison"
     ],
@@ -22795,7 +22798,9 @@
     "death_year_circa": false,
     "gender": null,
     "generation": 6,
-    "parents": [],
+    "parents": [
+      "Ernest Camilla \"Tuff' Ducheneaux"
+    ],
     "spouses": [],
     "children": [
       "Carlyle Brady Ducheneaux",
@@ -23207,7 +23212,9 @@
     "death_year_circa": false,
     "gender": null,
     "generation": 6,
-    "parents": [],
+    "parents": [
+      "Ernest Camilla \"Tuff' Ducheneaux"
+    ],
     "spouses": [
       "Ronnie Ray Long"
     ],
@@ -23371,7 +23378,9 @@
     "death_year_circa": false,
     "gender": null,
     "generation": 6,
-    "parents": [],
+    "parents": [
+      "Ernest Camilla \"Tuff' Ducheneaux"
+    ],
     "spouses": [],
     "children": [
       "Frank Thomas Thompson Jun 1D",
@@ -23414,7 +23423,9 @@
     "death_year_circa": false,
     "gender": null,
     "generation": 6,
-    "parents": [],
+    "parents": [
+      "Ernest Camilla \"Tuff' Ducheneaux"
+    ],
     "spouses": [],
     "children": [
       "Jason Allen Lawrence",
@@ -23595,14 +23606,16 @@
     "children": []
   },
   {
-    "name": "7 Misty Lee Lawrence",
+    "name": "Misty Lee Lawrence",
     "birth_year": 1986,
     "birth_year_circa": false,
     "death_year": null,
     "death_year_circa": false,
     "gender": null,
     "generation": 6,
-    "parents": [],
+    "parents": [
+      "Ernest Camilla \"Tuff' Ducheneaux"
+    ],
     "spouses": [],
     "children": [
       "Deb Allen Ducheneaux",
@@ -23619,7 +23632,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "7 Misty Lee Lawrence"
+      "Misty Lee Lawrence"
     ],
     "spouses": [],
     "children": [
@@ -23649,7 +23662,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "7 Misty Lee Lawrence"
+      "Misty Lee Lawrence"
     ],
     "spouses": [
       "Jacalyn Hahne"
@@ -23698,7 +23711,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "7 Misty Lee Lawrence"
+      "Misty Lee Lawrence"
     ],
     "spouses": [
       "Vincent Floyd Thompson"
@@ -23728,7 +23741,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "255"
+      "Blizzard"
     ],
     "spouses": [
       "Robert O 'Tiger' Thykeson"
@@ -23758,7 +23771,7 @@
     "gender": "F",
     "generation": 5,
     "parents": [
-      "255"
+      "Blizzard"
     ],
     "spouses": [],
     "children": [
@@ -23881,7 +23894,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "255"
+      "Blizzard"
     ],
     "spouses": [],
     "children": []
@@ -24706,7 +24719,7 @@
     "children": [
       "Martha Louise 'Marti' Bowker",
       "Kenneth Theodore Spotted Bear Jr",
-      "8 Kelly Jo Spotted Bear Feb 195",
+      "Kelly Jo Spotted Bear Feb 195",
       "Joseph Wayne Spotted Bear",
       "Raylene Fay Spotted Bear",
       "Merrie Ellen Miller",
@@ -26104,7 +26117,7 @@
     "children": [
       "(baby boy) Garreau",
       "Tamara Lynne Garreau",
-      "8 Joshua Ray Garreau",
+      "Joshua Ray Garreau",
       "Robyn Lee Garreau"
     ]
   },
@@ -26184,7 +26197,7 @@
     "children": []
   },
   {
-    "name": "8 Joshua Ray Garreau",
+    "name": "Joshua Ray Garreau",
     "birth_year": 1988,
     "birth_year_circa": false,
     "death_year": null,
@@ -29797,31 +29810,6 @@
     "children": []
   },
   {
-    "name": "Lillie Ducheneaux, II",
-    "birth_year": 1889,
-    "birth_year_circa": false,
-    "death_year": 1967,
-    "death_year_circa": false,
-    "gender": "F",
-    "generation": 4,
-    "parents": [
-      "Sophia LeCompte Sep"
-    ],
-    "spouses": [],
-    "children": [
-      "Irving William",
-      "Helen Anna Marshall",
-      "James John Marshall, Sr",
-      "Phillip Felix Marshall",
-      "Clifford Robert Marshall, SI",
-      "Thomas Louis Marshall",
-      "Alfred Aloyisius 'Swede' Marshall",
-      "Mary Grace Marshall",
-      "Ray Lloyd Marshall, SI",
-      "Gale Theresa Marshall"
-    ]
-  },
-  {
     "name": "Irving William",
     "birth_year": null,
     "birth_year_circa": false,
@@ -31676,7 +31664,7 @@
     ],
     "children": [
       "Alana Rachael Marshall",
-      "8 Kendall Sean Charger, Jr",
+      "Kendall Sean Charger, Jr",
       "Joseph-Paul William Marshall",
       "Brandon Brett Marshall"
     ]
@@ -31695,7 +31683,7 @@
     ],
     "children": [
       "Alana Rachael Marshall",
-      "8 Kendall Sean Charger, Jr",
+      "Kendall Sean Charger, Jr",
       "Joseph-Paul William Marshall",
       "Brandon Brett Marshall"
     ]
@@ -31762,7 +31750,7 @@
     "children": []
   },
   {
-    "name": "8 Kendall Sean Charger, Jr",
+    "name": "Kendall Sean Charger, Jr",
     "birth_year": 2000,
     "birth_year_circa": false,
     "death_year": null,
@@ -33846,7 +33834,7 @@
       "Harry LaRoche",
       "DeSmet Richard 'Dick' LaRoche",
       "Carrie LaRoche",
-      "4 Mary LaRoche",
+      "Mary LaRoche",
       "Philip Felicia LaRoche, Sr Aug"
     ]
   },
@@ -34925,7 +34913,7 @@
       "Anna Marie LaRoche",
       "Albert LaRoche",
       "William Darrel LaRoche",
-      "Genevieve Fern LaRoche Jun 13",
+      "Genevieve Fern LaRoche",
       "Norma Lee LaRoche",
       "Alfreda Lorraine LaRoche",
       "Bernard Todd LaRoche, Sr",
@@ -35039,10 +35027,10 @@
     "children": []
   },
   {
-    "name": "Genevieve Fern LaRoche Jun 13",
-    "birth_year": null,
+    "name": "Genevieve Fern LaRoche",
+    "birth_year": 1940,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1988,
     "death_year_circa": false,
     "gender": null,
     "generation": 6,
@@ -35074,7 +35062,7 @@
       "Joseph I Rousseau, Sr (Joseph W"
     ],
     "spouses": [
-      "Genevieve Fern LaRoche Jun 13"
+      "Genevieve Fern LaRoche"
     ],
     "children": [
       "Lindsey R Furhman",
@@ -35094,7 +35082,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "Genevieve Fern LaRoche Jun 13",
+      "Genevieve Fern LaRoche",
       "Paul Richard Furhman"
     ],
     "spouses": [],
@@ -35109,7 +35097,7 @@
     "gender": "M",
     "generation": 7,
     "parents": [
-      "Genevieve Fern LaRoche Jun 13",
+      "Genevieve Fern LaRoche",
       "Paul Richard Furhman"
     ],
     "spouses": [],
@@ -35124,7 +35112,7 @@
     "gender": "F",
     "generation": 7,
     "parents": [
-      "Genevieve Fern LaRoche Jun 13",
+      "Genevieve Fern LaRoche",
       "Paul Richard Furhman"
     ],
     "spouses": [],
@@ -35139,7 +35127,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "Genevieve Fern LaRoche Jun 13",
+      "Genevieve Fern LaRoche",
       "Paul Richard Furhman"
     ],
     "spouses": [],
@@ -37320,10 +37308,10 @@
     "children": []
   },
   {
-    "name": "John William LaRoche May 16",
-    "birth_year": null,
+    "name": "John William LaRoche",
+    "birth_year": 1883,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1957,
     "death_year_circa": false,
     "gender": "M",
     "generation": 4,
@@ -37349,7 +37337,7 @@
     "gender": "F",
     "generation": 5,
     "parents": [
-      "John William LaRoche May 16"
+      "John William LaRoche"
     ],
     "spouses": [
       "Gordon Louis DeSmet, SI"
@@ -37415,7 +37403,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "John William LaRoche May 16"
+      "John William LaRoche"
     ],
     "spouses": [],
     "children": []
@@ -37429,7 +37417,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "John William LaRoche May 16"
+      "John William LaRoche"
     ],
     "spouses": [],
     "children": []
@@ -37443,7 +37431,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "John William LaRoche May 16"
+      "John William LaRoche"
     ],
     "spouses": [],
     "children": [
@@ -37473,7 +37461,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "John William LaRoche May 16"
+      "John William LaRoche"
     ],
     "spouses": [],
     "children": [
@@ -37533,7 +37521,7 @@
     "gender": "F",
     "generation": 5,
     "parents": [
-      "John William LaRoche May 16"
+      "John William LaRoche"
     ],
     "spouses": [
       "Robert Hanson"
@@ -37667,7 +37655,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "John William LaRoche May 16"
+      "John William LaRoche"
     ],
     "spouses": [],
     "children": []
@@ -37681,7 +37669,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "John William LaRoche May 16"
+      "John William LaRoche"
     ],
     "spouses": [],
     "children": []
@@ -37760,23 +37748,6 @@
     "parents": [],
     "spouses": [],
     "children": []
-  },
-  {
-    "name": "Mary LaRoche",
-    "birth_year": 1894,
-    "birth_year_circa": false,
-    "death_year": 1984,
-    "death_year_circa": false,
-    "gender": "F",
-    "generation": 4,
-    "parents": [],
-    "spouses": [],
-    "children": [
-      "Caroline F Skartvedt",
-      "Arthur Ellsworth Skartvedt",
-      "Thelma Mary Skartvedt",
-      "Frances Pauline Skartvedt"
-    ]
   },
   {
     "name": "Caroline F Skartvedt",
@@ -37985,26 +37956,9 @@
     ],
     "spouses": [],
     "children": [
-      "Darrel Patrick Ducheneaux Oct 31",
       "LeMoyne D Ducheneaux",
       "Eugene LeMoyne 'Toby' Ducheneaux"
     ]
-  },
-  {
-    "name": "Darrel Patrick Ducheneaux Oct 31",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 6,
-    "parents": [
-      "Josephine Amelda \"Josie' Whitney"
-    ],
-    "spouses": [
-      "Louise Veronica Silva"
-    ],
-    "children": []
   },
   {
     "name": "Louise Veronica Silva",
@@ -38016,9 +37970,12 @@
     "generation": null,
     "parents": [],
     "spouses": [
-      "Darrel Patrick Ducheneaux Oct 31"
+      "Darrel Patrick Ducheneaux"
     ],
-    "children": []
+    "children": [
+      "Darrel Carlton Ducheneaux",
+      "Patrick Lee Ducheneaux"
+    ]
   },
   {
     "name": "Eugene LeMoyne 'Toby' Ducheneaux",
@@ -38180,24 +38137,10 @@
     "children": [
       "Rodney Royce Hogfoss",
       "Richard Meldon Hogfoss",
-      "8 Richard Matthew Murphy Hogfoss",
+      "Richard Matthew Murphy Hogfoss",
       "Pamela Rae Hogfoss",
       "Barry Alan Hogfoss"
     ]
-  },
-  {
-    "name": "Richard Matthew Murphy Hogfoss",
-    "birth_year": 1984,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 8,
-    "parents": [
-      "Rodney Royce Hogfoss"
-    ],
-    "spouses": [],
-    "children": []
   },
   {
     "name": "Kristen Kay Geier",
@@ -38949,7 +38892,7 @@
       "Richard Dean Gray",
       "Donald Marion Gray",
       "Patrick Michael Gray",
-      "7 Jody Lynn Gray"
+      "Jody Lynn Gray"
     ]
   },
   {
@@ -39254,7 +39197,7 @@
     "children": []
   },
   {
-    "name": "7 Jody Lynn Gray",
+    "name": "Jody Lynn Gray",
     "birth_year": 1976,
     "birth_year_circa": false,
     "death_year": null,
@@ -39280,7 +39223,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "7 Jody Lynn Gray"
+      "Jody Lynn Gray"
     ],
     "spouses": [
       "Rhonda Fay Rousseau"
@@ -39347,7 +39290,7 @@
     "gender": "M",
     "generation": 7,
     "parents": [
-      "7 Jody Lynn Gray"
+      "Jody Lynn Gray"
     ],
     "spouses": [],
     "children": []
@@ -39361,7 +39304,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "7 Jody Lynn Gray"
+      "Jody Lynn Gray"
     ],
     "spouses": [
       "Travis Calvin \"T C' Holloway",
@@ -41115,7 +41058,7 @@
     "gender": "F",
     "generation": 5,
     "parents": [
-      "Edward John LeCompte Mar 13"
+      "Edward John LeCompte"
     ],
     "spouses": [],
     "children": [
@@ -42826,8 +42769,7 @@
       "Morris LeCompte",
       "Vivian Esther LeCompte",
       "Louis Charles LeCompte, SI",
-      "David Michael LeCompte, SI",
-      "Memoree Marjorie LeCompte Nov 30"
+      "David Michael LeCompte, SI"
     ]
   },
   {
@@ -43119,7 +43061,6 @@
       "Kristen Suzanne Boehrs",
       "John Royce Boehrs",
       "Steven Gene Young",
-      "8 Tanner Gray",
       "Cathy Ann Gray"
     ]
   },
@@ -44158,7 +44099,7 @@
     "children": []
   },
   {
-    "name": "2on 20",
+    "name": "on 20",
     "birth_year": 1990,
     "birth_year_circa": false,
     "death_year": null,
@@ -44181,7 +44122,7 @@
     "generation": null,
     "parents": [],
     "spouses": [
-      "2on 20",
+      "on 20",
       "Lacee Elizabeth Johnson"
     ],
     "children": []
@@ -44385,7 +44326,9 @@
     "parents": [
       "Joseph Edward 'Sluggo' LeCompte"
     ],
-    "spouses": [],
+    "spouses": [
+      "Richard Verdel Lamb"
+    ],
     "children": [
       "Craig Allen LeCompte"
     ]
@@ -44479,7 +44422,8 @@
     "gender": null,
     "generation": 6,
     "parents": [
-      "Memoree Marjorie LeCompte"
+      "Memoree Marjorie LeCompte",
+      "Richard Verdel Lamb"
     ],
     "spouses": [],
     "children": [
@@ -46163,25 +46107,6 @@
     ]
   },
   {
-    "name": "Kyle Dean Ward (a)",
-    "birth_year": 1978,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 7,
-    "parents": [
-      "Morgan Todd Ward",
-      "Janelle Marie Hall Nov 14;"
-    ],
-    "spouses": [
-      "Kara Lee Dupris"
-    ],
-    "children": [
-      "Cody Lamonte Todd Ward"
-    ]
-  },
-  {
     "name": "Kara Lee Dupris",
     "birth_year": 1967,
     "birth_year_circa": false,
@@ -46496,7 +46421,7 @@
     "name": "Robert Barton Ward",
     "birth_year": 1976,
     "birth_year_circa": false,
-    "death_year": 1975,
+    "death_year": null,
     "death_year_circa": false,
     "gender": null,
     "generation": 6,
@@ -51353,7 +51278,7 @@
     "children": [
       "Gerald (Budd) LeCompte",
       "Elmer Moses 'Babe' LeCompte",
-      "8 Casie Darlyne Hill",
+      "Casie Darlyne Hill",
       "Dennis LeCompte",
       "Theodore Louis LeCompte"
     ]
@@ -52299,7 +52224,6 @@
     ],
     "spouses": [],
     "children": [
-      "Casie Darlyne Hill",
       "Cari Christine Hill",
       "Cara Leigh Four Bear",
       "Heidi Jo Vivian Three Legs",
@@ -52308,7 +52232,7 @@
     ]
   },
   {
-    "name": "8 Casie Darlyne Hill",
+    "name": "Casie Darlyne Hill",
     "birth_year": 1981,
     "birth_year_circa": false,
     "death_year": null,
@@ -52688,7 +52612,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Casie Darlyne Hill"
+      "Casie Darlyne Hill"
     ],
     "spouses": [
       "Francis Meader"
@@ -52718,7 +52642,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Casie Darlyne Hill"
+      "Casie Darlyne Hill"
     ],
     "spouses": [],
     "children": []
@@ -52732,7 +52656,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Casie Darlyne Hill"
+      "Casie Darlyne Hill"
     ],
     "spouses": [],
     "children": []
@@ -52746,7 +52670,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Casie Darlyne Hill"
+      "Casie Darlyne Hill"
     ],
     "spouses": [],
     "children": []
@@ -52760,7 +52684,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Casie Darlyne Hill"
+      "Casie Darlyne Hill"
     ],
     "spouses": [],
     "children": []
@@ -52774,7 +52698,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Casie Darlyne Hill"
+      "Casie Darlyne Hill"
     ],
     "spouses": [],
     "children": []
@@ -52877,7 +52801,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Casie Darlyne Hill"
+      "Casie Darlyne Hill"
     ],
     "spouses": [],
     "children": []
@@ -52891,7 +52815,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Casie Darlyne Hill"
+      "Casie Darlyne Hill"
     ],
     "spouses": [],
     "children": []
@@ -52905,7 +52829,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Casie Darlyne Hill"
+      "Casie Darlyne Hill"
     ],
     "spouses": [],
     "children": []
@@ -52919,7 +52843,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "8 Casie Darlyne Hill"
+      "Casie Darlyne Hill"
     ],
     "spouses": [],
     "children": []
@@ -54660,7 +54584,7 @@
     "spouses": [],
     "children": [
       "Jay Franklin Brutsman",
-      "8 Joseph Scott Busch",
+      "Joseph Scott Busch",
       "Linda Kathleen Brutsman",
       "James William Brutsman"
     ]
@@ -54808,12 +54732,12 @@
     "children": []
   },
   {
-    "name": "8 Joseph Scott Busch",
+    "name": "Joseph Scott Busch",
     "birth_year": 1995,
     "birth_year_circa": false,
     "death_year": null,
     "death_year_circa": false,
-    "gender": null,
+    "gender": "M",
     "generation": 6,
     "parents": [
       "Grace May Cummings"
@@ -54837,7 +54761,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "8 Joseph Scott Busch"
+      "Joseph Scott Busch"
     ],
     "spouses": [],
     "children": []
@@ -54851,7 +54775,7 @@
     "gender": "F",
     "generation": 7,
     "parents": [
-      "8 Joseph Scott Busch"
+      "Joseph Scott Busch"
     ],
     "spouses": [],
     "children": []
@@ -54865,7 +54789,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "8 Joseph Scott Busch"
+      "Joseph Scott Busch"
     ],
     "spouses": [],
     "children": []
@@ -54879,7 +54803,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "8 Joseph Scott Busch"
+      "Joseph Scott Busch"
     ],
     "spouses": [],
     "children": []
@@ -54893,7 +54817,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "8 Joseph Scott Busch"
+      "Joseph Scott Busch"
     ],
     "spouses": [],
     "children": []
@@ -54907,7 +54831,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "8 Joseph Scott Busch"
+      "Joseph Scott Busch"
     ],
     "spouses": [],
     "children": []
@@ -57553,20 +57477,6 @@
     "children": []
   },
   {
-    "name": "Dawn Rae Horner",
-    "birth_year": 1971,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 7,
-    "parents": [
-      "Jeanette Marie Walters"
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
     "name": "Charles Michael Cumnings",
     "birth_year": null,
     "birth_year_circa": false,
@@ -57842,7 +57752,7 @@
   },
   {
     "name": "Eleanor Lucy Curmings",
-    "birth_year": 1097,
+    "birth_year": null,
     "birth_year_circa": false,
     "death_year": 1986,
     "death_year_circa": false,
@@ -57905,24 +57815,6 @@
     "children": []
   },
   {
-    "name": "Harold Kenneth Hill",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 5,
-    "parents": [
-      "Eleanor Lucy Curmings"
-    ],
-    "spouses": [
-      "Shirley Hardman"
-    ],
-    "children": [
-      "Joan Hill"
-    ]
-  },
-  {
     "name": "Shirley Hardman",
     "birth_year": null,
     "birth_year_circa": false,
@@ -57934,7 +57826,10 @@
     "spouses": [
       "Harold Kenneth Hill"
     ],
-    "children": []
+    "children": [
+      "Joan Hill",
+      "Jean Hill"
+    ]
   },
   {
     "name": "John Cunnings",
@@ -59338,7 +59233,7 @@
   },
   {
     "name": "Kathrine Deborah Biggins",
-    "birth_year": 1091,
+    "birth_year": null,
     "birth_year_circa": false,
     "death_year": 1984,
     "death_year_circa": false,
@@ -61713,10 +61608,10 @@
     ],
     "children": [
       "Catherine Lily Claymore",
-      "Julia Mary Claymore May 9",
+      "Julia Mary Claymore",
       "Edith Veronica Claymore",
       "Thomas William Claymore",
-      "7 Jason Bowker",
+      "Jason Bowker",
       "Edgar Ramsey"
     ]
   },
@@ -66165,7 +66060,7 @@
       "Allen Arrel Avery",
       "Leon LeRoy Avery",
       "Lamarr Paul Avery",
-      "8 Raymond David Avery",
+      "Raymond David Avery",
       "Muretta Ann Avery",
       "Rebecca Sue Avery",
       "Laddie Joe Avery"
@@ -66428,7 +66323,7 @@
     "children": []
   },
   {
-    "name": "8 Raymond David Avery",
+    "name": "Raymond David Avery",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -66454,7 +66349,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "8 Raymond David Avery"
+      "Raymond David Avery"
     ],
     "spouses": [],
     "children": []
@@ -66468,7 +66363,7 @@
     "gender": "F",
     "generation": 8,
     "parents": [
-      "8 Raymond David Avery"
+      "Raymond David Avery"
     ],
     "spouses": [],
     "children": []
@@ -66482,7 +66377,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "8 Raymond David Avery"
+      "Raymond David Avery"
     ],
     "spouses": [],
     "children": []
@@ -67342,7 +67237,7 @@
     "generation": 7,
     "parents": [
       "Paul Richard Furhman",
-      "Genevieve Fern LaRoche Jun 13"
+      "Genevieve Fern LaRoche"
     ],
     "spouses": [],
     "children": []
@@ -67357,7 +67252,7 @@
     "generation": 7,
     "parents": [
       "Paul Richard Furhman",
-      "Genevieve Fern LaRoche Jun 13"
+      "Genevieve Fern LaRoche"
     ],
     "spouses": [],
     "children": []
@@ -71811,7 +71706,7 @@
     "name": "Teacy 1 Sehe Schumachec No",
     "birth_year": 1962,
     "birth_year_circa": false,
-    "death_year": 1956,
+    "death_year": null,
     "death_year_circa": false,
     "gender": null,
     "generation": 7,
@@ -74061,7 +73956,7 @@
     "spouses": [],
     "children": [
       "Riley Telesphar Brown",
-      "Joseph Albert Brown Sep 22",
+      "Joseph Albert Brown",
       "Leta Laura Brown",
       "Marie Eunice Brown",
       "Elizabeth Lucy Brown",
@@ -74099,10 +73994,10 @@
     "children": []
   },
   {
-    "name": "Joseph Albert Brown Sep 22",
-    "birth_year": null,
+    "name": "Joseph Albert Brown",
+    "birth_year": 1915,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1916,
     "death_year_circa": false,
     "gender": "M",
     "generation": 5,
@@ -77438,28 +77333,9 @@
     ],
     "spouses": [],
     "children": [
-      "Edward John LeCompte Mar 13",
       "Louis LeCompte, JI",
       "Susan LeCompte",
       "Cyril Moses 'Casey' LeCompte"
-    ]
-  },
-  {
-    "name": "Edward John LeCompte Mar 13",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 4,
-    "parents": [
-      "Mary Julia Narcelle"
-    ],
-    "spouses": [],
-    "children": [
-      "Julia Clara LeCompte",
-      "Emma Arliene LeCompte",
-      "Marcelline Martina LeCompte"
     ]
   },
   {
@@ -77517,7 +77393,7 @@
     "gender": "F",
     "generation": 5,
     "parents": [
-      "Edward John LeCompte Mar 13"
+      "Edward John LeCompte"
     ],
     "spouses": [],
     "children": []
@@ -78066,20 +77942,6 @@
     "spouses": [
       "Steven Gene Young"
     ],
-    "children": []
-  },
-  {
-    "name": "8 Tanner Gray",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 7,
-    "parents": [
-      "Desiree Maureen LeCompte"
-    ],
-    "spouses": [],
     "children": []
   },
   {
@@ -78638,23 +78500,6 @@
     ]
   },
   {
-    "name": "Memoree Marjorie LeCompte Nov 30",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 5,
-    "parents": [
-      "Casper Eugene LeCompte",
-      "Virginia LaPlante"
-    ],
-    "spouses": [
-      "Richard Verdel Lamb"
-    ],
-    "children": []
-  },
-  {
     "name": "Richard Verdel Lamb",
     "birth_year": 1935,
     "birth_year_circa": false,
@@ -78664,9 +78509,11 @@
     "generation": null,
     "parents": [],
     "spouses": [
-      "Memoree Marjorie LeCompte Nov 30"
+      "Memoree Marjorie LeCompte"
     ],
-    "children": []
+    "children": [
+      "Craig Allen LeCompte"
+    ]
   },
   {
     "name": "Mary Louise Narcelle, I Feb",
@@ -80565,7 +80412,7 @@
       "Joseph E Claymore",
       "Bazile George Claymore",
       "Louise Claymore",
-      "5 June Bernice Marie Forte"
+      "June Bernice Marie Forte"
     ]
   },
   {
@@ -81988,7 +81835,7 @@
     "children": []
   },
   {
-    "name": "5 June Bernice Marie Forte",
+    "name": "June Bernice Marie Forte",
     "birth_year": 1922,
     "birth_year_circa": false,
     "death_year": null,
@@ -82313,7 +82160,7 @@
     "gender": "M",
     "generation": 5,
     "parents": [
-      "5 June Bernice Marie Forte"
+      "June Bernice Marie Forte"
     ],
     "spouses": [
       "Rose Helen Gayton"
@@ -82343,7 +82190,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "5 June Bernice Marie Forte"
+      "June Bernice Marie Forte"
     ],
     "spouses": [],
     "children": [
@@ -83154,7 +83001,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "5 June Bernice Marie Forte"
+      "June Bernice Marie Forte"
     ],
     "spouses": [
       "Nathan Chase"
@@ -83184,7 +83031,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "5 June Bernice Marie Forte"
+      "June Bernice Marie Forte"
     ],
     "spouses": [],
     "children": [
@@ -83274,7 +83121,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "5 June Bernice Marie Forte"
+      "June Bernice Marie Forte"
     ],
     "spouses": [],
     "children": [
@@ -83319,7 +83166,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "5 June Bernice Marie Forte"
+      "June Bernice Marie Forte"
     ],
     "spouses": [],
     "children": [
@@ -83515,18 +83362,18 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "5 June Bernice Marie Forte"
+      "June Bernice Marie Forte"
     ],
     "spouses": [
-      "Robert C Hoehner Apr 25"
+      "Robert C Hoehner - Oct"
     ],
     "children": [
       "Judith Ann Hoehner"
     ]
   },
   {
-    "name": "Robert C Hoehner Apr 25",
-    "birth_year": null,
+    "name": "Robert C Hoehner - Oct",
+    "birth_year": 1921,
     "birth_year_circa": false,
     "death_year": null,
     "death_year_circa": false,
@@ -83550,7 +83397,7 @@
     "generation": 6,
     "parents": [
       "Ione Marie Claymore",
-      "Robert C Hoehner Apr 25"
+      "Robert C Hoehner - Oct"
     ],
     "spouses": [],
     "children": []
@@ -83564,7 +83411,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "5 June Bernice Marie Forte"
+      "June Bernice Marie Forte"
     ],
     "spouses": [],
     "children": [
@@ -83577,8 +83424,7 @@
       "Michael Linn Ducheneaux",
       "Terrill Susan \"Terri' Ducheneaux",
       "Jai Lane Hill Jun",
-      "Cody Wynn Hill",
-      "Matthew Robert Hill May 16"
+      "Cody Wynn Hill"
     ]
   },
   {
@@ -83784,20 +83630,6 @@
     "children": []
   },
   {
-    "name": "Matthew Robert Hill May 16",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 6,
-    "parents": [
-      "Evelyn Pauline"
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
     "name": "Coral Arlene Claymore",
     "birth_year": 1938,
     "birth_year_circa": false,
@@ -83806,7 +83638,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "5 June Bernice Marie Forte"
+      "June Bernice Marie Forte"
     ],
     "spouses": [
       "Richard Robert Ducheneaux"
@@ -88815,17 +88647,17 @@
       "Donald Dean \"D D'"
     ],
     "spouses": [
-      "Ruby Takes The Gun Oct 14"
+      "Ruby Takes The Gun"
     ],
     "children": [
       "Skeets Coleton Dolphus"
     ]
   },
   {
-    "name": "Ruby Takes The Gun Oct 14",
-    "birth_year": null,
+    "name": "Ruby Takes The Gun",
+    "birth_year": 1944,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1987,
     "death_year_circa": false,
     "gender": null,
     "generation": null,
@@ -88847,7 +88679,7 @@
     "generation": 7,
     "parents": [
       "Vaughn Allen Dolphus",
-      "Ruby Takes The Gun Oct 14"
+      "Ruby Takes The Gun"
     ],
     "spouses": [],
     "children": []
@@ -90493,7 +90325,7 @@
     "name": "Mechael Ran to Foy tug No",
     "birth_year": 1981,
     "birth_year_circa": false,
-    "death_year": 1979,
+    "death_year": null,
     "death_year_circa": false,
     "gender": null,
     "generation": 7,
@@ -90814,7 +90646,7 @@
     "name": "Alta Roletta Pearman",
     "birth_year": 1951,
     "birth_year_circa": false,
-    "death_year": 1929,
+    "death_year": null,
     "death_year_circa": false,
     "gender": null,
     "generation": 5,
@@ -94128,7 +93960,7 @@
     "spouses": [],
     "children": [
       "Earl Henry Claymore",
-      "7 Dan Edward Yellow Fat",
+      "Dan Edward Yellow Fat",
       "Thelma Lucille Claymore",
       "Lavina Clara Claymore",
       "Mary Louise Claymore"
@@ -94181,7 +94013,7 @@
     "children": []
   },
   {
-    "name": "7 Dan Edward Yellow Fat",
+    "name": "Dan Edward Yellow Fat",
     "birth_year": 1971,
     "birth_year_circa": false,
     "death_year": null,
@@ -94218,7 +94050,7 @@
     "gender": null,
     "generation": 6,
     "parents": [
-      "7 Dan Edward Yellow Fat"
+      "Dan Edward Yellow Fat"
     ],
     "spouses": [],
     "children": [
@@ -94248,7 +94080,7 @@
     "gender": null,
     "generation": 6,
     "parents": [
-      "7 Dan Edward Yellow Fat"
+      "Dan Edward Yellow Fat"
     ],
     "spouses": [
       "Cynthia M Bendickson"
@@ -95042,7 +94874,7 @@
   },
   {
     "name": "BODY Smith III 3",
-    "birth_year": 199,
+    "birth_year": null,
     "birth_year_circa": false,
     "death_year": 1966,
     "death_year_circa": false,
@@ -98269,9 +98101,9 @@
     ],
     "children": [
       "Catherine Lily Claymore",
-      "Julia Mary Claymore May 9",
+      "Julia Mary Claymore",
       "Thomas William Claymore",
-      "7 Jason Bowker",
+      "Jason Bowker",
       "Edgar Ramsey"
     ]
   },
@@ -98374,10 +98206,10 @@
     "children": []
   },
   {
-    "name": "Julia Mary Claymore May 9",
-    "birth_year": null,
+    "name": "Julia Mary Claymore",
+    "birth_year": 1904,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1918,
     "death_year_circa": false,
     "gender": "F",
     "generation": 4,
@@ -99509,8 +99341,7 @@
     ],
     "children": [
       "Shannon Bowker",
-      "Sterling Charles Bowker",
-      "Jason Bowker"
+      "Sterling Charles Bowker"
     ]
   },
   {
@@ -99527,8 +99358,7 @@
     ],
     "children": [
       "Shannon Bowker",
-      "Sterling Charles Bowker",
-      "Jason Bowker"
+      "Sterling Charles Bowker"
     ]
   },
   {
@@ -99562,7 +99392,7 @@
     "children": []
   },
   {
-    "name": "7 Jason Bowker",
+    "name": "Jason Bowker",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -99778,7 +99608,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "7 Jason Bowker"
+      "Jason Bowker"
     ],
     "spouses": [
       "Elizabeth Koenig"
@@ -99816,7 +99646,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "7 Jason Bowker"
+      "Jason Bowker"
     ],
     "spouses": [
       "Martin Marty LeBeau"
@@ -100337,7 +100167,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "7 Jason Bowker"
+      "Jason Bowker"
     ],
     "spouses": [
       "Orlin George Jewett"
@@ -100390,7 +100220,7 @@
     "gender": "F",
     "generation": 5,
     "parents": [
-      "7 Jason Bowker"
+      "Jason Bowker"
     ],
     "spouses": [],
     "children": [
@@ -100435,7 +100265,7 @@
     "gender": "M",
     "generation": 5,
     "parents": [
-      "7 Jason Bowker"
+      "Jason Bowker"
     ],
     "spouses": [
       "Mardel Joyce Simons"
@@ -100559,7 +100389,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "7 Jason Bowker"
+      "Jason Bowker"
     ],
     "spouses": [
       "Carla Jane Fielder"
@@ -100609,7 +100439,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "7 Jason Bowker"
+      "Jason Bowker"
     ],
     "spouses": [],
     "children": []
@@ -100623,7 +100453,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "7 Jason Bowker"
+      "Jason Bowker"
     ],
     "spouses": [],
     "children": [
@@ -101137,8 +100967,7 @@
       "Mackenzie Ellen Lawrence",
       "Shawn Paul Smith, Sr",
       "Raquel Rae 'Rocky' Ducheneaux",
-      "Raquel Rae Ducheneaux",
-      "Shawn Paul Smith, SI Feb 27"
+      "Raquel Rae Ducheneaux"
     ]
   },
   {
@@ -105141,16 +104970,16 @@
     ],
     "spouses": [],
     "children": [
-      "(baby girl) Thompson Mar 5",
+      "(baby girl) Thompson",
       "Delbert Gene Thompson",
       "Theresa Marie Thompson"
     ]
   },
   {
-    "name": "(baby girl) Thompson Mar 5",
-    "birth_year": null,
+    "name": "(baby girl) Thompson",
+    "birth_year": 1957,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1957,
     "death_year_circa": false,
     "gender": null,
     "generation": 6,
@@ -105973,7 +105802,7 @@
       "Amy DeSmet",
       "Moses DeSmet",
       "Winifred Louise DeSmet",
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ]
   },
   {
@@ -106707,16 +106536,15 @@
       "Yvette Yvonne Estes"
     ],
     "spouses": [
-      "Robert Earlwin Lofton, SI Jan 24",
       "Robert Earlwin Lofton, SI"
     ],
     "children": []
   },
   {
-    "name": "Robert Earlwin Lofton, SI Jan 24",
-    "birth_year": null,
+    "name": "Robert Earlwin Lofton, SI",
+    "birth_year": 1947,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1998,
     "death_year_circa": false,
     "gender": null,
     "generation": null,
@@ -107199,7 +107027,9 @@
     "death_year_circa": false,
     "gender": null,
     "generation": 5,
-    "parents": [],
+    "parents": [
+      "Lawrence John Meeter"
+    ],
     "spouses": [],
     "children": []
   },
@@ -110244,7 +110074,7 @@
     "children": [
       "Pauline",
       "Patricia Rose High Bear",
-      "Woodrow Dean High Bear Mar 29",
+      "Woodrow Dean High Bear",
       "Nona Kay High Bear",
       "Michael Feron High Bear",
       "Jolene Lynn High Bear",
@@ -110466,10 +110296,10 @@
     "children": []
   },
   {
-    "name": "Woodrow Dean High Bear Mar 29",
-    "birth_year": null,
+    "name": "Woodrow Dean High Bear",
+    "birth_year": 1965,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1977,
     "death_year_circa": false,
     "gender": null,
     "generation": 6,
@@ -111833,8 +111663,7 @@
     "children": [
       "Christian LaMar Marshall",
       "Caleb Allen Charger May",
-      "James Lester Charger",
-      "Kendall Sean Charger, Jr"
+      "James Lester Charger"
     ]
   },
   {
@@ -111854,20 +111683,6 @@
   {
     "name": "James Lester Charger",
     "birth_year": 1997,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": "M",
-    "generation": 7,
-    "parents": [
-      "Kendall Sean Charger"
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
-    "name": "Kendall Sean Charger, Jr",
-    "birth_year": 2000,
     "birth_year_circa": false,
     "death_year": null,
     "death_year_circa": false,
@@ -113091,7 +112906,7 @@
       "Amy DeSmet",
       "Moses DeSmet",
       "Winifred Louise DeSmet",
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ]
   },
   {
@@ -113109,10 +112924,10 @@
     "children": []
   },
   {
-    "name": "Mary (Mamie) DeSmet May 29",
-    "birth_year": null,
+    "name": "Mary (Mamie) DeSmet",
+    "birth_year": 1889,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1964,
     "death_year_circa": false,
     "gender": "F",
     "generation": 3,
@@ -113145,7 +112960,7 @@
     "gender": null,
     "generation": 4,
     "parents": [
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ],
     "spouses": [],
     "children": [
@@ -113190,7 +113005,7 @@
     "gender": null,
     "generation": 4,
     "parents": [
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ],
     "spouses": [],
     "children": [
@@ -113428,7 +113243,7 @@
     "gender": null,
     "generation": 4,
     "parents": [
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ],
     "spouses": [
       "Everett West"
@@ -113511,7 +113326,7 @@
     "gender": null,
     "generation": 4,
     "parents": [
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ],
     "spouses": [],
     "children": [
@@ -113663,7 +113478,7 @@
     "gender": null,
     "generation": 4,
     "parents": [
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ],
     "spouses": [],
     "children": [
@@ -113723,7 +113538,7 @@
     "gender": null,
     "generation": 4,
     "parents": [
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ],
     "spouses": [],
     "children": []
@@ -113737,7 +113552,7 @@
     "gender": null,
     "generation": 4,
     "parents": [
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ],
     "spouses": [],
     "children": []
@@ -113751,7 +113566,7 @@
     "gender": null,
     "generation": 4,
     "parents": [
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ],
     "spouses": [
       "Amanda Lautner"
@@ -113851,7 +113666,7 @@
     "gender": null,
     "generation": 4,
     "parents": [
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ],
     "spouses": [],
     "children": []
@@ -113860,12 +113675,12 @@
     "name": "Carl Victor Thompson",
     "birth_year": 1992,
     "birth_year_circa": false,
-    "death_year": 1974,
+    "death_year": null,
     "death_year_circa": false,
     "gender": null,
     "generation": 4,
     "parents": [
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ],
     "spouses": [],
     "children": [
@@ -113881,7 +113696,7 @@
     "gender": null,
     "generation": 4,
     "parents": [
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ],
     "spouses": [],
     "children": []
@@ -113895,7 +113710,7 @@
     "gender": "F",
     "generation": 4,
     "parents": [
-      "Mary (Mamie) DeSmet May 29"
+      "Mary (Mamie) DeSmet"
     ],
     "spouses": [],
     "children": []
@@ -115312,7 +115127,7 @@
       "Orlando Fast Eagle",
       "Comer Paul Fast Eagle",
       "Victoria White Face",
-      "Loretta White Face Dec 31"
+      "Loretta White Face"
     ]
   },
   {
@@ -115449,10 +115264,10 @@
     "children": []
   },
   {
-    "name": "Loretta White Face Dec 31",
-    "birth_year": null,
+    "name": "Loretta White Face",
+    "birth_year": 1932,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1933,
     "death_year_circa": false,
     "gender": null,
     "generation": 6,
@@ -115714,7 +115529,8 @@
       "Red Flying or Hunts Horses",
       "Walking Red Snow Woman Dec",
       "Strong Woman",
-      "Red Flying"
+      "Red Flying",
+      "Walking Red Snow Woman"
     ]
   },
   {
@@ -115733,7 +115549,8 @@
       "Red Flying or Hunts Horses",
       "Walking Red Snow Woman Dec",
       "Strong Woman",
-      "Red Flying"
+      "Red Flying",
+      "Walking Red Snow Woman"
     ]
   },
   {
@@ -115806,7 +115623,7 @@
       "Nice Talker Woman"
     ],
     "spouses": [
-      "Annie Laundreaux Sep 24"
+      "Annie Laundreaux"
     ],
     "children": [
       "Lawrence John Meeter",
@@ -115815,10 +115632,10 @@
     ]
   },
   {
-    "name": "Annie Laundreaux Sep 24",
-    "birth_year": null,
+    "name": "Annie Laundreaux",
+    "birth_year": 1876,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1945,
     "death_year_circa": false,
     "gender": "F",
     "generation": null,
@@ -115993,9 +115810,7 @@
       "John Bazil Claymore"
     ],
     "children": [
-      "Julia Mary Claymore",
       "Edith Veronica Claymore",
-      "8 Shannon Bowker",
       "Ellen W 'Babe' Claymore",
       "Leonard Basil Claymore"
     ]
@@ -116014,8 +115829,6 @@
     ],
     "children": [
       "Edith Veronica Claymore",
-      "Julia Mary Claymore",
-      "8 Shannon Bowker",
       "Ellen W 'Babe' Claymore",
       "Leonard Basil Claymore"
     ]
@@ -116231,7 +116044,7 @@
       "Chester Armstrong Four Bear",
       "(baby boy) Four Bear",
       "Anita Jane Meeter",
-      "Shirley Ann Meeter Mar 28",
+      "Shirley Ann Meeter",
       "Frank James Meeter",
       "Marion Lou Meeter"
     ]
@@ -116529,7 +116342,9 @@
       "Red White"
     ],
     "children": [
-      "John Meeter"
+      "John Meeter",
+      "James Meeter, SI",
+      "(baby girl' Meeter"
     ]
   },
   {
@@ -116544,7 +116359,10 @@
     "spouses": [
       "Red Flying"
     ],
-    "children": []
+    "children": [
+      "James Meeter, SI",
+      "(baby girl' Meeter"
+    ]
   },
   {
     "name": "Nice Talker Woman",
@@ -116576,7 +116394,7 @@
     "generation": 5,
     "parents": [
       "Frank Meeter",
-      "Annie Laundreaux Sep 24"
+      "Annie Laundreaux"
     ],
     "spouses": [],
     "children": [
@@ -116584,7 +116402,7 @@
       "Richard Lawrence 'Dutch' Meeter",
       "Zelma Nina Meeter",
       "Pearl Mildred Midge' Meeter",
-      "Cedric Cecil 'Cedar' Meeter Nov 1",
+      "Cedric Cecil 'Cedar' Meeter",
       "Delores Doreen \"Toni' Meeter",
       "Darlene Ruth Meeter"
     ]
@@ -116688,20 +116506,6 @@
       "Lawrence George 'Larry' Estes",
       "Arthur Ramon 'Chad' Bridwell"
     ]
-  },
-  {
-    "name": "Robert Earlwin Lofton, SI",
-    "birth_year": 1947,
-    "birth_year_circa": false,
-    "death_year": 1998,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": null,
-    "parents": [],
-    "spouses": [
-      "Pamela Yvonne Apple"
-    ],
-    "children": []
   },
   {
     "name": "Lawrence George 'Larry' Estes",
@@ -116864,20 +116668,6 @@
     "spouses": [
       "Winona Powless"
     ],
-    "children": []
-  },
-  {
-    "name": "Cedric Cecil 'Cedar' Meeter Nov 1",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 6,
-    "parents": [
-      "Lawrence John Meeter"
-    ],
-    "spouses": [],
     "children": []
   },
   {
@@ -117514,7 +117304,7 @@
       "Chester Armstrong Four Bear",
       "(baby boy) Four Bear",
       "Anita Jane Meeter",
-      "Shirley Ann Meeter Mar 28",
+      "Shirley Ann Meeter",
       "Frank James Meeter",
       "Marion Lou Meeter"
     ]
@@ -118449,7 +118239,7 @@
     ],
     "children": [
       "Beatrice Charmayne Four Bear",
-      "Chauncey Arthur Four Bear, Jr Jun 26",
+      "Chauncey Arthur Four Bear, Jr —",
       "Julia Marlene Four Bear",
       "Frank James Four Bear",
       "Richard Dale Four Bear",
@@ -118470,7 +118260,7 @@
     ],
     "children": [
       "Beatrice Charmayne Four Bear",
-      "Chauncey Arthur Four Bear, Jr Jun 26",
+      "Chauncey Arthur Four Bear, Jr —",
       "Julia Marlene Four Bear",
       "Frank James Four Bear",
       "Richard Dale Four Bear",
@@ -118493,10 +118283,10 @@
     "children": []
   },
   {
-    "name": "Chauncey Arthur Four Bear, Jr Jun 26",
-    "birth_year": null,
+    "name": "Chauncey Arthur Four Bear, Jr —",
+    "birth_year": 1962,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1981,
     "death_year_circa": false,
     "gender": "M",
     "generation": 7,
@@ -118843,20 +118633,6 @@
     ]
   },
   {
-    "name": "Casie Darlyne Hill",
-    "birth_year": 1981,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 8,
-    "parents": [
-      "Ramona Kay Four Bear"
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
     "name": "William Faye Three Legs",
     "birth_year": 1960,
     "birth_year_circa": false,
@@ -119003,10 +118779,10 @@
     "children": []
   },
   {
-    "name": "Shirley Ann Meeter Mar 28",
-    "birth_year": null,
+    "name": "Shirley Ann Meeter",
+    "birth_year": 1939,
     "birth_year_circa": false,
-    "death_year": null,
+    "death_year": 1985,
     "death_year_circa": false,
     "gender": null,
     "generation": 6,
@@ -119031,7 +118807,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "Shirley Ann Meeter Mar 28"
+      "Shirley Ann Meeter"
     ],
     "spouses": [
       "Jim Swick"
@@ -119080,7 +118856,7 @@
     "gender": "M",
     "generation": 7,
     "parents": [
-      "Shirley Ann Meeter Mar 28"
+      "Shirley Ann Meeter"
     ],
     "spouses": [],
     "children": []
@@ -119094,7 +118870,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "Shirley Ann Meeter Mar 28"
+      "Shirley Ann Meeter"
     ],
     "spouses": [],
     "children": []
@@ -119108,7 +118884,7 @@
     "gender": null,
     "generation": 7,
     "parents": [
-      "Shirley Ann Meeter Mar 28"
+      "Shirley Ann Meeter"
     ],
     "spouses": [],
     "children": []
@@ -119260,24 +119036,10 @@
     "generation": 5,
     "parents": [
       "Frank Meeter",
-      "Annie Laundreaux Sep 24"
+      "Annie Laundreaux"
     ],
     "spouses": [],
     "children": []
-  },
-  {
-    "name": "0 4 004",
-    "birth_year": 1976,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 1,
-    "parents": [],
-    "spouses": [],
-    "children": [
-      "Walking Red Snow Woman"
-    ]
   },
   {
     "name": "Breast or Samuel",
@@ -119884,21 +119646,6 @@
     ]
   },
   {
-    "name": "Julia Mary Claymore",
-    "birth_year": 1904,
-    "birth_year_circa": false,
-    "death_year": 1918,
-    "death_year_circa": false,
-    "gender": "F",
-    "generation": 5,
-    "parents": [
-      "Catherine",
-      "Thomas wright"
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
     "name": "Ryan Besar Emery",
     "birth_year": null,
     "birth_year_circa": false,
@@ -120156,36 +119903,6 @@
     "spouses": [
       "Alva Hope Houston"
     ],
-    "children": []
-  },
-  {
-    "name": "8 Shannon Bowker",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 5,
-    "parents": [
-      "Catherine",
-      "Thomas wright"
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
-    "name": "Jason Bowker",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 8,
-    "parents": [
-      "Diane Marie Bowker",
-      "Charles Miller"
-    ],
-    "spouses": [],
     "children": []
   },
   {
@@ -120666,21 +120383,6 @@
     "parents": [
       "Anthony Clair 'A C' Ducheneaux",
       "Julia Marie Jewett"
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
-    "name": "Shawn Paul Smith, SI Feb 27",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 7,
-    "parents": [
-      "Gregory Keith Ducheneaux, I",
-      "Georgia Ann LaPlante"
     ],
     "spouses": [],
     "children": []
@@ -121597,7 +121299,7 @@
   },
   {
     "name": "Dale Warren Yellow Horse )",
-    "birth_year": 9694,
+    "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
     "death_year_circa": false,
@@ -123875,7 +123577,10 @@
     "death_year_circa": false,
     "gender": "M",
     "generation": 3,
-    "parents": [],
+    "parents": [
+      "Red Flying",
+      "Red White"
+    ],
     "spouses": [
       "White Weasel Woman/Belle"
     ],
@@ -124024,7 +123729,10 @@
     "death_year_circa": false,
     "gender": null,
     "generation": 3,
-    "parents": [],
+    "parents": [
+      "Red Flying",
+      "Red White"
+    ],
     "spouses": [],
     "children": []
   },
@@ -124037,7 +123745,8 @@
     "gender": null,
     "generation": 2,
     "parents": [
-      "0 4 004"
+      "Hit On The Leg",
+      "Red Buffalo Woman"
     ],
     "spouses": [
       "Black Shield"

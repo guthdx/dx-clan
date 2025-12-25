@@ -62,29 +62,30 @@ def extract_years(text: str) -> tuple:
     birth_circa = False
     death_circa = False
 
-    # Pattern for date ranges like "Sep 14, 1910 - Jul 20, 1981"
+    # Pattern for date ranges like "Sep 14, 1910 - Jul 20, 1981" or "1893 - Dec 21, 1915"
+    # The pattern handles: YEAR - [optional month day] YEAR
     range_pattern = r'(\d{4})\s*[-–]\s*(?:[A-Za-z]+\s+\d+,?\s*)?(\d{4})'
     range_match = re.search(range_pattern, text)
     if range_match:
         birth_year = int(range_match.group(1))
         death_year = int(range_match.group(2))
-        return birth_year, birth_circa, death_year, death_circa
+        # Skip the date_pattern logic since we already found the range
+    else:
+        # Pattern for full dates like "May 3, 1941"
+        date_pattern = r'([A-Za-z]+)\s+(\d{1,2}),?\s*(\d{4})'
+        dates = re.findall(date_pattern, text)
 
-    # Pattern for full dates like "May 3, 1941"
-    date_pattern = r'([A-Za-z]+)\s+(\d{1,2}),?\s*(\d{4})'
-    dates = re.findall(date_pattern, text)
-
-    if len(dates) >= 2:
-        birth_year = int(dates[0][2])
-        death_year = int(dates[1][2])
-    elif len(dates) == 1:
-        # Single date - check context
-        if 'b.' in text.lower() or '-' not in text:
+        if len(dates) >= 2:
             birth_year = int(dates[0][2])
-        elif 'd.' in text.lower():
-            death_year = int(dates[0][2])
-        else:
-            birth_year = int(dates[0][2])
+            death_year = int(dates[1][2])
+        elif len(dates) == 1:
+            # Single date - check context
+            if 'b.' in text.lower() or '-' not in text:
+                birth_year = int(dates[0][2])
+            elif 'd.' in text.lower():
+                death_year = int(dates[0][2])
+            else:
+                birth_year = int(dates[0][2])
 
     # Try simpler year patterns if no dates found
     if birth_year is None and death_year is None:
@@ -102,6 +103,21 @@ def extract_years(text: str) -> tuple:
         birth_circa = True
     if death_year and re.search(r'c\.?\s*' + str(death_year), text):
         death_circa = True
+
+    # Validate years are reasonable (1650-2025)
+    # Reject obvious OCR errors like 199, 1097, 9694
+    if birth_year and (birth_year < 1650 or birth_year > 2025):
+        birth_year = None
+        birth_circa = False
+    if death_year and (death_year < 1650 or death_year > 2025):
+        death_year = None
+        death_circa = False
+
+    # Also check death is not before birth
+    if birth_year and death_year and death_year < birth_year:
+        # Keep the more plausible one (usually birth year is more reliable)
+        death_year = None
+        death_circa = False
 
     return birth_year, birth_circa, death_year, death_circa
 
@@ -124,7 +140,36 @@ def clean_name(text: str) -> str:
     # Remove leading/trailing punctuation
     name = re.sub(r'^[,\-\s]+|[,\-\s]+$', '', name)
 
+    # Remove leading generation numbers (1-9) that got stuck in the name
+    # Pattern: starts with single digit followed by space and uppercase letter
+    name = re.sub(r'^(\d)\s+(?=[A-Z])', '', name)
+
+    # Also remove if it's just digits and spaces at the start
+    name = re.sub(r'^[\d\s]+(?=[A-Za-z])', '', name)
+
     return name
+
+
+def is_valid_name(name: str) -> bool:
+    """
+    Check if a name is valid (not garbage OCR).
+    Returns False for names that are:
+    - Too short (< 3 chars)
+    - Only numbers/punctuation
+    - Don't contain any letters
+    """
+    if not name or len(name) < 3:
+        return False
+
+    # Must contain at least one letter
+    if not re.search(r'[A-Za-z]', name):
+        return False
+
+    # Should not be just numbers with spaces/punctuation
+    if re.match(r'^[\d\s\.\-\,\+]+$', name):
+        return False
+
+    return True
 
 
 def parse_line(line: str) -> Optional[ParsedEntry]:
@@ -190,7 +235,8 @@ def parse_line(line: str) -> Optional[ParsedEntry]:
     # Extract name
     name = clean_name(line)
 
-    if not name or len(name) < 2:
+    # Validate name is not garbage OCR
+    if not is_valid_name(name):
         return None
 
     return ParsedEntry(
@@ -241,6 +287,19 @@ def preprocess_lines(lines: list) -> list:
     partial_date_ending = re.compile(r'[A-Za-z]{3}\s+\d{1,2},\s*$')
     year_only_pattern = re.compile(r'^[•.*†+,;:\-/\s]*(\d{4})\s*$')
 
+    # Pattern for lines that look like date fragments (year, month day, ranges)
+    # Matches: "1940 - Jan 1," or "1963" or "Jan 1, 1963" etc.
+    date_fragment_pattern = re.compile(
+        r'^[•.*†+,;:\-/\s]*'  # Optional leading punctuation
+        r'('
+        r'\d{4}'  # Year
+        r'|'
+        r'\d{4}\s*[-–]'  # Year followed by dash (death range start)
+        r'|'
+        r'\d{4}\s*[-–]\s*[A-Za-z]{3}\s+\d{1,2},?'  # "1940 - Jan 1,"
+        r')'
+    )
+
     while i < len(lines):
         line = lines[i].rstrip()
 
@@ -266,14 +325,21 @@ def preprocess_lines(lines: list) -> list:
             processed.append(combined)
         else:
             # Check if current line ends with partial date like "May 20,"
-            # and next line is just the year
+            # and next line(s) are date fragments (year, "1940 - Jan 1,", etc.)
             if i + 1 < len(lines) and partial_date_ending.search(line):
-                next_line = lines[i + 1].rstrip()
-                if year_only_pattern.match(next_line):
-                    # Join line with year
-                    combined = line + ' ' + next_line
+                combined = line
+                j = i + 1
+                # Keep joining while next lines look like date fragments
+                while j < len(lines):
+                    next_line = lines[j].rstrip()
+                    if date_fragment_pattern.match(next_line):
+                        combined = combined + ' ' + next_line
+                        j += 1
+                    else:
+                        break
+                if j > i + 1:  # We joined at least one line
                     processed.append(combined)
-                    i += 2
+                    i = j
                     continue
 
             # Check if current line is a name and next line is just a date
