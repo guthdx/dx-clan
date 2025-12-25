@@ -1,0 +1,119 @@
+.tree-view {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.tree-view.loading,
+.tree-view.error {
+  text-align: center;
+  padding: 2rem;
+}
+
+.tree-view.error p {
+  color: #c00;
+  margin-bottom: 1rem;
+}
+
+.breadcrumb {
+  margin-bottom: 1rem;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.breadcrumb a {
+  color: #4a7c59;
+  text-decoration: none;
+}
+
+.breadcrumb a:hover {
+  text-decoration: underline;
+}
+
+.tree-header {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid #4a7c59;
+}
+
+.tree-header h1 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.tree-header h2 {
+  margin: 0.5rem 0 0 0;
+  color: #2c5530;
+  font-size: 1.8rem;
+}
+
+.tree-header .lifespan {
+  margin: 0.25rem 0 0 0;
+  color: #666;
+}
+
+.generation-controls {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: #f9f9f9;
+  border-radius: 8px;
+}
+
+.gen-control {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.gen-control label {
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.gen-control select {
+  padding: 0.4rem 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  background: white;
+  cursor: pointer;
+}
+
+.gen-control select:focus {
+  border-color: #4a7c59;
+  outline: none;
+}
+
+.tree-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+  text-align: center;
+}
+
+.back-link {
+  color: #4a7c59;
+  text-decoration: none;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .generation-controls {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .gen-control {
+    justify-content: space-between;
+  }
+}

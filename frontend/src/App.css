@@ -1,0 +1,446 @@
+/* DX Clan Genealogy - "Living Roots" Design System */
+
+/* ========================================
+   CSS Variables & Theme System
+   ======================================== */
+:root {
+  /* Light Theme (default) */
+  --color-bg-primary: #f7f3eb;
+  --color-bg-secondary: #fffbf5;
+  --color-bg-card: #ffffff;
+  --color-bg-elevated: #fff9f0;
+
+  --color-text-primary: #1a2e1a;
+  --color-text-secondary: #5c4033;
+  --color-text-muted: #7a6b5a;
+  --color-text-accent: #b87333;
+
+  --color-forest-deep: #1a2e1a;
+  --color-forest-medium: #2d3a24;
+  --color-forest-light: #4a5f3c;
+  --color-sage: #8b9a7b;
+  --color-copper: #b87333;
+  --color-copper-light: #d4915a;
+  --color-root-brown: #5c4033;
+  --color-parchment: #f7f3eb;
+  --color-cream: #fff9f0;
+
+  --color-border: rgba(92, 64, 51, 0.15);
+  --color-border-strong: rgba(92, 64, 51, 0.25);
+  --color-shadow: rgba(26, 46, 26, 0.08);
+  --color-shadow-strong: rgba(26, 46, 26, 0.15);
+
+  /* Connector lines for tree */
+  --color-connector: #8b9a7b;
+  --color-connector-spouse: #d4915a;
+
+  /* Typography */
+  --font-display: 'Crimson Pro', 'Georgia', serif;
+  --font-body: 'Source Sans 3', 'Segoe UI', sans-serif;
+
+  /* Spacing */
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+
+  /* Border Radius */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+
+  /* Transitions */
+  --transition-fast: 150ms ease;
+  --transition-base: 250ms ease;
+  --transition-slow: 400ms ease;
+  --transition-bounce: 400ms cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+/* Dark Theme */
+[data-theme="dark"] {
+  --color-bg-primary: #0f1a0f;
+  --color-bg-secondary: #162016;
+  --color-bg-card: #1a2e1a;
+  --color-bg-elevated: #243524;
+
+  --color-text-primary: #f0ebe3;
+  --color-text-secondary: #c9bfb0;
+  --color-text-muted: #9a8f80;
+  --color-text-accent: #d4915a;
+
+  --color-border: rgba(201, 191, 176, 0.12);
+  --color-border-strong: rgba(201, 191, 176, 0.2);
+  --color-shadow: rgba(0, 0, 0, 0.3);
+  --color-shadow-strong: rgba(0, 0, 0, 0.5);
+
+  --color-connector: #5a6b4a;
+  --color-connector-spouse: #b87333;
+}
+
+/* ========================================
+   Global Reset & Base Styles
+   ======================================== */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  font-weight: 400;
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Subtle paper texture */
+  background-image:
+    url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%' height='100%' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+}
+
+/* ========================================
+   App Layout
+   ======================================== */
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ========================================
+   Header
+   ======================================== */
+.app-header {
+  background: linear-gradient(
+    165deg,
+    var(--color-forest-deep) 0%,
+    var(--color-forest-medium) 50%,
+    var(--color-forest-light) 100%
+  );
+  color: var(--color-cream);
+  padding: var(--space-lg) var(--space-xl);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+
+  /* Decorative bottom edge - like roots */
+  border-bottom: 3px solid var(--color-copper);
+  box-shadow:
+    0 4px 20px var(--color-shadow-strong),
+    inset 0 -1px 0 rgba(255, 255, 255, 0.05);
+}
+
+.header-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-title {
+  text-align: left;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.app-header p {
+  margin: var(--space-xs) 0 0 0;
+  font-size: 0.9rem;
+  opacity: 0.85;
+  font-weight: 300;
+  letter-spacing: 0.05em;
+}
+
+/* Theme Toggle */
+.theme-toggle {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: var(--radius-md);
+  padding: var(--space-sm) var(--space-md);
+  color: var(--color-cream);
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-family: var(--font-body);
+  transition: all var(--transition-base);
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.theme-toggle:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-1px);
+}
+
+.theme-toggle svg {
+  width: 16px;
+  height: 16px;
+}
+
+/* ========================================
+   Main Content Area
+   ======================================== */
+main {
+  flex: 1;
+  padding: var(--space-xl);
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+/* ========================================
+   Links & Buttons
+   ======================================== */
+a {
+  color: var(--color-forest-light);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+a:hover {
+  color: var(--color-copper);
+}
+
+/* Primary Button Style */
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-lg);
+  background: linear-gradient(
+    135deg,
+    var(--color-forest-medium) 0%,
+    var(--color-forest-deep) 100%
+  );
+  color: var(--color-cream);
+  border: none;
+  border-radius: var(--radius-md);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all var(--transition-base);
+  box-shadow: 0 2px 8px var(--color-shadow);
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px var(--color-shadow-strong);
+  background: linear-gradient(
+    135deg,
+    var(--color-forest-light) 0%,
+    var(--color-forest-medium) 100%
+  );
+}
+
+.btn-primary:active {
+  transform: translateY(0);
+}
+
+/* Secondary Button */
+.btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-lg);
+  background: var(--color-bg-card);
+  color: var(--color-text-primary);
+  border: 2px solid var(--color-border-strong);
+  border-radius: var(--radius-md);
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all var(--transition-base);
+}
+
+.btn-secondary:hover {
+  border-color: var(--color-copper);
+  color: var(--color-copper);
+  transform: translateY(-1px);
+}
+
+/* ========================================
+   Cards
+   ======================================== */
+.card {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-lg);
+  box-shadow: 0 2px 12px var(--color-shadow);
+  transition: all var(--transition-base);
+}
+
+.card:hover {
+  box-shadow: 0 4px 20px var(--color-shadow-strong);
+  transform: translateY(-2px);
+}
+
+.card-elevated {
+  background: var(--color-bg-elevated);
+  border: 1px solid var(--color-border-strong);
+}
+
+/* ========================================
+   Typography Classes
+   ======================================== */
+.font-display {
+  font-family: var(--font-display);
+}
+
+.text-accent {
+  color: var(--color-text-accent);
+}
+
+.text-muted {
+  color: var(--color-text-muted);
+}
+
+/* ========================================
+   Animations
+   ======================================== */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.6;
+  }
+}
+
+@keyframes growIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn var(--transition-slow) ease forwards;
+}
+
+.animate-slide-in {
+  animation: slideIn var(--transition-slow) ease forwards;
+}
+
+/* Staggered animation delays */
+.stagger-1 { animation-delay: 50ms; }
+.stagger-2 { animation-delay: 100ms; }
+.stagger-3 { animation-delay: 150ms; }
+.stagger-4 { animation-delay: 200ms; }
+.stagger-5 { animation-delay: 250ms; }
+
+/* ========================================
+   Responsive Breakpoints
+   ======================================== */
+@media (max-width: 768px) {
+  html {
+    font-size: 15px;
+  }
+
+  .app-header {
+    padding: var(--space-md);
+  }
+
+  .header-content {
+    flex-direction: column;
+    gap: var(--space-md);
+    text-align: center;
+  }
+
+  .header-title {
+    text-align: center;
+  }
+
+  .app-header h1 {
+    font-size: 1.5rem;
+  }
+
+  main {
+    padding: var(--space-md);
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 14px;
+  }
+
+  .app-header h1 {
+    font-size: 1.3rem;
+  }
+
+  main {
+    padding: var(--space-sm);
+  }
+}
+
+/* ========================================
+   Accessibility
+   ======================================== */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Focus states */
+:focus-visible {
+  outline: 2px solid var(--color-copper);
+  outline-offset: 2px;
+}
+
+/* Touch-friendly tap targets */
+@media (hover: none) {
+  a, button {
+    min-height: 44px;
+  }
+}

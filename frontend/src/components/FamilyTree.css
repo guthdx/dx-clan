@@ -1,0 +1,453 @@
+/* Family Tree - Living Roots Design */
+
+.family-tree {
+  padding: var(--space-md);
+}
+
+/* ========================================
+   Tree Controls
+   ======================================== */
+.tree-controls {
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--space-xl);
+}
+
+.tree-control-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-lg);
+  background: var(--color-bg-card);
+  color: var(--color-text-primary);
+  border: 2px solid var(--color-border-strong);
+  border-radius: var(--radius-md);
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all var(--transition-base);
+}
+
+.tree-control-btn:hover {
+  border-color: var(--color-copper);
+  color: var(--color-copper);
+  transform: translateY(-1px);
+}
+
+.tree-control-btn svg {
+  width: 16px;
+  height: 16px;
+}
+
+/* ========================================
+   Tree Container
+   ======================================== */
+.tree-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-lg);
+}
+
+/* ========================================
+   Tree Sections
+   ======================================== */
+.tree-section {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.section-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin: 0 0 var(--space-md) 0;
+  padding: var(--space-xs) var(--space-md);
+  background: var(--color-bg-secondary);
+  border-radius: var(--radius-sm);
+}
+
+/* Section connectors (vertical lines between sections) */
+.section-connector {
+  width: 2px;
+  height: 24px;
+  background: linear-gradient(
+    to bottom,
+    var(--color-connector),
+    var(--color-connector) 60%,
+    transparent
+  );
+  margin: var(--space-sm) 0;
+}
+
+.ancestors-section .section-connector {
+  background: linear-gradient(
+    to top,
+    var(--color-connector),
+    var(--color-connector) 60%,
+    transparent
+  );
+}
+
+/* ========================================
+   Tree Node
+   ======================================== */
+.tree-node {
+  background: var(--color-bg-card);
+  border: 2px solid var(--color-border-strong);
+  border-radius: var(--radius-lg);
+  padding: var(--space-md) var(--space-lg);
+  min-width: 180px;
+  max-width: 240px;
+  text-align: center;
+  position: relative;
+  transition: all var(--transition-base);
+  box-shadow: 0 2px 8px var(--color-shadow);
+}
+
+.tree-node.expandable {
+  cursor: pointer;
+}
+
+.tree-node.expandable:hover {
+  border-color: var(--color-forest-light);
+  box-shadow: 0 4px 16px var(--color-shadow-strong);
+  transform: translateY(-2px);
+}
+
+.tree-node.expanded {
+  border-color: var(--color-forest-light);
+}
+
+/* Center person styling */
+.tree-node.center-node {
+  background: linear-gradient(
+    135deg,
+    var(--color-bg-elevated) 0%,
+    var(--color-bg-card) 100%
+  );
+  border-color: var(--color-copper);
+  border-width: 3px;
+  min-width: 200px;
+  box-shadow: 0 4px 20px var(--color-shadow-strong);
+}
+
+.tree-node.center-node .node-name {
+  font-size: 1.1rem;
+}
+
+/* Spouse node styling */
+.tree-node.spouse-node {
+  background: var(--color-bg-elevated);
+  border-style: dashed;
+  border-color: var(--color-copper-light);
+  border-width: 2px;
+  min-width: 160px;
+}
+
+/* ========================================
+   Node Content
+   ======================================== */
+.node-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.node-link:hover .node-name {
+  color: var(--color-copper);
+}
+
+.node-name {
+  display: block;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: var(--color-forest-deep);
+  margin-bottom: var(--space-xs);
+  transition: color var(--transition-fast);
+}
+
+[data-theme="dark"] .node-name {
+  color: var(--color-text-primary);
+}
+
+.node-dates {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+/* Expand toggle button */
+.expand-toggle {
+  position: absolute;
+  bottom: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 24px;
+  height: 24px;
+  background: var(--color-forest-medium);
+  color: var(--color-cream);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all var(--transition-base);
+  box-shadow: 0 2px 6px var(--color-shadow);
+}
+
+.expand-toggle svg {
+  width: 14px;
+  height: 14px;
+}
+
+.tree-node:hover .expand-toggle {
+  background: var(--color-copper);
+  transform: translateX(-50%) scale(1.1);
+}
+
+.tree-node.expanded .expand-toggle {
+  background: var(--color-sage);
+}
+
+/* ========================================
+   Spouse Layout
+   ======================================== */
+.tree-node-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.spouse-group {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+  margin-top: var(--space-md);
+}
+
+.center-spouse-group {
+  margin-top: var(--space-lg);
+}
+
+.spouse-wrapper {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.spouse-connector {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  color: var(--color-copper);
+}
+
+.spouse-connector svg {
+  width: 16px;
+  height: 16px;
+}
+
+/* ========================================
+   Tree Structure Layout
+   ======================================== */
+.tree-node-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  animation: nodeAppear 0.3s ease;
+}
+
+@keyframes nodeAppear {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.tree-nodes-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: var(--space-xl);
+}
+
+/* Branch containers */
+.tree-branch {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.ancestors-branch {
+  margin-bottom: var(--space-lg);
+}
+
+.descendants-branch {
+  margin-top: var(--space-lg);
+}
+
+/* ========================================
+   Connector Lines (CSS-based)
+   ======================================== */
+.tree-branch::before {
+  content: '';
+  position: absolute;
+  width: 2px;
+  height: 20px;
+  background: var(--color-connector);
+}
+
+.ancestors-branch::before {
+  bottom: -10px;
+}
+
+.descendants-branch::before {
+  top: -10px;
+}
+
+/* Horizontal connectors for multiple nodes */
+.tree-nodes-row > .tree-node-wrapper {
+  position: relative;
+}
+
+.tree-nodes-row > .tree-node-wrapper:not(:only-child)::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  height: 2px;
+  background: var(--color-connector);
+  width: var(--space-xl);
+}
+
+.tree-nodes-row > .tree-node-wrapper:first-child:not(:only-child)::before {
+  left: 50%;
+  width: calc(50% + var(--space-xl) / 2);
+}
+
+.tree-nodes-row > .tree-node-wrapper:last-child:not(:only-child)::before {
+  right: 50%;
+  left: auto;
+  width: calc(50% + var(--space-xl) / 2);
+}
+
+.tree-nodes-row > .tree-node-wrapper:not(:first-child):not(:last-child)::before {
+  left: calc(-1 * var(--space-xl) / 2);
+  width: calc(100% + var(--space-xl));
+}
+
+/* Vertical connector from horizontal line to node */
+.tree-nodes-row > .tree-node-wrapper:not(:only-child)::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 2px;
+  height: 16px;
+  background: var(--color-connector);
+}
+
+.direction-up .tree-nodes-row > .tree-node-wrapper::after,
+.ancestors-section .tree-nodes-row > .tree-node-wrapper::after {
+  bottom: -16px;
+}
+
+.direction-down .tree-nodes-row > .tree-node-wrapper::after,
+.descendants-section .tree-nodes-row > .tree-node-wrapper::after {
+  top: -16px;
+}
+
+/* Center person wrapper */
+.center-person-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ========================================
+   Empty State
+   ======================================== */
+.tree-empty {
+  text-align: center;
+  padding: var(--space-2xl);
+  color: var(--color-text-muted);
+}
+
+.tree-empty p {
+  margin: 0;
+}
+
+/* ========================================
+   Responsive
+   ======================================== */
+@media (max-width: 768px) {
+  .family-tree {
+    padding: var(--space-sm);
+  }
+
+  .tree-nodes-row {
+    flex-direction: column;
+    gap: var(--space-lg);
+  }
+
+  .tree-node {
+    min-width: 160px;
+    max-width: 200px;
+    padding: var(--space-sm) var(--space-md);
+  }
+
+  .tree-node.center-node {
+    min-width: 180px;
+  }
+
+  .node-name {
+    font-size: 0.9rem;
+  }
+
+  .tree-node.center-node .node-name {
+    font-size: 1rem;
+  }
+
+  /* Simplify connectors on mobile */
+  .tree-nodes-row > .tree-node-wrapper::before,
+  .tree-nodes-row > .tree-node-wrapper::after {
+    display: none;
+  }
+
+  .spouse-wrapper {
+    flex-direction: column;
+    gap: var(--space-xs);
+  }
+
+  .spouse-connector {
+    transform: rotate(90deg);
+  }
+}
+
+@media (max-width: 480px) {
+  .tree-node {
+    min-width: 140px;
+    padding: var(--space-sm);
+  }
+
+  .section-label {
+    font-size: 0.7rem;
+  }
+
+  .tree-control-btn {
+    font-size: 0.85rem;
+    padding: var(--space-sm) var(--space-md);
+  }
+}

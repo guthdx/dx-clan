@@ -1,0 +1,389 @@
+/* Person Detail - Living Roots Design */
+
+.person-detail {
+  max-width: 800px;
+  margin: 0 auto;
+  animation: fadeIn var(--transition-slow) ease;
+}
+
+/* ========================================
+   Breadcrumb Navigation
+   ======================================== */
+.breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-bottom: var(--space-lg);
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+
+.breadcrumb a {
+  color: var(--color-forest-light);
+  transition: color var(--transition-fast);
+}
+
+.breadcrumb a:hover {
+  color: var(--color-copper);
+}
+
+.breadcrumb span {
+  color: var(--color-text-secondary);
+  font-weight: 500;
+}
+
+/* ========================================
+   Person Header
+   ======================================== */
+.person-header {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-xl);
+  padding: var(--space-xl);
+  margin-bottom: var(--space-xl);
+  box-shadow: 0 4px 20px var(--color-shadow);
+  position: relative;
+  overflow: hidden;
+}
+
+.person-header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(
+    90deg,
+    var(--color-forest-deep) 0%,
+    var(--color-copper) 50%,
+    var(--color-sage) 100%
+  );
+}
+
+.person-header h1 {
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  margin: 0 0 var(--space-sm) 0;
+  letter-spacing: -0.02em;
+}
+
+.lifespan {
+  font-size: 1.2rem;
+  color: var(--color-text-secondary);
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.circa {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  font-style: italic;
+  background: var(--color-bg-elevated);
+  padding: var(--space-xs) var(--space-sm);
+  border-radius: var(--radius-sm);
+}
+
+.view-tree-link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin-top: var(--space-lg);
+  padding: var(--space-sm) var(--space-lg);
+  background: linear-gradient(
+    135deg,
+    var(--color-forest-medium) 0%,
+    var(--color-forest-deep) 100%
+  );
+  color: var(--color-cream);
+  text-decoration: none;
+  border-radius: var(--radius-md);
+  font-weight: 500;
+  font-size: 0.95rem;
+  transition: all var(--transition-base);
+  box-shadow: 0 2px 8px var(--color-shadow);
+}
+
+.view-tree-link:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px var(--color-shadow-strong);
+  color: var(--color-cream);
+}
+
+/* ========================================
+   Person Info Section
+   ======================================== */
+.person-info {
+  display: grid;
+  gap: var(--space-lg);
+  margin-bottom: var(--space-xl);
+}
+
+.info-group {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-lg);
+  box-shadow: 0 2px 8px var(--color-shadow);
+}
+
+.info-group h3 {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin: 0 0 var(--space-sm) 0;
+}
+
+.info-group p {
+  margin: 0;
+  color: var(--color-text-primary);
+  font-size: 1rem;
+}
+
+/* Aliases */
+.alias-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+}
+
+.alias-list li {
+  background: linear-gradient(
+    135deg,
+    var(--color-bg-elevated) 0%,
+    var(--color-bg-secondary) 100%
+  );
+  color: var(--color-forest-deep);
+  padding: var(--space-xs) var(--space-md);
+  border-radius: var(--radius-md);
+  font-size: 0.9rem;
+  font-weight: 500;
+  border: 1px solid var(--color-border);
+}
+
+[data-theme="dark"] .alias-list li {
+  color: var(--color-text-primary);
+}
+
+/* ========================================
+   Relationships Section
+   ======================================== */
+.relationships {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-lg);
+  margin-bottom: var(--space-lg);
+  box-shadow: 0 2px 8px var(--color-shadow);
+}
+
+.relationships h2 {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+  margin: 0 0 var(--space-md) 0;
+  padding-bottom: var(--space-sm);
+  border-bottom: 2px solid var(--color-border);
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.relationships h2::before {
+  content: '';
+  width: 4px;
+  height: 20px;
+  background: var(--color-copper);
+  border-radius: 2px;
+}
+
+/* Person List */
+.person-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.person-list li {
+  border-bottom: 1px solid var(--color-border);
+}
+
+.person-list li:last-child {
+  border-bottom: none;
+}
+
+.person-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--space-md) var(--space-sm);
+  text-decoration: none;
+  color: inherit;
+  transition: all var(--transition-fast);
+  border-radius: var(--radius-sm);
+  margin: var(--space-xs) 0;
+}
+
+.person-link:hover {
+  background: var(--color-bg-elevated);
+  padding-left: var(--space-md);
+}
+
+.person-name {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 1rem;
+  color: var(--color-forest-deep);
+  transition: color var(--transition-fast);
+}
+
+[data-theme="dark"] .person-name {
+  color: var(--color-text-primary);
+}
+
+.person-link:hover .person-name {
+  color: var(--color-copper);
+}
+
+.person-dates {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+}
+
+/* ========================================
+   Footer
+   ======================================== */
+.person-footer {
+  margin-top: var(--space-xl);
+  padding-top: var(--space-lg);
+  border-top: 1px solid var(--color-border);
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-sm);
+  color: var(--color-forest-light);
+  font-weight: 500;
+  transition: all var(--transition-fast);
+}
+
+.back-link:hover {
+  color: var(--color-copper);
+  transform: translateX(-4px);
+}
+
+/* ========================================
+   Loading & Error States
+   ======================================== */
+.loading {
+  text-align: center;
+  padding: var(--space-2xl);
+  color: var(--color-text-muted);
+}
+
+.error {
+  text-align: center;
+  padding: var(--space-2xl);
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+}
+
+.error p {
+  color: #b91c1c;
+  margin-bottom: var(--space-lg);
+}
+
+[data-theme="dark"] .error p {
+  color: #fca5a5;
+}
+
+.error a {
+  color: var(--color-forest-light);
+  font-weight: 500;
+}
+
+/* ========================================
+   Responsive
+   ======================================== */
+@media (max-width: 768px) {
+  .person-header {
+    padding: var(--space-lg);
+  }
+
+  .person-header h1 {
+    font-size: 1.5rem;
+  }
+
+  .lifespan {
+    font-size: 1rem;
+    flex-wrap: wrap;
+  }
+
+  .view-tree-link {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .relationships {
+    padding: var(--space-md);
+  }
+
+  .relationships h2 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .person-detail {
+    padding: 0;
+  }
+
+  .person-header {
+    border-radius: var(--radius-lg);
+    padding: var(--space-md);
+  }
+
+  .person-header h1 {
+    font-size: 1.3rem;
+  }
+
+  .info-group {
+    padding: var(--space-md);
+  }
+
+  .info-group h3 {
+    font-size: 0.75rem;
+  }
+
+  .alias-list {
+    gap: var(--space-xs);
+  }
+
+  .alias-list li {
+    font-size: 0.85rem;
+    padding: var(--space-xs) var(--space-sm);
+  }
+
+  .person-link {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-xs);
+  }
+
+  .person-dates {
+    font-size: 0.8rem;
+  }
+}
