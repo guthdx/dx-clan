@@ -537,33 +537,43 @@ def share_children_between_spouses(persons: dict) -> None:
     IMPORTANT: This does NOT add arbitrary parent relationships.
     It ONLY adds the spouse of an existing parent as a second parent.
     If a child already has parent A, and A is married to B, then B is added.
+
+    CRITICAL: A child can have at most 2 biological parents. This function
+    will NOT add more than 2 parents to any person.
     """
     # Build a lookup by name for finding persons
     by_name = {}
     for key, person in persons.items():
         by_name[key[0]] = person  # key[0] is lowercase name
 
-    # For each person who has parents, check if their parents are married
-    # and add the spouse as the second parent
+    # For each person who has exactly 1 parent, try to add the second parent
+    # (the spouse of the first parent)
     for key, person in persons.items():
-        if not person.parents:
+        # Only process if person has exactly 1 parent
+        if len(person.parents) != 1:
             continue
 
-        # For each known parent, check if they have a spouse
-        for parent_name in list(person.parents):  # Use list() to avoid mutation during iteration
-            parent_key = parent_name.lower()
-            if parent_key in by_name:
-                parent = by_name[parent_key]
-                # Add spouse as second parent if they're married
-                for spouse_name in parent.spouses:
-                    if spouse_name not in person.parents:
-                        person.parents.append(spouse_name)
-                        # Also add this person to spouse's children list
-                        spouse_key = spouse_name.lower()
-                        if spouse_key in by_name:
-                            spouse = by_name[spouse_key]
-                            if person.name not in spouse.children:
-                                spouse.children.append(person.name)
+        parent_name = person.parents[0]
+        parent_key = parent_name.lower()
+
+        if parent_key not in by_name:
+            continue
+
+        parent = by_name[parent_key]
+
+        # Add the FIRST spouse as second parent (most likely the biological parent)
+        # We only add ONE spouse to avoid creating more than 2 parents
+        for spouse_name in parent.spouses:
+            if spouse_name not in person.parents:
+                person.parents.append(spouse_name)
+                # Also add this person to spouse's children list
+                spouse_key = spouse_name.lower()
+                if spouse_key in by_name:
+                    spouse = by_name[spouse_key]
+                    if person.name not in spouse.children:
+                        spouse.children.append(person.name)
+                # Stop after adding one spouse (now have 2 parents)
+                break
 
 
 def export_to_json(persons: dict, output_file: str):
