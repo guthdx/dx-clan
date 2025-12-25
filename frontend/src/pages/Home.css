@@ -14,6 +14,30 @@
   margin-bottom: var(--space-xl);
 }
 
+/* Family Crest */
+.hero-crest {
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--space-lg);
+}
+
+.crest-image {
+  width: 120px;
+  height: auto;
+  opacity: 0.9;
+  filter: drop-shadow(0 4px 12px var(--color-shadow));
+  transition: all var(--transition-base);
+}
+
+.crest-image:hover {
+  transform: scale(1.05);
+  opacity: 1;
+}
+
+[data-theme="dark"] .crest-image {
+  filter: drop-shadow(0 4px 12px rgba(0, 0, 0, 0.4)) brightness(1.1);
+}
+
 .hero-content {
   margin-bottom: var(--space-xl);
 }

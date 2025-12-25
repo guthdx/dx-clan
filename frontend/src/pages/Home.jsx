@@ -166,6 +166,9 @@ function Home() {
     <div className="home">
       {/* Hero Section */}
       <section className="hero animate-fade-in">
+        <div className="hero-crest">
+          <img src="/family_crest.png" alt="Duchesneau Family Crest" className="crest-image" />
+        </div>
         <div className="hero-content">
           <h2 className="hero-title">Explore Your Roots</h2>
           <p className="hero-subtitle">
