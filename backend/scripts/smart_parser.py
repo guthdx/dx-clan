@@ -43,7 +43,7 @@ class ParsedEntry:
     """A parsed line from the genealogy document."""
     generation: int
     is_spouse: bool
-    is_additional_spouse: bool  # For * entries
+    is_relisting: bool  # For * entries - person re-listed for additional marriages
     name: str
     birth_year: Optional[int]
     birth_year_circa: bool
@@ -147,14 +147,20 @@ def parse_line(line: str) -> Optional[ParsedEntry]:
         return None
 
     # Detect if this is a spouse entry
+    # NOTE: + or † indicates a spouse
+    # NOTE: * indicates a RE-LISTING of a person for additional marriages
+    #       (the person is NOT a spouse, they are being re-listed so their
+    #        next spouse can be shown). Treat * entries as regular persons.
     is_spouse = False
-    is_additional_spouse = False
+    is_relisting = False  # Person re-listed for additional marriages
 
     if line.startswith(('+', '†', '.+', '..+', '...+')):
         is_spouse = True
-    elif line.startswith(('*', '.*', '..*')):
-        is_additional_spouse = True
-        is_spouse = True
+    elif line.startswith(('*', '.*', '..*', '...*')):
+        # This is a re-listing of a person, NOT a spouse entry
+        is_relisting = True
+        # Strip the * prefix for cleaner parsing
+        line = re.sub(r'^[.*]+\s*', '', line)
 
     # Extract generation number - look for pattern like "5 Name" or ".5 Name"
     # Also handle OCR noise like commas, colons, semicolons: "....,5 Name"
@@ -190,7 +196,7 @@ def parse_line(line: str) -> Optional[ParsedEntry]:
     return ParsedEntry(
         generation=generation,
         is_spouse=is_spouse,
-        is_additional_spouse=is_additional_spouse,
+        is_relisting=is_relisting,
         name=name,
         birth_year=birth_year,
         birth_year_circa=birth_circa,
@@ -347,6 +353,7 @@ def build_persons_dict(entries: list) -> dict:
 
             # ONLY add parent relationship for the FIRST appearance
             # This prevents wrong parent relationships from subsequent listings
+            # BOTH directions (parent->child and child->parent) should only be set once
             if parent_name and key not in parents_set:
                 parents_set.add(key)
 
@@ -359,10 +366,13 @@ def build_persons_dict(entries: list) -> dict:
 
                 if parent_key:
                     parent = persons[parent_key]
+                    # Add bidirectional relationship ONLY for first appearance
                     if entry.name not in parent.children:
                         parent.children.append(entry.name)
                     if parent.name not in person.parents:
                         person.parents.append(parent.name)
+            # NOTE: If key is already in parents_set, we do NOT add any relationships
+            # This prevents subsequent appearances from creating wrong parent-child links
 
     return persons
 
@@ -465,39 +475,38 @@ def merge_duplicates(persons: dict) -> dict:
 
 def share_children_between_spouses(persons: dict) -> None:
     """
-    Ensure that children are attributed to both parents.
-    If person A has children and spouse B, B should also have those children.
-    Also ensures children have both parents listed.
+    Ensure that children's parent lists include both parents when married.
+
+    IMPORTANT: This does NOT add arbitrary parent relationships.
+    It ONLY adds the spouse of an existing parent as a second parent.
+    If a child already has parent A, and A is married to B, then B is added.
     """
-    # Build a lookup by name for finding spouses and children
+    # Build a lookup by name for finding persons
     by_name = {}
     for key, person in persons.items():
         by_name[key[0]] = person  # key[0] is lowercase name
 
+    # For each person who has parents, check if their parents are married
+    # and add the spouse as the second parent
     for key, person in persons.items():
-        if not person.children:
+        if not person.parents:
             continue
 
-        # For each spouse, add any missing children
-        for spouse_name in person.spouses:
-            spouse_key = spouse_name.lower()
-            if spouse_key in by_name:
-                spouse = by_name[spouse_key]
-                for child in person.children:
-                    if child not in spouse.children:
-                        spouse.children.append(child)
-
-    # Now ensure children have both parents listed
-    for key, person in persons.items():
-        if not person.children:
-            continue
-
-        for child_name in person.children:
-            child_key = child_name.lower()
-            if child_key in by_name:
-                child = by_name[child_key]
-                if person.name not in child.parents:
-                    child.parents.append(person.name)
+        # For each known parent, check if they have a spouse
+        for parent_name in list(person.parents):  # Use list() to avoid mutation during iteration
+            parent_key = parent_name.lower()
+            if parent_key in by_name:
+                parent = by_name[parent_key]
+                # Add spouse as second parent if they're married
+                for spouse_name in parent.spouses:
+                    if spouse_name not in person.parents:
+                        person.parents.append(spouse_name)
+                        # Also add this person to spouse's children list
+                        spouse_key = spouse_name.lower()
+                        if spouse_key in by_name:
+                            spouse = by_name[spouse_key]
+                            if person.name not in spouse.children:
+                                spouse.children.append(person.name)
 
 
 def export_to_json(persons: dict, output_file: str):
