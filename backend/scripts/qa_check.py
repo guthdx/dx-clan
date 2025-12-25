@@ -250,14 +250,35 @@ def check_name_quality(persons: list) -> list:
                 'detail': "Name starts with a number"
             })
 
-        # Contains unusual characters
-        if re.search(r'[•†\[\]{}|\\]', name):
+        # Check for numbers in names (OCR errors - dates stuck in names)
+        if re.search(r'\d', name):
             issues.append({
-                'type': 'NAME_HAS_SPECIAL_CHARS',
-                'severity': 'MEDIUM',
+                'type': 'NAME_HAS_NUMBERS',
+                'severity': 'HIGH',
                 'name': name,
                 'birth_year': p.get('birth_year'),
-                'detail': "Name contains unusual characters"
+                'detail': "Name contains numbers (likely OCR date fragment)"
+            })
+
+        # Check for OCR punctuation artifacts (—, ~, =, |, \, etc.)
+        ocr_artifacts = re.findall(r'[—~=|\\@#$%^&*<>]', name)
+        if ocr_artifacts:
+            issues.append({
+                'type': 'NAME_HAS_OCR_ARTIFACTS',
+                'severity': 'HIGH',
+                'name': name,
+                'birth_year': p.get('birth_year'),
+                'detail': f"Contains OCR artifacts: {list(set(ocr_artifacts))}"
+            })
+
+        # Check for slashes (alternate names) - lower severity, might be valid
+        if '/' in name:
+            issues.append({
+                'type': 'NAME_HAS_SLASH',
+                'severity': 'LOW',
+                'name': name,
+                'birth_year': p.get('birth_year'),
+                'detail': "Name contains slash (alternate name format)"
             })
 
         # All caps or all lowercase (unusual)

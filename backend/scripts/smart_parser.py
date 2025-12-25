@@ -128,8 +128,22 @@ def clean_name(text: str) -> str:
     name = re.sub(r'[A-Za-z]{3}\s+\d{1,2},?\s*\d{4}', '', text)
     name = re.sub(r'\b\d{4}\b', '', name)
 
-    # Remove partial dates stuck at end (like "Jun 29:" or "May 30;")
-    name = re.sub(r'\s+[A-Za-z]{3}\s+\d{1,2}[;:,]?\s*$', '', name)
+    # Remove partial dates stuck at end, including with trailing garbage
+    # Handles: "Jun 29", "Aug 1B", "Mar 1B, (a)", "Oct 30, 197", "Apr 29"
+    name = re.sub(r'\s+[A-Za-z]{3}\s+\d+[A-Za-z]?[;:,]?\s*\d*\s*(\([a-z]\))?\s*$', '', name)
+
+    # Remove dates with full format but OCR errors (like "Jul 2, 19 78" or "Feb 6, 198B")
+    name = re.sub(r'\s*-?\s*[A-Za-z]{3}\s+\d{1,2},?\s*\d+\s*\d*[A-Za-z]?\s*$', '', name)
+
+    # Remove trailing numbers (like "78" at end of "Brandy Lee Goff 78")
+    name = re.sub(r'\s+\d+\s*$', '', name)
+
+    # Remove OCR garbage fragments (like "sua 19," or "E991")
+    name = re.sub(r'\s+[a-z]+\s+\d+[,;]?\s*$', '', name)
+    name = re.sub(r'\s+[A-Z]\d+\s*$', '', name)
+
+    # Remove parenthetical notes like "(baby)" or "(a)"
+    name = re.sub(r'\([a-z]+\)\s*', '', name)
 
     # Remove common suffixes that got separated
     name = re.sub(r'\s*[-–]\s*$', '', name)
@@ -140,8 +154,14 @@ def clean_name(text: str) -> str:
     # Replace colons and semicolons with space (they shouldn't be in names)
     name = re.sub(r'[:;]', ' ', name)
 
+    # Remove OCR artifacts (em-dash, tilde, equals, etc.)
+    name = re.sub(r'[—~=|\\@#$%^&*<>]', '', name)
+
     # Clean up
     name = re.sub(r'\s+', ' ', name).strip()
+
+    # Run date removal again after cleanup (catches more cases)
+    name = re.sub(r'\s+[A-Za-z]{3}\s+\d+[A-Za-z]?[;:,]?\s*\d*\s*$', '', name)
 
     # Remove leading/trailing punctuation
     name = re.sub(r'^[,\-\s]+|[,\-\s]+$', '', name)
@@ -163,6 +183,8 @@ def is_valid_name(name: str) -> bool:
     - Too short (< 3 chars)
     - Only numbers/punctuation
     - Don't contain any letters
+    - Look like dates (month + number)
+    - Are mostly garbage characters
     """
     if not name or len(name) < 3:
         return False
@@ -173,6 +195,20 @@ def is_valid_name(name: str) -> bool:
 
     # Should not be just numbers with spaces/punctuation
     if re.match(r'^[\d\s\.\-\,\+]+$', name):
+        return False
+
+    # Reject names that look like dates (e.g., "Jun 9", "Oct 19", "Qct 19")
+    if re.match(r'^[A-Za-z]{3,4}\s+\d+$', name):
+        return False
+
+    # Reject names that are mostly lowercase garbage (like "on 20", "tep' 159")
+    if re.match(r'^[a-z]+[\s\'\d]+$', name):
+        return False
+
+    # Reject names with numbers in the middle (like "Teacy 1 Sehe")
+    # But allow suffixes like "Jr" "Sr" "II" "III" at end
+    name_without_suffix = re.sub(r',?\s*(Jr|Sr|II|III|IV|I)\s*$', '', name, flags=re.IGNORECASE)
+    if re.search(r'\s\d+\s', name_without_suffix):
         return False
 
     return True
