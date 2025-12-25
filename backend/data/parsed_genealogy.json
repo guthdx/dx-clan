@@ -3229,7 +3229,7 @@
       "Sonya Leigh Rivers",
       "Erica Faye Rivers",
       "Justin Kyle LaPlante",
-      "Cory Austin LaPlante Oct 19",
+      "Cory Austin LaPlante",
       "Jesse Dawn LaPlante"
     ]
   },
@@ -3251,7 +3251,7 @@
       "Sonya Leigh Rivers",
       "Erica Faye Rivers",
       "Justin Kyle LaPlante",
-      "Cory Austin LaPlante Oct 19",
+      "Cory Austin LaPlante",
       "Jesse Dawn LaPlante"
     ]
   },
@@ -3394,7 +3394,7 @@
     "children": []
   },
   {
-    "name": "Cory Austin LaPlante Oct 19",
+    "name": "Cory Austin LaPlante",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -3549,7 +3549,7 @@
       "Shawnda Cyrene Dupris",
       "Megan Lucille Dupris",
       "Christopher Glen Dupris",
-      "Forrest Hunter Dupris May 22"
+      "Forrest Hunter Dupris"
     ]
   },
   {
@@ -3568,7 +3568,7 @@
       "Shawnda Cyrene Dupris",
       "Megan Lucille Dupris",
       "Christopher Glen Dupris",
-      "Forrest Hunter Dupris May 22"
+      "Forrest Hunter Dupris"
     ]
   },
   {
@@ -3617,7 +3617,7 @@
     "children": []
   },
   {
-    "name": "Forrest Hunter Dupris May 22",
+    "name": "Forrest Hunter Dupris",
     "birth_year": 1999,
     "birth_year_circa": false,
     "death_year": null,
@@ -11299,7 +11299,7 @@
       "Bonnie Kay Ducheneaux",
       "Ty Ducheneaux",
       "Toby Ducheneaux",
-      "Troy Ducheneaux Jul 2"
+      "Troy Ducheneaux"
     ]
   },
   {
@@ -11412,15 +11412,16 @@
     "children": []
   },
   {
-    "name": "Troy Ducheneaux Jul 2",
-    "birth_year": null,
+    "name": "Troy Ducheneaux",
+    "birth_year": 1970,
     "birth_year_circa": false,
     "death_year": null,
     "death_year_circa": false,
     "gender": null,
     "generation": 7,
     "parents": [
-      "Dallas Bernard Ducheneaux Sud"
+      "Myrna Claire Ducheneaux",
+      "Robert Dale Christenson"
     ],
     "spouses": [],
     "children": []
@@ -15499,7 +15500,7 @@
       "Ernest John Sutton",
       "Robert Eugene Sutton",
       "Alta Delema Sutton",
-      "Harold Ray Sutton Jan 23",
+      "Harold Ray Sutton",
       "Carol Jean Sutton"
     ]
   },
@@ -15519,7 +15520,7 @@
       "Ernest John Sutton",
       "Robert Eugene Sutton",
       "Alta Delema Sutton",
-      "Harold Ray Sutton Jan 23",
+      "Harold Ray Sutton",
       "Carol Jean Sutton"
     ]
   },
@@ -15601,7 +15602,7 @@
     "children": []
   },
   {
-    "name": "Harold Ray Sutton Jan 23",
+    "name": "Harold Ray Sutton",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -18451,7 +18452,6 @@
       "Londell Michael Lesmeister",
       "Talon Bazille Ducheneaux",
       "Taran Andrew Ducheneaux",
-      "Londell Michael Lesmeister Jun 25",
       "Lyle Matthew Lesmeister"
     ]
   },
@@ -18585,9 +18585,7 @@
       "Arlene Rochelle Smith",
       "Tasina Sapa Win Smith",
       "Mahto Nanji Smith",
-      "Kathleen Ann Smith",
-      "Arlene Rochelle Smith Jun 11",
-      "Tasina Sapa Win Smith Sep 18"
+      "Kathleen Ann Smith"
     ]
   },
   {
@@ -18606,8 +18604,6 @@
     ],
     "children": [
       "Tasina Sapa Win Smith",
-      "Arlene Rochelle Smith Jun 11",
-      "Tasina Sapa Win Smith Sep 18",
       "Kathleen Ann Smith",
       "Arlene Rochelle Smith",
       "Mahto Nanji Smith"
@@ -20659,16 +20655,16 @@
     ],
     "spouses": [],
     "children": [
-      "Guyla Ann Gunville Aug 4;",
+      "Guyla Ann Gunville",
       "Latonne Rae Gunville",
       "William Ward Gunville",
       "Ernest Joseph \"E J' Gunville",
       "Jo Lavae Gunville",
       "Dustin Coy Gunville",
       "Clayton Gene Hagel",
-      "Todd Carl Hagel Oct 2;",
+      "Todd Carl Hagel",
       "Janal Mary Aberle",
-      ": 8 Karyl Marie Biegler May 30;",
+      "Karyl Marie Biegler",
       "Roger Francis Aberle",
       "Anita Frances Faye Aberle",
       "Robert Aberle",
@@ -20676,7 +20672,7 @@
     ]
   },
   {
-    "name": "Guyla Ann Gunville Aug 4;",
+    "name": "Guyla Ann Gunville",
     "birth_year": 1956,
     "birth_year_circa": false,
     "death_year": null,
@@ -20687,7 +20683,7 @@
       "Phyllis Ann Ducheneaux"
     ],
     "spouses": [
-      "William Douglas Knight Nov 10;"
+      "William Douglas Knight"
     ],
     "children": [
       "Wallace Coy Lamont Knight",
@@ -20695,7 +20691,7 @@
     ]
   },
   {
-    "name": "William Douglas Knight Nov 10;",
+    "name": "William Douglas Knight",
     "birth_year": 1953,
     "birth_year_circa": false,
     "death_year": null,
@@ -20704,7 +20700,7 @@
     "generation": null,
     "parents": [],
     "spouses": [
-      "Guyla Ann Gunville Aug 4;"
+      "Guyla Ann Gunville"
     ],
     "children": [
       "Wallace Coy Lamont Knight",
@@ -20720,8 +20716,8 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "Guyla Ann Gunville Aug 4;",
-      "William Douglas Knight Nov 10;"
+      "Guyla Ann Gunville",
+      "William Douglas Knight"
     ],
     "spouses": [],
     "children": []
@@ -20735,8 +20731,8 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "Guyla Ann Gunville Aug 4;",
-      "William Douglas Knight Nov 10;"
+      "Guyla Ann Gunville",
+      "William Douglas Knight"
     ],
     "spouses": [],
     "children": []
@@ -20942,12 +20938,12 @@
     ],
     "spouses": [],
     "children": [
-      "Austin Elmer Gunville Apr 28;",
+      "Austin Elmer Gunville",
       "Winston Roman David Gunville"
     ]
   },
   {
-    "name": "Austin Elmer Gunville Apr 28;",
+    "name": "Austin Elmer Gunville",
     "birth_year": 1992,
     "birth_year_circa": false,
     "death_year": null,
@@ -20986,7 +20982,7 @@
       "Phyllis Ann Ducheneaux"
     ],
     "spouses": [
-      "Georgette Hope Knife Oct 28;"
+      "Georgette Hope Knife"
     ],
     "children": [
       "Clayton Delaney Gunville",
@@ -20995,7 +20991,7 @@
     ]
   },
   {
-    "name": "Georgette Hope Knife Oct 28;",
+    "name": "Georgette Hope Knife",
     "birth_year": 1966,
     "birth_year_circa": false,
     "death_year": null,
@@ -21022,7 +21018,7 @@
     "generation": 8,
     "parents": [
       "Ernest Joseph \"E J' Gunville",
-      "Georgette Hope Knife Oct 28;"
+      "Georgette Hope Knife"
     ],
     "spouses": [],
     "children": []
@@ -21037,7 +21033,7 @@
     "generation": 8,
     "parents": [
       "Ernest Joseph \"E J' Gunville",
-      "Georgette Hope Knife Oct 28;"
+      "Georgette Hope Knife"
     ],
     "spouses": [],
     "children": []
@@ -21052,7 +21048,7 @@
     "generation": 8,
     "parents": [
       "Ernest Joseph \"E J' Gunville",
-      "Georgette Hope Knife Oct 28;"
+      "Georgette Hope Knife"
     ],
     "spouses": [],
     "children": []
@@ -21069,7 +21065,7 @@
       "Phyllis Ann Ducheneaux"
     ],
     "spouses": [
-      "Kenneth Vernon Marshall; Jr",
+      "Kenneth Vernon Marshall Jr",
       "Kenneth Vernon Marshall"
     ],
     "children": [
@@ -21077,7 +21073,7 @@
     ]
   },
   {
-    "name": "Kenneth Vernon Marshall; Jr",
+    "name": "Kenneth Vernon Marshall Jr",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -21102,7 +21098,7 @@
     "generation": 8,
     "parents": [
       "Jo Lavae Gunville",
-      "Kenneth Vernon Marshall; Jr"
+      "Kenneth Vernon Marshall Jr"
     ],
     "spouses": [],
     "children": []
@@ -21137,7 +21133,7 @@
     ],
     "children": [
       "Clay Thomas Hagel",
-      "Dustin Robert Hagel Jun 27;",
+      "Dustin Robert Hagel",
       "Stetson Ernest Hagel"
     ]
   },
@@ -21155,7 +21151,7 @@
     ],
     "children": [
       "Clay Thomas Hagel",
-      "Dustin Robert Hagel Jun 27;",
+      "Dustin Robert Hagel",
       "Stetson Ernest Hagel"
     ]
   },
@@ -21175,7 +21171,7 @@
     "children": []
   },
   {
-    "name": "Dustin Robert Hagel Jun 27;",
+    "name": "Dustin Robert Hagel",
     "birth_year": 1985,
     "birth_year_circa": false,
     "death_year": null,
@@ -21205,7 +21201,7 @@
     "children": []
   },
   {
-    "name": "Todd Carl Hagel Oct 2;",
+    "name": "Todd Carl Hagel",
     "birth_year": 1967,
     "birth_year_circa": false,
     "death_year": null,
@@ -21231,7 +21227,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "Todd Carl Hagel Oct 2;"
+      "Todd Carl Hagel"
     ],
     "spouses": [],
     "children": []
@@ -21245,7 +21241,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "Todd Carl Hagel Oct 2;"
+      "Todd Carl Hagel"
     ],
     "spouses": [],
     "children": []
@@ -21259,7 +21255,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "Todd Carl Hagel Oct 2;"
+      "Todd Carl Hagel"
     ],
     "spouses": [
       "Aloys Anton Aberle"
@@ -21326,7 +21322,7 @@
     "children": []
   },
   {
-    "name": ": 8 Karyl Marie Biegler May 30;",
+    "name": "Karyl Marie Biegler",
     "birth_year": 1982,
     "birth_year_circa": false,
     "death_year": null,
@@ -21340,7 +21336,7 @@
       "Rondi Ann Hustrulid"
     ],
     "children": [
-      "Michael James Aberle Aug 22;",
+      "Michael James Aberle",
       "Jennifer Janal Aberle",
       "Ethan Alan Aberle"
     ]
@@ -21355,16 +21351,16 @@
     "generation": null,
     "parents": [],
     "spouses": [
-      ": 8 Karyl Marie Biegler May 30;"
+      "Karyl Marie Biegler"
     ],
     "children": [
-      "Michael James Aberle Aug 22;",
+      "Michael James Aberle",
       "Jennifer Janal Aberle",
       "Ethan Alan Aberle"
     ]
   },
   {
-    "name": "Michael James Aberle Aug 22;",
+    "name": "Michael James Aberle",
     "birth_year": 1986,
     "birth_year_circa": false,
     "death_year": null,
@@ -21372,7 +21368,7 @@
     "gender": "M",
     "generation": 8,
     "parents": [
-      ": 8 Karyl Marie Biegler May 30;",
+      "Karyl Marie Biegler",
       "Rondi Ann Hustrulid"
     ],
     "spouses": [],
@@ -21387,7 +21383,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      ": 8 Karyl Marie Biegler May 30;",
+      "Karyl Marie Biegler",
       "Rondi Ann Hustrulid"
     ],
     "spouses": [],
@@ -21402,7 +21398,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      ": 8 Karyl Marie Biegler May 30;",
+      "Karyl Marie Biegler",
       "Rondi Ann Hustrulid"
     ],
     "spouses": [],
@@ -21555,7 +21551,7 @@
       "Sheryl Gage"
     ],
     "children": [
-      "Brandon Michael Gage Apr 28;"
+      "Brandon Michael Gage"
     ]
   },
   {
@@ -21571,11 +21567,11 @@
       "Robert Aberle"
     ],
     "children": [
-      "Brandon Michael Gage Apr 28;"
+      "Brandon Michael Gage"
     ]
   },
   {
-    "name": "Brandon Michael Gage Apr 28;",
+    "name": "Brandon Michael Gage",
     "birth_year": 1990,
     "birth_year_circa": false,
     "death_year": null,
@@ -21601,7 +21597,7 @@
     "generation": null,
     "parents": [],
     "spouses": [
-      "Brandon Michael Gage Apr 28;"
+      "Brandon Michael Gage"
     ],
     "children": []
   },
@@ -21760,7 +21756,6 @@
       "Deloris Jean Ducheneaux"
     ],
     "spouses": [
-      "Janelle Marie Hall Nov 14;",
       "Janelle Marie Hall",
       "Kyle Dean Ward"
     ],
@@ -21772,18 +21767,22 @@
     ]
   },
   {
-    "name": "Janelle Marie Hall Nov 14;",
+    "name": "Janelle Marie Hall",
     "birth_year": 1960,
     "birth_year_circa": false,
     "death_year": null,
     "death_year_circa": false,
     "gender": null,
-    "generation": null,
-    "parents": [],
+    "generation": 8,
+    "parents": [
+      "Lorita Ann Lawrence",
+      "Cedric Dayton Hall"
+    ],
     "spouses": [
       "Morgan Todd Ward"
     ],
     "children": [
+      "Kyle Dean Ward",
       "Kyle Dean Ward (a)",
       "Kayla Deloris Ward",
       "Morgan Lorita Ward"
@@ -21799,7 +21798,7 @@
     "generation": 8,
     "parents": [
       "Morgan Todd Ward",
-      "Janelle Marie Hall Nov 14;"
+      "Janelle Marie Hall"
     ],
     "spouses": [
       "Kara Lee Dupris"
@@ -21818,7 +21817,7 @@
     "generation": 8,
     "parents": [
       "Morgan Todd Ward",
-      "Janelle Marie Hall Nov 14;"
+      "Janelle Marie Hall"
     ],
     "spouses": [],
     "children": []
@@ -21833,7 +21832,7 @@
     "generation": 8,
     "parents": [
       "Morgan Todd Ward",
-      "Janelle Marie Hall Nov 14;"
+      "Janelle Marie Hall"
     ],
     "spouses": [],
     "children": []
@@ -22283,7 +22282,7 @@
     "children": [
       "Tammy Marie Wientjes",
       "Marlyce Mae Wientjes",
-      "Qct 19;",
+      "Qct 19",
       "Mary Emma Wientjes",
       "Jamie Lynn Wientjes",
       "Cindy Marie Ducheneaux",
@@ -22305,7 +22304,7 @@
     "children": [
       "Tammy Marie Wientjes",
       "Marlyce Mae Wientjes",
-      "Qct 19;",
+      "Qct 19",
       "Mary Emma Wientjes",
       "Jamie Lynn Wientjes",
       "Cindy Marie Ducheneaux",
@@ -22377,7 +22376,7 @@
       "Jonathan Thomas Fritz",
       "Todd Raymond Wientjes",
       "Kenneth Scott Wientjes Oct",
-      "Kevin Thomas Wientjes Oct 9;",
+      "Kevin Thomas Wientjes",
       "Ryan David Wientjes",
       "Lisa Diane Wientjes"
     ]
@@ -22453,7 +22452,7 @@
     "children": []
   },
   {
-    "name": "Kevin Thomas Wientjes Oct 9;",
+    "name": "Kevin Thomas Wientjes",
     "birth_year": 1991,
     "birth_year_circa": false,
     "death_year": null,
@@ -22495,7 +22494,7 @@
     "children": []
   },
   {
-    "name": "Qct 19;",
+    "name": "Qct 19",
     "birth_year": 1996,
     "birth_year_circa": false,
     "death_year": null,
@@ -22520,7 +22519,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "Qct 19;"
+      "Qct 19"
     ],
     "spouses": [],
     "children": []
@@ -22614,13 +22613,13 @@
     ],
     "spouses": [],
     "children": [
-      "Teri Deen Anderson Dec 1;",
+      "Teri Deen Anderson",
       "Kelly Kim Anderson",
       "Lyle Dean Anderson"
     ]
   },
   {
-    "name": "Teri Deen Anderson Dec 1;",
+    "name": "Teri Deen Anderson",
     "birth_year": 1963,
     "birth_year_circa": false,
     "death_year": null,
@@ -22645,7 +22644,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "Teri Deen Anderson Dec 1;"
+      "Teri Deen Anderson"
     ],
     "spouses": [],
     "children": []
@@ -22659,7 +22658,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "Teri Deen Anderson Dec 1;"
+      "Teri Deen Anderson"
     ],
     "spouses": [],
     "children": []
@@ -23938,7 +23937,7 @@
     "spouses": [],
     "children": [
       "Everett Moses LaMont",
-      "Donald Leonard LaMont Nov 7"
+      "Donald Leonard LaMont"
     ]
   },
   {
@@ -24076,7 +24075,7 @@
     "children": []
   },
   {
-    "name": "Donald Leonard LaMont Nov 7",
+    "name": "Donald Leonard LaMont",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -24101,7 +24100,7 @@
     "generation": null,
     "parents": [],
     "spouses": [
-      "Donald Leonard LaMont Nov 7"
+      "Donald Leonard LaMont"
     ],
     "children": []
   },
@@ -24469,12 +24468,12 @@
     ],
     "spouses": [],
     "children": [
-      "LaRae Nickole Lind Oct 8",
+      "LaRae Nickole Lind",
       "Christine Kelli Lind"
     ]
   },
   {
-    "name": "LaRae Nickole Lind Oct 8",
+    "name": "LaRae Nickole Lind",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -30009,14 +30008,14 @@
     ],
     "spouses": [],
     "children": [
-      "Rhonda Jean Longbrake Aug 17",
+      "Rhonda Jean Longbrake",
       "Jerri Lynn Longbrake",
       "Brian Allen",
       "Perry Lee Longbrake"
     ]
   },
   {
-    "name": "Rhonda Jean Longbrake Aug 17",
+    "name": "Rhonda Jean Longbrake",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -30047,7 +30046,7 @@
     "generation": null,
     "parents": [],
     "spouses": [
-      "Rhonda Jean Longbrake Aug 17"
+      "Rhonda Jean Longbrake"
     ],
     "children": [
       "Audey James Anderson - Feb",
@@ -30066,7 +30065,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "Rhonda Jean Longbrake Aug 17",
+      "Rhonda Jean Longbrake",
       "Melvin Arthur Anderson, Jr"
     ],
     "spouses": [],
@@ -30081,7 +30080,7 @@
     "gender": "F",
     "generation": 8,
     "parents": [
-      "Rhonda Jean Longbrake Aug 17",
+      "Rhonda Jean Longbrake",
       "Melvin Arthur Anderson, Jr"
     ],
     "spouses": [],
@@ -30096,7 +30095,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "Rhonda Jean Longbrake Aug 17",
+      "Rhonda Jean Longbrake",
       "Melvin Arthur Anderson, Jr"
     ],
     "spouses": [],
@@ -30111,7 +30110,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "Rhonda Jean Longbrake Aug 17",
+      "Rhonda Jean Longbrake",
       "Melvin Arthur Anderson, Jr"
     ],
     "spouses": [],
@@ -30126,7 +30125,7 @@
     "gender": null,
     "generation": 8,
     "parents": [
-      "Rhonda Jean Longbrake Aug 17",
+      "Rhonda Jean Longbrake",
       "Melvin Arthur Anderson, Jr"
     ],
     "spouses": [],
@@ -33186,7 +33185,7 @@
     "spouses": [],
     "children": [
       "Dakota Rose Marshall",
-      "Jade McCoy Marshall Jun 29:"
+      "Jade McCoy Marshall"
     ]
   },
   {
@@ -33204,7 +33203,7 @@
     "children": []
   },
   {
-    "name": "Jade McCoy Marshall Jun 29:",
+    "name": "Jade McCoy Marshall",
     "birth_year": 1994,
     "birth_year_circa": false,
     "death_year": null,
@@ -38236,10 +38235,10 @@
       "Scott Allan Christenson",
       "Todd Robert Christenson",
       "Amy Jo Christenson (Monte Ann Dx)",
+      "Troy Ducheneaux",
       "Ann Marie Christenson",
       "Amy Jo Christenson (Monte Ann",
-      "T'y Ducheneaux",
-      "Troy Ducheneaux"
+      "T'y Ducheneaux"
     ]
   },
   {
@@ -38277,21 +38276,6 @@
   {
     "name": "T'y Ducheneaux",
     "birth_year": 1967,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 7,
-    "parents": [
-      "Myrna Claire Ducheneaux",
-      "Robert Dale Christenson"
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
-    "name": "Troy Ducheneaux",
-    "birth_year": 1970,
     "birth_year_circa": false,
     "death_year": null,
     "death_year_circa": false,
@@ -41963,7 +41947,7 @@
     ],
     "children": [
       "Justin Wayne West",
-      "Justice Wayne West Apr 24",
+      "Justice Wayne West",
       "Justice Wayne West Apr 124"
     ]
   },
@@ -41981,7 +41965,7 @@
     ],
     "children": [
       "Justin Wayne West",
-      "Justice Wayne West Apr 24",
+      "Justice Wayne West",
       "Justice Wayne West Apr 124"
     ]
   },
@@ -42166,11 +42150,10 @@
     "children": [
       "Terrill Susan \"Terri' Ducheneaux",
       "John Wade Ducheneaux",
-      "Leslie Alyssa LeCompte Nov 22",
+      "Leslie Alyssa LeCompte",
       "Floyd Narcelle LeCompte",
       "Terrill Susan 'Terri' Ducheneaux",
-      "John",
-      "Leslie Alyssa LeCompte"
+      "John"
     ]
   },
   {
@@ -42240,8 +42223,8 @@
     ]
   },
   {
-    "name": "Leslie Alyssa LeCompte Nov 22",
-    "birth_year": null,
+    "name": "Leslie Alyssa LeCompte",
+    "birth_year": 1969,
     "birth_year_circa": false,
     "death_year": null,
     "death_year_circa": false,
@@ -42410,8 +42393,7 @@
     "generation": null,
     "parents": [],
     "spouses": [
-      "Gordon Vincent LeCompte",
-      "Gordon Vincent: LeCompte"
+      "Gordon Vincent LeCompte"
     ],
     "children": [
       "Jody Faye LeCompte",
@@ -42421,8 +42403,7 @@
       "Jonnie Patrick LeCompte",
       "Robyn Katherine LeCompte",
       "Jody Fay LeCompte",
-      "Jacgalyn Kay LeCompte",
-      "Jacqalyn Kay LeCompte Feb 19"
+      "Jacgalyn Kay LeCompte"
     ]
   },
   {
@@ -46088,25 +46069,6 @@
     "children": []
   },
   {
-    "name": "Janelle Marie Hall",
-    "birth_year": 1960,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 8,
-    "parents": [
-      "Lorita Ann Lawrence",
-      "Cedric Dayton Hall"
-    ],
-    "spouses": [
-      "Morgan Todd Ward"
-    ],
-    "children": [
-      "Kyle Dean Ward"
-    ]
-  },
-  {
     "name": "Kara Lee Dupris",
     "birth_year": 1967,
     "birth_year_circa": false,
@@ -49623,22 +49585,6 @@
       "Manson Austin Garreau"
     ],
     "spouses": [],
-    "children": [
-      "Austin Elmer Gunville"
-    ]
-  },
-  {
-    "name": "Austin Elmer Gunville",
-    "birth_year": 1992,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 7,
-    "parents": [
-      "Margaret Jean 'Mags' Garreau"
-    ],
-    "spouses": [],
     "children": []
   },
   {
@@ -51478,7 +51424,7 @@
       "Tina Flook Kemp"
     ],
     "children": [
-      "James Justin Payne, JI Nov 4"
+      "James Justin Payne, JI"
     ]
   },
   {
@@ -51494,11 +51440,11 @@
       "James Justin Payne, SI"
     ],
     "children": [
-      "James Justin Payne, JI Nov 4"
+      "James Justin Payne, JI"
     ]
   },
   {
-    "name": "James Justin Payne, JI Nov 4",
+    "name": "James Justin Payne, JI",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -61463,7 +61409,7 @@
       "George J 'Jay' Pearman",
       "Edith Julia Pearman",
       "Frank T Pearman",
-      "Evelyn Evangeline 'Mollie' Pearman Aug 2"
+      "Evelyn Evangeline 'Mollie' Pearman"
     ]
   },
   {
@@ -64666,7 +64612,7 @@
     "children": [
       "Jennifer Nichole Wimmer",
       "Courtney Ann Wimmer",
-      "Brooke Lynn Wimmer May 13"
+      "Brooke Lynn Wimmer"
     ]
   },
   {
@@ -64684,7 +64630,7 @@
     "children": [
       "Jennifer Nichole Wimmer",
       "Courtney Ann Wimmer",
-      "Brooke Lynn Wimmer May 13"
+      "Brooke Lynn Wimmer"
     ]
   },
   {
@@ -64718,7 +64664,7 @@
     "children": []
   },
   {
-    "name": "Brooke Lynn Wimmer May 13",
+    "name": "Brooke Lynn Wimmer",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -69670,7 +69616,7 @@
       "Brittany Nicole Jewett",
       "Cameron Royal Jewett",
       "Tahlia Jake Jewett",
-      "Gage Wakiyan Hoksila Jewett Jul 19"
+      "Gage Wakiyan Hoksila Jewett"
     ]
   },
   {
@@ -69690,8 +69636,7 @@
       "Peyton James Jewett",
       "Brittany Nicole Jewett",
       "Cameron Royal Jewett",
-      "Tahlia Jake Jewett",
-      "Gage Wakiyan Hoksila Jewett Jul 19"
+      "Tahlia Jake Jewett"
     ]
   },
   {
@@ -69841,21 +69786,6 @@
     "children": []
   },
   {
-    "name": "Gage Wakiyan Hoksila Jewett Jul 19",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 8,
-    "parents": [
-      "Gregory Lamars Jewett",
-      "Linda Lou Dillabaugh"
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
     "name": "Marcelline Julienne Jewett",
     "birth_year": 1953,
     "birth_year_circa": false,
@@ -69889,27 +69819,11 @@
       "Leslie Teton Ducheneaux"
     ],
     "children": [
-      "Londell Michael Lesmeister Jun 25",
-      "Lyle Matthew Lesmeister",
       "Londell Michael Lesmeister",
+      "Lyle Matthew Lesmeister",
       "Talon Bazille Ducheneaux",
       "Taran Andrew Ducheneaux"
     ]
-  },
-  {
-    "name": "Londell Michael Lesmeister Jun 25",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 9,
-    "parents": [
-      "Lynette Marie Lesmeister",
-      "Leslie Teton Ducheneaux"
-    ],
-    "spouses": [],
-    "children": []
   },
   {
     "name": "Lyle Matthew Lesmeister",
@@ -70093,7 +70007,7 @@
     "children": [
       "Kellie Jo Jewett",
       "Brandee Lynn Jewett",
-      "Cody Carlyle Jewett Nov 28",
+      "Cody Carlyle Jewett",
       "Dustin Albert Jewett",
       "Wyatt Earle Jewett"
     ]
@@ -70113,7 +70027,7 @@
     "children": [
       "Kellie Jo Jewett",
       "Brandee Lynn Jewett",
-      "Cody Carlyle Jewett Nov 28",
+      "Cody Carlyle Jewett",
       "Dustin Albert Jewett",
       "Wyatt Earle Jewett"
     ]
@@ -70180,7 +70094,7 @@
     "children": []
   },
   {
-    "name": "Cody Carlyle Jewett Nov 28",
+    "name": "Cody Carlyle Jewett",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -70205,7 +70119,7 @@
     "gender": null,
     "generation": 9,
     "parents": [
-      "Cody Carlyle Jewett Nov 28"
+      "Cody Carlyle Jewett"
     ],
     "spouses": [],
     "children": []
@@ -71984,7 +71898,7 @@
       "Kenneth Orvil Griffin",
       "Barbara Kay Griffin",
       "Joni Marie Griffin",
-      "James Dale Griffin May 6"
+      "James Dale Griffin"
     ]
   },
   {
@@ -72046,7 +71960,7 @@
     "children": []
   },
   {
-    "name": "James Dale Griffin May 6",
+    "name": "James Dale Griffin",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -74131,7 +74045,7 @@
     "children": [
       "Joseph Albert Paradis, JI",
       "John Alden Paradis",
-      "Mary Jane Paradis Mar 8"
+      "Mary Jane Paradis"
     ]
   },
   {
@@ -74163,7 +74077,7 @@
     "children": []
   },
   {
-    "name": "Mary Jane Paradis Mar 8",
+    "name": "Mary Jane Paradis",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -77448,8 +77362,7 @@
       "Cyril Moses 'Cuke' LeCompte, JI - Feb",
       "Claymore Narcelle \"John' LeCompte",
       "Cyril Moses 'Cuke' LeCompte, JI",
-      "Marian Catherine \"Merle' LeCompte",
-      "Gordon Vincent: LeCompte"
+      "Marian Catherine \"Merle' LeCompte"
     ]
   },
   {
@@ -77475,7 +77388,7 @@
       "Claymore Narcelle \"John' LeCompte",
       "Cyril Moses 'Cuke' LeCompte, JI",
       "Marian Catherine \"Merle' LeCompte",
-      "Gordon Vincent: LeCompte",
+      "Gordon Vincent LeCompte",
       "June Helen LeCompte",
       "Narcisse Edward LeCompte",
       "Cyril Moses 'Cuke' LeCompte"
@@ -77530,7 +77443,7 @@
     ]
   },
   {
-    "name": "Justice Wayne West Apr 24",
+    "name": "Justice Wayne West",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -77664,21 +77577,6 @@
     ]
   },
   {
-    "name": "Leslie Alyssa LeCompte",
-    "birth_year": 1969,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 6,
-    "parents": [
-      "Claymore Narcelle 'John' LeCompte",
-      "Tate Michael Sidell"
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
     "name": "Kimmie Jo LeCompte",
     "birth_year": 1996,
     "birth_year_circa": false,
@@ -77753,7 +77651,6 @@
     "parents": [],
     "spouses": [
       "Jacqalyn Kay LeCompte",
-      "Jacqalyn Kay LeCompte Feb 19",
       "Jacgalyn Kay LeCompte"
     ],
     "children": [
@@ -78404,36 +78301,6 @@
       "Rhonda Leigh Rousseau",
       "Veronica Cynthia Rose Rousseau"
     ]
-  },
-  {
-    "name": "Arlene Rochelle Smith Jun 11",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 7,
-    "parents": [
-      "Rhea Emerald LeCompte",
-      "Charles Brendan Smith"
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
-    "name": "Tasina Sapa Win Smith Sep 18",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 7,
-    "parents": [
-      "Rhea Emerald LeCompte",
-      "Charles Brendan Smith"
-    ],
-    "spouses": [],
-    "children": []
   },
   {
     "name": "Connie Smith",
@@ -82256,7 +82123,7 @@
       "Mary Patrice Luger"
     ],
     "children": [
-      "Marcus Clay Austin Sep 7",
+      "Marcus Clay Austin",
       "Quinn Ashley Austin"
     ]
   },
@@ -82275,7 +82142,7 @@
       "Kenneth Billingsly"
     ],
     "children": [
-      "Marcus Clay Austin Sep 7",
+      "Marcus Clay Austin",
       "Quinn Ashley Austin"
     ]
   },
@@ -83581,10 +83448,9 @@
     "children": [
       "Terrill Susan \"Terri' Ducheneaux",
       "John Wade Ducheneaux",
-      "Leslie Alyssa LeCompte Nov 22",
+      "Leslie Alyssa LeCompte",
       "Terrill Susan 'Terri' Ducheneaux",
-      "John",
-      "Leslie Alyssa LeCompte"
+      "John"
     ]
   },
   {
@@ -83776,7 +83642,7 @@
       "George J 'Jay' Pearman",
       "Edith Julia Pearman",
       "Frank T Pearman",
-      "Evelyn Evangeline 'Mollie' Pearman Aug 2"
+      "Evelyn Evangeline 'Mollie' Pearman"
     ]
   },
   {
@@ -90793,7 +90659,7 @@
     "children": []
   },
   {
-    "name": "Evelyn Evangeline 'Mollie' Pearman Aug 2",
+    "name": "Evelyn Evangeline 'Mollie' Pearman",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -90823,7 +90689,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "Evelyn Evangeline 'Mollie' Pearman Aug 2"
+      "Evelyn Evangeline 'Mollie' Pearman"
     ],
     "spouses": [],
     "children": []
@@ -90837,7 +90703,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "Evelyn Evangeline 'Mollie' Pearman Aug 2"
+      "Evelyn Evangeline 'Mollie' Pearman"
     ],
     "spouses": [],
     "children": []
@@ -90851,7 +90717,7 @@
     "gender": "M",
     "generation": 5,
     "parents": [
-      "Evelyn Evangeline 'Mollie' Pearman Aug 2"
+      "Evelyn Evangeline 'Mollie' Pearman"
     ],
     "spouses": [],
     "children": []
@@ -90865,7 +90731,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "Evelyn Evangeline 'Mollie' Pearman Aug 2"
+      "Evelyn Evangeline 'Mollie' Pearman"
     ],
     "spouses": [],
     "children": [
@@ -90925,7 +90791,7 @@
     "gender": "F",
     "generation": 5,
     "parents": [
-      "Evelyn Evangeline 'Mollie' Pearman Aug 2"
+      "Evelyn Evangeline 'Mollie' Pearman"
     ],
     "spouses": [],
     "children": []
@@ -90939,7 +90805,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "Evelyn Evangeline 'Mollie' Pearman Aug 2"
+      "Evelyn Evangeline 'Mollie' Pearman"
     ],
     "spouses": [],
     "children": []
@@ -91136,7 +91002,7 @@
     ],
     "children": [
       "Larry Dean Claymore",
-      "Cathy Kay Claymore Oct 2",
+      "Cathy Kay Claymore",
       "Danny John Claymore"
     ]
   },
@@ -91154,7 +91020,7 @@
     ],
     "children": [
       "Larry Dean Claymore",
-      "Cathy Kay Claymore Oct 2",
+      "Cathy Kay Claymore",
       "Danny John Claymore"
     ]
   },
@@ -91174,7 +91040,7 @@
     "children": []
   },
   {
-    "name": "Cathy Kay Claymore Oct 2",
+    "name": "Cathy Kay Claymore",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -92172,7 +92038,7 @@
       "Lucille M Claymore",
       "George W Claymore",
       "Charles Leonard Claymore",
-      "BODY Smith III 3",
+      "BODY Smith",
       "Henry Phillip Claymore",
       "Enma Claymore"
     ]
@@ -94323,7 +94189,7 @@
     "children": []
   },
   {
-    "name": "Marcus Clay Austin Sep 7",
+    "name": "Marcus Clay Austin",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -94873,7 +94739,7 @@
     "children": []
   },
   {
-    "name": "BODY Smith III 3",
+    "name": "BODY Smith",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": 1966,
@@ -94902,7 +94768,7 @@
     "generation": null,
     "parents": [],
     "spouses": [
-      "BODY Smith III 3"
+      "BODY Smith"
     ],
     "children": [
       "Neomi Martha Harris",
@@ -94919,7 +94785,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "BODY Smith III 3",
+      "BODY Smith",
       "Richard Edward Harris, SI"
     ],
     "spouses": [],
@@ -94934,7 +94800,7 @@
     "gender": "F",
     "generation": 5,
     "parents": [
-      "BODY Smith III 3",
+      "BODY Smith",
       "Richard Edward Harris, SI"
     ],
     "spouses": [
@@ -95018,7 +94884,7 @@
     "gender": null,
     "generation": 5,
     "parents": [
-      "BODY Smith III 3",
+      "BODY Smith",
       "Richard Edward Harris, SI"
     ],
     "spouses": [],
@@ -95257,7 +95123,7 @@
     "spouses": [],
     "children": [
       "Sidney Charles Claymore",
-      "Faye Olive Claymore Dec 20",
+      "Faye Olive Claymore",
       "Fave Alene Claymore",
       "Donald Eugene Claymore",
       "Alsace Marie Claymore",
@@ -95384,7 +95250,7 @@
     "children": []
   },
   {
-    "name": "Faye Olive Claymore Dec 20",
+    "name": "Faye Olive Claymore",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -96290,18 +96156,6 @@
     "death_year_circa": false,
     "gender": null,
     "generation": 1,
-    "parents": [],
-    "spouses": [],
-    "children": []
-  },
-  {
-    "name": "Jade McCoy Marshall",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 7,
     "parents": [],
     "spouses": [],
     "children": []
@@ -98237,7 +98091,7 @@
       "Marie Audette Emery",
       "Charles Edward Emery",
       "Carol Leone",
-      "James William Emery, JI Jan 24",
+      "James William Emery, JI",
       "Raymond Laverne Emery",
       "Carol Leone Emery"
     ]
@@ -98686,7 +98540,7 @@
     "children": []
   },
   {
-    "name": "James William Emery, JI Jan 24",
+    "name": "James William Emery, JI",
     "birth_year": null,
     "birth_year_circa": false,
     "death_year": null,
@@ -98710,7 +98564,7 @@
     "gender": null,
     "generation": 6,
     "parents": [
-      "James William Emery, JI Jan 24"
+      "James William Emery, JI"
     ],
     "spouses": [],
     "children": []
@@ -107052,7 +106906,7 @@
       "Bernard Owen LaPlante",
       "Richard Paul LaPlante",
       "Leroy Verdel LaPlante, JI",
-      "Leroy Verdel LaPlante, Jr:"
+      "Leroy Verdel LaPlante, Jr"
     ]
   },
   {
@@ -116799,7 +116653,7 @@
     ]
   },
   {
-    "name": "Leroy Verdel LaPlante, Jr:",
+    "name": "Leroy Verdel LaPlante, Jr",
     "birth_year": 1968,
     "birth_year_circa": false,
     "death_year": null,
@@ -116824,7 +116678,7 @@
     "generation": null,
     "parents": [],
     "spouses": [
-      "Leroy Verdel LaPlante, Jr:"
+      "Leroy Verdel LaPlante, Jr"
     ],
     "children": []
   },
@@ -119586,42 +119440,6 @@
     "spouses": [
       "Karl Van Schellern",
       "Joseph Andrew Livermont"
-    ],
-    "children": []
-  },
-  {
-    "name": "Gordon Vincent: LeCompte",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 6,
-    "parents": [
-      "Catherine Lily Claymore",
-      "Cyril Moses 'Casey' LeCompte"
-    ],
-    "spouses": [
-      "Patricia Katherine Lafferty"
-    ],
-    "children": [
-      "Jacqalyn Kay LeCompte Feb 19"
-    ]
-  },
-  {
-    "name": "Jacqalyn Kay LeCompte Feb 19",
-    "birth_year": null,
-    "birth_year_circa": false,
-    "death_year": null,
-    "death_year_circa": false,
-    "gender": null,
-    "generation": 7,
-    "parents": [
-      "Gordon Vincent: LeCompte",
-      "Patricia Katherine Lafferty"
-    ],
-    "spouses": [
-      "Cyril Brant Cook"
     ],
     "children": []
   },

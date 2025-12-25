@@ -124,15 +124,21 @@ def extract_years(text: str) -> tuple:
 
 def clean_name(text: str) -> str:
     """Extract and clean the person's name from text."""
-    # Remove date information
+    # Remove date information (full dates like "May 30, 1982")
     name = re.sub(r'[A-Za-z]{3}\s+\d{1,2},?\s*\d{4}', '', text)
     name = re.sub(r'\b\d{4}\b', '', name)
+
+    # Remove partial dates stuck at end (like "Jun 29:" or "May 30;")
+    name = re.sub(r'\s+[A-Za-z]{3}\s+\d{1,2}[;:,]?\s*$', '', name)
 
     # Remove common suffixes that got separated
     name = re.sub(r'\s*[-–]\s*$', '', name)
 
-    # Remove various markers
+    # Remove various markers (including colons and semicolons)
     name = re.sub(r'[•†*+\.]+', ' ', name)
+
+    # Replace colons and semicolons with space (they shouldn't be in names)
+    name = re.sub(r'[:;]', ' ', name)
 
     # Clean up
     name = re.sub(r'\s+', ' ', name).strip()
