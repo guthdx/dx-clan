@@ -210,11 +210,30 @@ def preprocess_lines(lines: list) -> list:
     """
     Preprocess OCR lines to handle multi-line entries.
 
-    When a line is just a generation number (e.g., "6") or starts with
-    punctuation/number followed by newline, join it with the next line.
+    Handles cases like:
+    - Line 1: "6"              (just generation number)
+    - Line 2: "Franklin Delano Ducheneaux"  (name)
+    - Line 3: "Jan 30, 1940"   (birth date on separate line)
+
+    These should all be joined into one entry.
     """
     processed = []
     i = 0
+
+    # Pattern for lines that are just dates (birth/death info)
+    date_only_pattern = re.compile(
+        r'^[•.*†+,;:\-/\s]*'  # Optional OCR noise prefix
+        r'('
+        r'[A-Za-z]{3}\s+\d{1,2},?\s*\d{4}'  # "Jan 30, 1940"
+        r'|'
+        r'\d{4}\s*[-–]\s*'  # "1940 -" (partial date range)
+        r'|'
+        r'[-–]\s*[A-Za-z]{3}\s+\d{1,2},?\s*\d{4}'  # "- Mar 13, 1976"
+        r'|'
+        r'[A-Za-z]{3}\s+\d{1,2},?\s*\d{4}\s*[-–]\s*[A-Za-z]{3}\s+\d{1,2},?\s*\d{4}'  # Full range
+        r')'
+        r'\s*$'
+    )
 
     while i < len(lines):
         line = lines[i].rstrip()
@@ -224,12 +243,33 @@ def preprocess_lines(lines: list) -> list:
         just_gen = re.match(r'^[•.*†+,;:\-/\s]*(\d)\s*$', line)
 
         if just_gen and i + 1 < len(lines):
-            # This is just a generation number - join with next line
+            # This is just a generation number - join with next line(s)
             next_line = lines[i + 1].rstrip()
             combined = line + ' ' + next_line
-            processed.append(combined)
             i += 2
+
+            # Check if the following line is just a date - join it too
+            while i < len(lines):
+                following = lines[i].rstrip()
+                if date_only_pattern.match(following):
+                    combined = combined + ' ' + following
+                    i += 1
+                else:
+                    break
+
+            processed.append(combined)
         else:
+            # Check if current line is a name and next line is just a date
+            # (handles cases where gen+name are together but date is separate)
+            if i + 1 < len(lines):
+                next_line = lines[i + 1].rstrip()
+                if date_only_pattern.match(next_line):
+                    # Join name line with date line
+                    combined = line + ' ' + next_line
+                    processed.append(combined)
+                    i += 2
+                    continue
+
             processed.append(line)
             i += 1
 
