@@ -231,9 +231,15 @@ def preprocess_lines(lines: list) -> list:
         r'[-–]\s*[A-Za-z]{3}\s+\d{1,2},?\s*\d{4}'  # "- Mar 13, 1976"
         r'|'
         r'[A-Za-z]{3}\s+\d{1,2},?\s*\d{4}\s*[-–]\s*[A-Za-z]{3}\s+\d{1,2},?\s*\d{4}'  # Full range
+        r'|'
+        r'\d{4}'  # Just a year like "1952"
         r')'
         r'\s*$'
     )
+
+    # Pattern for lines ending with partial date (month day,) needing year from next line
+    partial_date_ending = re.compile(r'[A-Za-z]{3}\s+\d{1,2},\s*$')
+    year_only_pattern = re.compile(r'^[•.*†+,;:\-/\s]*(\d{4})\s*$')
 
     while i < len(lines):
         line = lines[i].rstrip()
@@ -259,6 +265,17 @@ def preprocess_lines(lines: list) -> list:
 
             processed.append(combined)
         else:
+            # Check if current line ends with partial date like "May 20,"
+            # and next line is just the year
+            if i + 1 < len(lines) and partial_date_ending.search(line):
+                next_line = lines[i + 1].rstrip()
+                if year_only_pattern.match(next_line):
+                    # Join line with year
+                    combined = line + ' ' + next_line
+                    processed.append(combined)
+                    i += 2
+                    continue
+
             # Check if current line is a name and next line is just a date
             # (handles cases where gen+name are together but date is separate)
             if i + 1 < len(lines):
