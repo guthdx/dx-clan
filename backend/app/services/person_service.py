@@ -3,7 +3,7 @@
 from uuid import UUID
 from typing import Optional
 
-from sqlalchemy import select, func, or_, delete
+from sqlalchemy import select, func, or_, delete, and_
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.orm import selectinload
 
@@ -234,3 +234,43 @@ class PersonService:
         result = await self.session.execute(stmt)
         await self.session.commit()
         return result.rowcount > 0
+
+    async def get_founding_ancestors(self, limit: int = 12) -> list[Person]:
+        """
+        Get founding ancestors - people with no parents in the database,
+        ordered by birth/death year (earliest first).
+        These are the root ancestors of the family tree.
+        Filters out junk entries and OCR errors.
+        """
+        # Subquery to find all person IDs that appear as children
+        children_subquery = select(ParentChild.child_id).distinct()
+
+        # Select persons who are NOT in the children list (no parents recorded)
+        stmt = (
+            select(Person)
+            .where(
+                Person.id.notin_(children_subquery),
+                # Filter out names that start with digits or are very short
+                ~Person.display_name.op('~')('^[0-9]'),  # Not starting with digit
+                func.length(Person.display_name) > 3,    # Name longer than 3 chars
+                # Filter out OCR errors - birth years must be realistic (1650-1920)
+                or_(
+                    and_(Person.birth_year >= 1650, Person.birth_year <= 1920),
+                    and_(Person.birth_year.is_(None), Person.death_year >= 1700, Person.death_year <= 1970),
+                    and_(Person.birth_year.is_(None), Person.death_year.is_(None))
+                )
+            )
+            .order_by(
+                # Prioritize those with actual dates
+                (Person.birth_year.is_(None) & Person.death_year.is_(None)).asc(),
+                # Then by earliest birth year
+                Person.birth_year.nullslast(),
+                # Then by earliest death year
+                Person.death_year.nullslast(),
+                Person.display_name
+            )
+            .limit(limit)
+        )
+
+        result = await self.session.execute(stmt)
+        return list(result.scalars().all())

@@ -40,7 +40,7 @@ function Home() {
   const [results, setResults] = useState([])
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
-  const [recentPersons, setRecentPersons] = useState([])
+  const [foundingAncestors, setFoundingAncestors] = useState([])
   const [recentSearches, setRecentSearches] = useState([])
   const [showDropdown, setShowDropdown] = useState(false)
   const [selectedIndex, setSelectedIndex] = useState(-1)
@@ -110,11 +110,11 @@ function Home() {
   useEffect(() => {
     async function loadData() {
       try {
-        const [persons, statsData] = await Promise.all([
-          api.listPersons(12, 0),
+        const [ancestors, statsData] = await Promise.all([
+          api.getFoundingAncestors(12),
           api.listPersons(1, 0).then(() => ({ total: 13059 })).catch(() => null)
         ])
-        setRecentPersons(persons)
+        setFoundingAncestors(ancestors)
         setStats(statsData)
       } catch (err) {
         console.error('Failed to load data:', err)
@@ -280,12 +280,12 @@ function Home() {
         {error && <div className="error-message">{error}</div>}
       </section>
 
-      {/* Browse Section */}
-      {!query && recentPersons.length > 0 && (
+      {/* Founding Ancestors Section */}
+      {!query && foundingAncestors.length > 0 && (
         <section className="browse-section animate-fade-in stagger-2">
-          <h2 className="section-title">Browse Family Members</h2>
+          <h2 className="section-title">Founding Ancestors</h2>
           <div className="person-grid">
-            {recentPersons.map((person, i) => (
+            {foundingAncestors.map((person, i) => (
               <Link
                 key={person.id}
                 to={`/person/${person.id}`}

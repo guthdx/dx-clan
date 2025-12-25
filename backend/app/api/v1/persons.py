@@ -58,6 +58,21 @@ async def search_persons(
     return SearchResponse(query=q, results=results, totalCount=len(results))
 
 
+@router.get("/founding-ancestors", response_model=List[PersonSummary])
+async def get_founding_ancestors(
+    limit: int = Query(12, le=50, description="Maximum results"),
+    db: AsyncSession = Depends(get_db)
+):
+    """
+    Get founding ancestors - root persons with no parents in the database.
+    These are the earliest known ancestors in the family tree.
+    """
+    service = PersonService(db)
+    persons = await service.get_founding_ancestors(limit)
+
+    return [person_to_summary(p) for p in persons]
+
+
 @router.get("/{person_id}", response_model=PersonDetail)
 async def get_person(
     person_id: UUID,

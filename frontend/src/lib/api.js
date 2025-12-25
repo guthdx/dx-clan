@@ -32,6 +32,9 @@ export const api = {
   listPersons: (limit = 50, offset = 0) =>
     request(`/api/v1/persons?limit=${limit}&offset=${offset}`),
 
+  getFoundingAncestors: (limit = 12) =>
+    request(`/api/v1/persons/founding-ancestors?limit=${limit}`),
+
   // Families
   getAncestors: (personId, generations = 3) =>
     request(`/api/v1/families/${personId}/ancestors?generations=${generations}`),
