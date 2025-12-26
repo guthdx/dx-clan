@@ -1,5 +1,5 @@
-•5 David Michael LeCompte, SI May 21, 1937 - Mar 1, 1990
-•+Dorothy I McConnaughey
+.5 David Michael LeCompte, SI May 21, 1937 - Mar 1, 1990
+.+Dorothy I McConnaughey
 Jun 30, 1945
 ..6 Diane Gayle LeCompte Sep 30, 1966
 .. 6 Memoree Marjorie LeCompte
@@ -9,7 +9,7 @@ Mar 14,
 5 Morris LeCompte Sep 7, 1938
 +Sarah Kaye Johnson
 .6 Karen Lea LeCompte Jun 25, 1975
-•6 Cheryl Mae LeCompte Jul 28,
+.6 Cheryl Mae LeCompte Jul 28,
 1976
 ..6 Shara Virginia LeCompte
 Jul 31, 1978
@@ -19,15 +19,15 @@ Jul 31, 1978
 +Richard Verdel Lamb
 May 21, 1935 - Mar 4, 1999
 6 Craig Allen LeCompte Feb 28, 1961
-•*Beryl Dene Bitsy
+.*Beryl Dene Bitsy
 ...7 Memoree Rose LeCompte Jan 19, 1993
 5 Vivian Esther LeCompte Jul 27,
 1943
--+Robert Darrel Smith, Jr
++Robert Darrel Smith, Jr
 Nov 25, 1937
 ..6 Farrel Wayne Smith
 Jun 23, 1965
-•+Rebekah Diane Whisnand Nov 15, 1965
+.+Rebekah Diane Whisnand Nov 15, 1965
 ..7 Hunter Wayne Smith
 Jun 1, 1992
 ....7 Virginia Diane Smith Mar 28, 1995
@@ -44,12 +44,12 @@ Lizzie Narcelle
 ..+August 'Kid' Rich
 d. 1902
 ....4 Narcisse Joseph Rich Apr 6, 1898 - Feb 16, 1976
-•+Lucille Joyce 1903
+.+Lucille Joyce 1903
 .5 Thomas True Rich
 Jun 20, 1931
-•5 Narcelle Marianne Rich Jan 10, 1934
+.5 Narcelle Marianne Rich Jan 10, 1934
 ...+Carl Schneider
-•5 Lucille Joyce Rich Apr 1, 1940
+.5 Lucille Joyce Rich Apr 1, 1940
 ....+Robert Hall
 ...5 Phyllis Joan 'Penny' Rich Apr 1, 1940 - 1946
 ..* Narcisse Joseph Rich
@@ -68,15 +68,15 @@ Descendant Tree (2b) of
 +Bazille Claymore,
 Sr
 3 Joseph Claymore 1847 - Jan 13, 1923
-.. +Good Alone Woman
+..+Good Alone Woman
 Joseph Claymore
 .. Scar Woman
 * Joseph Claymore
-.. +Sugar Woman or Mary Tall Mandan
+..+Sugar Woman or Mary Tall Mandan
 ....4 Victoria Claymore
 Jul 1870
 - Apr 29, 1922
-......†Amedee Camille Rousseau
+......+Amedee Camille Rousseau
 Nov 11,
 1871 - Jun 7, 1934
 143

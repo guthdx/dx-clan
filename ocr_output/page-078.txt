@@ -10,10 +10,10 @@ Ivan Andrew LeCompte Dec 28, 1926
 Nov 24, 1931 - Aug 1, 1999
 .6 Charles Andrew LeCompte
 Mar 15, 1951
-•+Ramona Dallas Poitras
+.+Ramona Dallas Poitras
 Aug 13, 1953
 .7 Richard Gene LeCompte
-• +Gayle Ann Lofton
+.+Gayle Ann Lofton
 Jul 24,
 S24, 1979
 1970 - Dec 29, 1994 (a)
@@ -23,8 +23,8 @@ Aug 6, 1990
 Oct 3, 1992
 7
 Ramona Gaye LeCompte Jan 21, 1973
-•+Bill Bosley
-•.8 Chey-tyle Bosley
+.+Bill Bosley
+..8 Chey-tyle Bosley
 1994
 ..8 Sommer Bosley
 1996
@@ -46,7 +46,7 @@ Barbara Jean LeCompte Aug 20, 1954
 Apr 1, 1994
 6 Douglas Marvin LeCompte
 Sep 2, 1957
-•† Dixie Ann Claymore (Lee)
+.+ Dixie Ann Claymore (Lee)
 May 16, 1957
 7 Bradford Wayne LeCompte (Thompson)
 Feb 9, 1977 (b)
@@ -74,10 +74,10 @@ Apr 26, 1965
 ....7 Joey Wade LeCompte
 May 17, 1987
 Melissa Carol LeCompte
-. .+Steven Matthew Klein
+..+Steven Matthew Klein
 ...7 Gregory Ivan Klein Jul 24, 1995
 ..7 Jillian Page Klein Mar 9, 1997
-•6 Ivan Henry 'Hank' LeCompte
+.6 Ivan Henry 'Hank' LeCompte
 Jun 20, 1966
 .+Susan Baker
 .....7 Angel LuCee LeCompte
@@ -98,9 +98,9 @@ Dec 4,
 .+Norma Jeanne Fleury Nov 30, 1934 - 1974
 5 Stephen Douglas LeCompte, I
 Oct 22, 1930 - Aug 27, 1982
-.†Arlene Catherine Fast Horse (Traversie)
+.+Arlene Catherine Fast Horse (Traversie)
 Jul 30, 1941
-•6 Douglas Stephen LeCompte, Sr Jun 20, 1960
-• .+Sheila Roseman
+.6 Douglas Stephen LeCompte, Sr Jun 20, 1960
+..+Sheila Roseman
 May 22, 1965
 76

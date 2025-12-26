@@ -1,9 +1,9 @@
 , 8 Bryan Paul Lawrence Feb 9, 1978
-• 8 Andel Rose Lawrence Oct 13, 1981
+. 8 Andel Rose Lawrence Oct 13, 1981
 7 Richard David Lawrence Oct 16, 1952
 +Betty Jean Poitras Aug 22, 1951 - Jul 16, 2000
-• 8 Laura Jean Lawrence Nov 18, 1970
-•+Tracy Dean Maupin Dec 4, 1969 - Dec 10, 1988
+. 8 Laura Jean Lawrence Nov 18, 1970
+.+Tracy Dean Maupin Dec 4, 1969 - Dec 10, 1988
 ....9 Autumn Nicole Maupin
 Aug 5, 1989
 Laura Jean Lawrence
@@ -13,11 +13,11 @@ Laura Jean Lawrence
 Dec 23, 1993
 8 Kris Ann Lawrence
 Dec 29, 1972
-•†Travis Leonard Garreau
+.+Travis Leonard Garreau
 Oct 21, 1969
 ....9 Taylor Rae Garreau Jan 7, 1990
 Kris Ann Lawrence
-•+Roland Edward Garreau Jul 2, 1974
+.+Roland Edward Garreau Jul 2, 1974
 ...9 Justice Ro' lyn Garreau
 Jul 29, 1995
 8 Keri Ann Lawrence
@@ -25,7 +25,7 @@ Dec 29, 1972
 ... 9 Payton Allen Lawrence
 Aug 1, 1989
 Keri Ann Lawrence
-•tJamie Allen Thompson, Se May 26,
+.tJamie Allen Thompson, Se May 26,
 1969
 ..9 Jamie Allen Thompson, JI
 Jul 22, 1997
@@ -33,12 +33,12 @@ Jul 22, 1997
 Jul 2, 1997
 8 Sheri Jo Lawrence
 Feb 15, 1978
-•+Jess Lorin Clark Feb 14, 1971
+.+Jess Lorin Clark Feb 14, 1971
 ...9 Trenton Alexander Clark Sep 5, 1996
 .. 8 Ricki Jo Lawrence
 Aug 10, 1979
 7 Arlyn George Lawrence Dec 30, 1954
-•+Cheryl Ann Keller May 4, 1958
+.+Cheryl Ann Keller May 4, 1958
 . . 8
 Kevin James Lawrence
 Jul 25, 1978
@@ -46,15 +46,15 @@ Jul 25, 1978
 .8 Jason Dean Lawrence Mar 26, 1984
 B Kristen Marie Lawrence
 Oct 28, 1990
-•7 Patricia Lawrence Jun 7, 1957
+.7 Patricia Lawrence Jun 7, 1957
 7 Marty Allen Lawrence Dec 31, 1958
 +Dawn Estelle Muir
 Sep 19, 1961
 ..8 Jack David Lawrence Nov 2, 1982
 ..8 Mae Lorraine Lawrence Dec 8, 1984
 Marty Allen Lawrence
-.†Monica Marie Traversie Jun 8, 1969
-•8 Alexander McCall Lawrence
+.+Monica Marie Traversie Jun 8, 1969
+.8 Alexander McCall Lawrence
 .. 8 Kaytlin Corine Lawrence
 Jan 14, 1997
 6 Virginia Irene Rousseau Aug 6, 1920 - Aug 12, 1985
@@ -62,8 +62,8 @@ Jan 14, 1997
 Jan 11, 1925
 ,7 Geraldine Ramona Nelson
 Oct 7, 1948
-*†Robert Lewis Swanson
-•-B Dana Michael Swanson May 30,
+*+Robert Lewis Swanson
+.-B Dana Michael Swanson May 30,
 1968
 .. 8 Kevin Lewis Swanson
 Mar 2, 1970
@@ -78,5 +78,5 @@ Deborah Kaye Nelson Sep 25, 1952
 .. 8 Marsha Irene Greeno
 May 21r
 1977
-•7 Dennis Scott Nelson Sep 4, 1953
+.7 Dennis Scott Nelson Sep 4, 1953
 117

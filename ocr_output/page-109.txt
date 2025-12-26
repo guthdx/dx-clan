@@ -2,40 +2,40 @@
 .... 6 Ronnie Walth
 ..5 Larry Eugene Horst Jun 26,
 1942
-.. +Germaine Parker
-•6 Gary Horst
-•6 Brian Horst
+..+Germaine Parker
+.6 Gary Horst
+.6 Brian Horst
 ..6 Bradley Horst
 ..5 Darrel Leroy Horst Dec 7, 1943
-•5 Carlene Kay Horst
+.5 Carlene Kay Horst
 Jan 11,
 1946
-• +Larry Cahoy
+.+Larry Cahoy
 , 6 Ronda Cahoy
-• 6 Jody Cahoy
+. 6 Jody Cahoy
 6 Susan Cahoy
 ... 6 Rodney Cahoy
 .........6 Cory Cahoy
 ....5 Michael Ray Horst Sep 29, 1947
-•†Joan Scarpello
-• 6 Amy HoIst
-• 6 Michelle Horst
+.+Joan Scarpello
+. 6 Amy HoIst
+. 6 Michelle Horst
 ..6 Christoph Horst
 ......5 David Lee Horst
 Aug 3, 1950
-., +Theresa Broome
+.+Theresa Broome
 .6 Andrew Horst
 ...6 Angela Horst
 3 Charles DuCharme 1871 +
 Sep 28, 1934
 +Mary Louise Laundreaux
 1871 - Sep 6, 1909
-•.4 Alexander DuCharme
+..4 Alexander DuCharme
 1892
-•4 Margaret 'Maggie' DuCharme, II 1893 - Dec 21, 1915
+.4 Margaret 'Maggie' DuCharme, II 1893 - Dec 21, 1915
 .tOscar Oversett
 .5 Catherine Elizabeth DuCharme 1915
-.. +Alex Wolverton
+..+Alex Wolverton
 ..6 Richard Wolverton Jan 22, 1935
 Margaret DuCharme, II
 ..+Robert "Shoshoni Bob' Roberts
@@ -47,28 +47,28 @@ Sep 26,
 May 19, 1902 - Feb 5, 1989
 ..5 Margarette Ione DuCharme
 Jul 27, 1922 - Oct 22, 1976
-• +Frank Adams
+.+Frank Adams
 1896 - 1956
 -6 Connie Kay Adams
 Jan 26, 1950
 Bertrach
 .5 Martin Leonard DuCharme, Jr
 Oct 14, 1923
-•Rose Marie Sacco Nov 2, 1925 - Aug 21, 1985
+.Rose Marie Sacco Nov 2, 1925 - Aug 21, 1985
 ..6 Winona Antoinette DuCharne
 Jan 12,
 1945
-•+Frank Michael Holan
+.+Frank Michael Holan
 Nov 26, 1939
 ..7 Jennifer Lynn Holan
 Apr 5, 1968
-•7 Alyssa Marie Holan Feb 10, 1970
+.7 Alyssa Marie Holan Feb 10, 1970
 ... 7 Michael Martin Holan
 Aug 4, 1972
 6
 Jacqueline Marie DuCharme
 Sep 26, 1947
-•+Clair Harrison Yount
+.+Clair Harrison Yount
 May 9, 1945
 ..7 Allison Marie Yount
 sep
@@ -77,7 +77,7 @@ sep
 27, 1977
 6
 Donna Lee DuCharme Aug 13, 1954
-•+Gary Anthony Hartman
+.+Gary Anthony Hartman
 Mar 26, 1947
 ..7 Christina Marie Hartman
 Dec 18, 1977

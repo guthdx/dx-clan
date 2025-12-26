@@ -2,7 +2,7 @@
 ...6 Danny John Claymore
 ..5 Beverly Kay Claymore
 Feb 5,
-•+Lloyd Edwin Earley
+.+Lloyd Edwin Earley
 .... 6 Raquel Colleen Earley
 May 12, 1972
 . 5
@@ -14,12 +14,12 @@ Aug
 2, 1963
 Jul 28,
 1967
-•tAlejandro Cibic
+.tAlejandro Cibic
 ....7 Jesse Alessandro Cibic Sep 19, 1987
 Deborah Jo Claymore
 ..+Jurgen Eite
 .....7 Alyssa Jade Eite Aug 5, 1991
-•5 Teddy S Claymore
+.5 Teddy S Claymore
 Feb 23, 1946
 . 5
 Patsy Ranee Claymore
@@ -27,12 +27,12 @@ Mar 16, 1952
 ..+Harland David Selby
 ....6 Brian David Selby Nov 19, 1971
 Patsy Ranee Claymore
-.....†
+.....+
 Futtere
 4 Marguerite Claymore
 Jun 2, 1895 - Oct 26,
 1976
-•+Hans Mortenson Jan 6, 1891 - Mar 21, 1940
+.+Hans Mortenson Jan 6, 1891 - Mar 21, 1940
 ...5 Clarence Donald Mortenson Aug 3, 1929
 . 6 Pamela Jean Mortenson Mar 16, 1951
 ..+Jeffrey Patterson
@@ -74,15 +74,15 @@ Jul
 25, 1995
 Clarence Donald Mortenson
 ..+Rosemarie Tedesco Parks
-•5 Audrey Jean Mortenson
+.5 Audrey Jean Mortenson
 Jul 21, 1930
-. +Kenneth Stewart Borsch
+.+Kenneth Stewart Borsch
 Jan
 26,
 1927
 .6 Debra Lynn Borsch
 Sep 11, 1951
-•+Keith Youngren
+.+Keith Youngren
 1953
 ....7 Eric Youngren
 Dec 25, 1978
@@ -91,7 +91,7 @@ Debra Lynn Borsch
 Apr 22, 1949
 6 Kent Stewart Borsch
 Nov 4, 1954
-• +Susan Kimberly Bragger
+.+Susan Kimberly Bragger
 Feb 6,
 .7 Taryn Stephanie Borsch
 Jan

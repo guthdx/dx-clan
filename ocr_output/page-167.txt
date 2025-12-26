@@ -8,7 +8,7 @@ Aug 22,
 Jul 4, 1950
 ...6 Allen Courtney Marlow
 Sep
-• 8,
+. 8,
 1951
 .......5 Maxine Thelma Pearman
 Mar 30, 1927
@@ -32,7 +32,7 @@ Feb 16,
 Sep 11, 1e
 1954
 6 Gary Anthony Ebel Apr 21, 1960
-• 6 Kevin Patrick Ebel
+. 6 Kevin Patrick Ebel
 x B01
 Apr 25, 1964
 ......5 Audrey Murrill Pearman Aug 10, 1931 - Oct 1976
@@ -42,25 +42,25 @@ Apr 25, 1964
 .. 4
 Evelyn Evangeline 'Mollie' Pearman Aug 2,
 1900 - Mar 1995
-..†Wallace Joseph 'Bunk' Vanderveer,
+..+Wallace Joseph 'Bunk' Vanderveer,
 SI
 Jul 16, 1901 - Jun 10, 1982
 ...5 Julius Pearman Vanderveer Feb 24, 1923
 . 5
 Phyllis Marie Vanderveer
 Sep 9, 1924 - Feb 20, 1928
-•5 Wallace Joseph Vanderveer, Jr
+.5 Wallace Joseph Vanderveer, Jr
 May 4, 1926 - Mar 6, 1987
 . 5
 Raymond Phillip Vanderveer May 30, 1928 - Jan 25, 1976
-•†Shirley Jean Haggerty
+.+Shirley Jean Haggerty
 Oct 19, 1932
 .. 6 Wallace Frank Vanderveer Sep 3, 1950
 ..6 Patricia Rae Vanderveer Dec 31, 1954
 ....+
 Remington
 ..6 Renee Vanderveer Feb 14, 1961
-•5 Lois Lou Vanderveer Jul 28, 1930
+.5 Lois Lou Vanderveer Jul 28, 1930
 Hoss
 ........5 Robert M Vanderveer Oct 18, 1932
 3 Peter Claymore 1856 - Jan 3, 1933
@@ -71,7 +71,7 @@ Hoss
 Jan 11, 1887 - Feb 7, 1978
 ......+Cyrus Hiett Mar 26, 1867 - Sep 13, 1953
 * Peter Claymore
-.. +Emma Hodgkiss
+..+Emma Hodgkiss
 Jan 16, 1862 - Oct 13, 1942
 ....4
 John Maurice 'Long John' Claymore
@@ -83,7 +83,7 @@ Mar 20,
 - Aug 21, 1999
 ........5 Darleen Laverne Claymore
 Jan 10, 1932
-.. +John Thomas Symonds
+..+John Thomas Symonds
 .. . . ... ..
 ..6 Vicky Lee Symonds Sep 21, 1951
 ............ 6 John Lewis Symonds

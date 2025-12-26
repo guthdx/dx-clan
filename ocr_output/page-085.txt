@@ -2,16 +2,16 @@
 ...7 Samantha Claymore
 6 Brent James Claymore
 Aug 20, 1961 - Oct 20, 1996
-.. +Charlene White
+..+Charlene White
 ...7 Brady Claymore
 Doris Delores LeCompte
 Soiseth
-•5 Delano Carl LeCompte, Sr
+.5 Delano Carl LeCompte, Sr
 May
 19, 1940
-• †Jean Mary Eagle
+.+Jean Mary Eagle
 Jun 27, 1939
-•.6 Dawn Renee LeCompte
+..6 Dawn Renee LeCompte
 Sep 11,
 1959
 +Darrell Lee Middletent
@@ -24,21 +24,21 @@ Sep 9,
 Aug 4, 1961
 6 Donald Curtis 'Cody' LeCompte
 Oct 21, 1962
-•+Delphine Renelle Garreau
+.+Delphine Renelle Garreau
 Apr 3, 1961
 ...7 Tyson Curtis LeCompte Jun 7, 1994
 6 Delano Carl 'Sandy' LeCompte, Jr
 Sep 14, 1963
--+Lenora Mae Bingen
++Lenora Mae Bingen
 Jan 16, 1963
 ...7 Sharonna Marie LeCompte
 Nov 19, 1981
 ...7 Shavonne Jean LeCompte Oct 1, 1984
-• 6 Delores Rae LeCompte Sep 19, 1964
-•.+Mel Dean Rank
+. 6 Delores Rae LeCompte Sep 19, 1964
+..+Mel Dean Rank
 Delano Carl LeCompte, Sr
 *Alfreda Lorraine LaRoche Now 182,1913
-•6 Delfreda Marie LeCompte Jul
+.6 Delfreda Marie LeCompte Jul
 ..+Silas Cedric High Elk Aug 9, 1967
 .. 7 Olivia Jo High Elk
 Dec 5, 1991
@@ -50,7 +50,7 @@ Aug 11, 1971
 6 LaRita Lynn LeCompte
 May 10, 1973
 ..+Brice Delano Stapert
-•.4 William John LeCompte
+..4 William John LeCompte
 Apr 19, 1904 - Jun 19, 1984
 ...4
 Benedict James LeCompte
@@ -60,15 +60,15 @@ Apr 19,
 4, 1907 - Sep 20, 1940
 3 Annie LeCompte
 1074 - May 19, 1939
-•Walter Swift Bird (LaChapelle) Nov 1070 - Jan 20, 1932
-• 4 Amy Swift Bird
+.Walter Swift Bird (LaChapelle) Nov 1070 - Jan 20, 1932
+. 4 Amy Swift Bird
 Jul 9, 1895 - Oct 7, 1979
 ..+James Chadfield LeBeau Apr 17, 1089 - Jun 10, 1965
 ..5 Annie Josephine LeBeau
 Oct 10, 1914 - Oct 22, 1981
 +Frederick Ducheneaux
 Sep 22, 1911 - Feb 24, 1990
-•6 Richard Fred "Delbert' Ducheneaux May 27, 1937 - May 15, 1963
+.6 Richard Fred "Delbert' Ducheneaux May 27, 1937 - May 15, 1963
 Ellis Erwin
 "Pat' Ducheneaux Apr 17, 1939
 ....7 Delbert Ducheneaux
@@ -79,7 +79,7 @@ Ellis Erwin Ducheneaux
 Jan 9, 1973
 6 Burton James 'Burkey' Ducheneaux, Sr
 Dec 27, 1940
-•+Shirley Ann Martin
+.+Shirley Ann Martin
 Jan 16,
 1956
 .7 Mary Frances Ducheneaux
@@ -88,7 +88,7 @@ Mar 22, 1973
 Sep
 3,
 1974
-•Edward John Hoffman May 1, 1964
+.Edward John Hoffman May 1, 1964
 .. 0 Tyler John Hoffman
 Oct 25, 1992
 ..8 Marlo Cruz Ducheneaux Aug

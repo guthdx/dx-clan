@@ -8,11 +8,11 @@ Aug 17,
 Jan 16, 1949 - Aug 11, 1970
 7 Rikki Rae Claymore
 Aug 27, 1967
-• 8 Kortnee Kristy Claymore
+. 8 Kortnee Kristy Claymore
 Aug 13, 1985
 8
 Tyler Thom Claymore Apr 17, 1986
-• 8 Kellen Grady Claymore Dec 10, 1988
+. 8 Kellen Grady Claymore Dec 10, 1988
 .8 Britnee Robyn-Donna Claymore
 May 5, 1993
 7
@@ -20,7 +20,7 @@ Bryce Alan Claymore
 Sep 14, 1969
 ...7 Brad Allen Claymore Sep 14, 1969
 Steven Grady Claymore
-•+Robin Lydia Eagle Chasing Feb 14, 1948
+.+Robin Lydia Eagle Chasing Feb 14, 1948
 ... 7 Michael Jayde Claymore
 Jan 6,
 1977
@@ -32,7 +32,7 @@ tAnsel Lyle Dupris, Ji Jul
 Jan 4, 1973 - Mar 19, 1974
 Constance Rae Claymore
 +Donald Murray Bakeburg
-•7 Sarah Kay Bakeburg
+.7 Sarah Kay Bakeburg
 Oct 24, 1980
 ..7 Cassandra Kim Bakeburg
 Apr 27, 1984
@@ -40,7 +40,7 @@ Apr 27, 1984
 May 24, 1958 - Aug 11, 1970
 6
 Michael Shayne Claymore Jul 28, 1961
-.,†Janelle Johnson
+.+Janelle Johnson
 ....7 Danette Darlene Claymore Nov 29, 1977
 Bonita Kathryn Claymore
 Nov 18, 1967
@@ -49,16 +49,16 @@ Jan 2, 1968
 ....7 Justyn Jade Lawrence Jul 23,
 1986
 Bonita Kathryn Claymore
-•.+Casey Gerald Dupris
+..+Casey Gerald Dupris
 Oct 29, 1971
 ...7 Trey Alexander Dupris Sep 16,
 1993
 Leonard Basil Claymore
-• +Evelyn Marie Hodgkiss Mar 13,
-•6 Carol Ann Maupin Jan 6, 1954
+.+Evelyn Marie Hodgkiss Mar 13,
+.6 Carol Ann Maupin Jan 6, 1954
 ..+Phillip Michael O'Neal
 Sep 23, 1950
-• 7 Carmen Marie O'Neal
+. 7 Carmen Marie O'Neal
 Apr 16, 1973
 .7 Jayme Diane O'Neal
 Mar 11, 1976
@@ -69,11 +69,11 @@ Mar 11, 1976
 ......+Thomas Wright Nov 10, 1887 - Mar 1, 1969
 ........5 LaVerne Thomas Wright
 Jul 9, 1912 - Oct 2, 1983
-•.+Mary Arcoren
+..+Mary Arcoren
 Nov 29, 1905
 **......5 Melvin Charles Wright
 Nov 29,
-1914 • Nov 10, 1935
+1914 . Nov 10, 1935
 ........5 Oliver or Alwyn sidney 'Ollie' Wright
 Jul 20, 1916 - May 22, 1983
 ..+Martha Shaw

@@ -28,13 +28,13 @@ Sep 11, 1943 - 1944
 6 Judith Ann Claymore
 Apr 27, 1945
 +Kit Calvin Ricketts
-•7 Gregory Carl Ricketts Jul 17, 1967
+.7 Gregory Carl Ricketts Jul 17, 1967
 .. 7 Sandra Jean Ricketts
 Aug 8, 1969
 Judith Ann Claymore
 .+
 Parsley
-• 6 Joseph Claymore
+. 6 Joseph Claymore
 Jan 4, 1947
 ..6 Sean Claymore Oct
 3, 1949
@@ -42,10 +42,10 @@ Jan 4, 1947
 James Joseph Claymore
 ApI 8, 1919 - Aug 1968
 .. 6 James Claymore
-• 6 Jan Claymore
-• 6 Karen Claymore
+. 6 Jan Claymore
+. 6 Karen Claymore
 6 Sherri Claymore
-•5 Richard Clinton Claymore, Sr May 6, 1921 - Mar 1983
+.5 Richard Clinton Claymore, Sr May 6, 1921 - Mar 1983
 6 Jane Claymore
 6 Cindy Claymore
 +Neil Watter
@@ -70,7 +70,7 @@ Jul 16, 1912 - Jan 1, 1944
 Elizabeth Claymore
 - 1885
 ...4 Phillip James Claymore, Sr Sep 9, 1890 - Nov 6, 1926
-...... +Margaret McLean
+......+Margaret McLean
 1890
 ........5 Merle Phillip Claymore
 Jul 19,

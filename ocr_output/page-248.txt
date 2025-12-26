@@ -1,7 +1,7 @@
 * Ronald David Black Bird
-•†Mary Scouts Enemy
+.+Mary Scouts Enemy
 Clarence Christian 'Rocky' Black Bird, Jr Jul 26,
-•†Karen Jean Fiddler Dec
+.+Karen Jean Fiddler Dec
 ... 7 Shawn David Fiddler
 Sep
 14, 1976
@@ -22,19 +22,19 @@ May 14, 1988
 6
 Ansonia Black Bird Jul 21,
 1961
--†Leland Marcel Dupris
++Leland Marcel Dupris
 May 24, 1958 - Jan 10, 1999
 ..7 Sonia Ann Black Bird
 Oct 22, 1981
 Ansonia Black Bird
-•-+Gordon Anthony LeBeau
+.+Gordon Anthony LeBeau
 Aug 19,
 1963
 ...7 Bradley Ray Black Bird
 1, 1990
 ........*
 Bella Antoinette Meeter
-..........†Silas Clarence 'Si Bull' White Eyes
+..........+Silas Clarence 'Si Bull' White Eyes
 Aug 28, 1942 - Oct
 20,
 1997
@@ -63,8 +63,8 @@ Family Tree (5b) of
 1836 - Dec 19, 1917
 3 John Yearling
 ..+Lisping Womar
-• John Yearline
-i •+Red Woman
+. John Yearline
+i .+Red Woman
 John Yearling
 .. Blanket Woman
 * John Yearling

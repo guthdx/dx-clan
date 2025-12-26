@@ -8,8 +8,8 @@ Jonathan David Putnam Jul 16, 1962
 .6 Leslie Allen Putnam
 Oct 16,
 1964
-•6 Content Deann Putnam Nov 6,1967
-•+Tipton McCoy Marshall
+.6 Content Deann Putnam Nov 6,1967
+.+Tipton McCoy Marshall
 ..7 Dakota Rose Marshall Sep
 1 tep' 159 1991
 ...7 Jade McCoy Marshall
@@ -17,17 +17,17 @@ Jun 29,
 1994
 Guy Sidney Claymore
 Mar 11, 1899 - Nov 24, 1964
-•†Clara Demery Aug 18, 1908 - Aug 5, 1993
+.+Clara Demery Aug 18, 1908 - Aug 5, 1993
 ..5 Jack C Claymore
 Apr 9, 1927 - Jun 26, 1985 (a)
-•†Estella B West (Yellow Hawk)
+.+Estella B West (Yellow Hawk)
 Jan 1,
 1917
-•6 Michael Linus Claymore
+.6 Michael Linus Claymore
 Feb 2, 1949 (a)
-.. †Brenda
+..+Brenda
 6 Charles Allen Claymore Sep 12, 1953
-•†Marlis Jean Miner (Curry)
+.+Marlis Jean Miner (Curry)
 ten harm
 Jun 20,
 1953
@@ -35,15 +35,15 @@ Sep 24, 1951
 ...7 Estella Louise Claymore
 Feb 11, 1984
 6 Jack William Claymore May 24, 1956
-•†Clovonna LeRoi Miner Jun 9, 1958
+.+Clovonna LeRoi Miner Jun 9, 1958
 Jack William Claymore
-•+Rita Gloria Good Bear Dec 29, 1953
+.+Rita Gloria Good Bear Dec 29, 1953
 ..7 Sierra Jacklyn Claymore
 Mar 5, 1987
 6 Mark Anthony Claymore
 Apr 26,
 1958
-•+Hope Denise Bowker
+.+Hope Denise Bowker
 Jun 28, 1959
 .7 Jorai Elaina Claymore
 Jul 25,
@@ -55,15 +55,15 @@ Jan 26, 1930 - May 2, 1996
 May 12, 1932
 .. 6 Linda Lee Claymore
 Apr 18, 1951
-•†Larry Steven Eberhard
+.+Larry Steven Eberhard
 Linda Lee Claymore
-•7 Stephanie Clair Eberhard Jul 24, 1967
+.7 Stephanie Clair Eberhard Jul 24, 1967
 ..+Steven Kersten
 ....8 Christian Stephen Kersten Feb 14, 1988
 * Stephanie Clair Eberhard
 ...+Albert Duane Jewett Aug 13, 1955
-•7 Kimberly Ann Eberhard Jul 8, 1968
-•+James Robert Pearman Jan 7,
+.7 Kimberly Ann Eberhard Jul 8, 1968
+.+James Robert Pearman Jan 7,
 1965
 .. 8 Shannon Nicole Pearman
 Feb 9, 1987
@@ -72,8 +72,8 @@ Sep 9, 1992
 Kimberly Ann Eberhard
 ...8 Tayzia LeeMarie Pearman Aug 10, 1988
 Linda
-•+David Eugene Pesicka 1949
-•7 David Lee Pesicka Jul 23, 1970
+.+David Eugene Pesicka 1949
+.7 David Lee Pesicka Jul 23, 1970
 ..+Lynn Marie Hulm
 Nov 6, 1971
 ..8 Patrick Lewis Pesicka Mar 25,

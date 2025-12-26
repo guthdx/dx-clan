@@ -26,7 +26,7 @@ Nov 14,
 - Apr 30, 1977
 ..6 Wayne Anthony Red Bear
 Mar 24, 1960
-. .....••.
+. ........
 ..6 Damone Cornell Red Bear
 Jul 25, 1963
 ..6 Dawn Marie Red Bear Jun 29,
@@ -38,16 +38,16 @@ Alida Mae Arpan
 ..+James Edward Chasing Hawk Feb 1, 1940
 Kenneth Douglas Arpan
 Sep 10, 1941
-., +JoAnn Marr
+.+JoAnn Marr
 ....6 Seth Peter Arpan
 Nov 9, 1967
 Kenneth Douglas Arpan
--†Cora Mae Fish
++Cora Mae Fish
 Jun 13, 1948
 ...*6 Valorie Rae Arpan
 Jul 6, 1969
 Kenneth Douglas Arpan
-. †Charlene Four Bear
+.+Charlene Four Bear
 Jan 6,
 1951
 ..6 Jeffrey Leroy Four Bear
@@ -70,7 +70,7 @@ ApI 2, 1973
 Nov 22,
 1988
 Misty Merene LaPlante
-•+Jae McKenzie Smith
+.+Jae McKenzie Smith
 Jan 21, 1974
 ..7 Walker Gerald Smith
 Oct 4, 1997
@@ -86,7 +86,7 @@ Jan 14, 1980
 ........* Kenneth Douglas Arpan
 .........+Diane Zacher
 ......5 Zane Stephen Arpan
-.......†Mary Louise Dupris Apr 13, 1947
+.......+Mary Louise Dupris Apr 13, 1947
 ..6 Ashley Stefan Arpan
 .....6 Barry Clayton Arpan
 .........6 Clinton Joseph Arpan
@@ -106,7 +106,7 @@ Oct 30,
 1981
 .....* Zane Stephen Arpan
 .....+Haroldine Paulette Hill
-• 4 Maudie Arpan
+. 4 Maudie Arpan
 Nov 23, 1905 - Nov 12,
 1996
 194

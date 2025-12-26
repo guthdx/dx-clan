@@ -4,8 +4,8 @@ Sep 20, 1984
 6 Mary Ellen Different Horse
 1963 - 1963
 6 Celeste Marie Different Horse Feb 28, 1964
-• IMervin Bordeaux
-•7 Heather Romaine Bordeaux Oct 13, 1984
+. IMervin Bordeaux
+.7 Heather Romaine Bordeaux Oct 13, 1984
 .7 Malinda Sue Bordeaux Aug 8, 1985
 ... 7 Bevin Ray Bordeaux
 Feb 6, 1987
@@ -13,23 +13,23 @@ Feb 6, 1987
 Feb 25, 1965
 +Lynelle Madeline Low Dog
 Jun 24, 1967
-•7 Cody Duran Different Horse Apr 6, 1985
+.7 Cody Duran Different Horse Apr 6, 1985
 7 Kyle Jordan Different Horse Mar 10, 1987
-•7 Kendra Durell Different Horse Nov 10, 1988
-•7 Raven Phillip Different Horse Jul 2, 1990
+.7 Kendra Durell Different Horse Nov 10, 1988
+.7 Raven Phillip Different Horse Jul 2, 1990
 ..7 Kevin Carson
 'Little Keb' Different Horse Jan 6, 1992
 6 Marlis Ruth Different Horse
 Aug 28,
 1966
 .tIvan Laverne Howard, SI Jan 26, 1962
-•7 Amber Lynn Howard Oct 30, 1983
+.7 Amber Lynn Howard Oct 30, 1983
 .7
 Feb 17, 1985
 Katherine Lee Howard May 4, 1986
 . 7
 Ivan Laverne Howard, Jr
-Sep 14, 1987 • Nov 11, 1987
+Sep 14, 1987 . Nov 11, 1987
 .7
 Ryan Paul Howard
 .7
@@ -50,25 +50,25 @@ Jul 26, 1944 - Mar 12, 1964
 Larry LeRoy
 "Chops' Charger, Sr
 Sep 18, 1945
-†Nancy L Brings Horses
++Nancy L Brings Horses
 Jan
 28, 1953
 ..6 Conrad Brings Horses Sep 19, 1970
 Larry LeRoy Charger
-•+Verdena Adele Low Dog Aug 28, 1952
+.+Verdena Adele Low Dog Aug 28, 1952
 .6 Rochelle René Charger
 Aug
 26, 197
-•+Jess Doyle Dennis
+.+Jess Doyle Dennis
 Jul 13, 1972
 .7 Mercedes Adele Dennis
 Nov 5, 1991
 ..7 Tichina Nicole Dennis Sep 1, 1993
 LaIIY LeRoy Charger
-•+Donna Marie Shaving Sep 25, 1951
+.+Donna Marie Shaving Sep 25, 1951
 .6 Kendall Sean Charger
 Apr 10, 1973
-•†Alana Rachel Marshall
+.+Alana Rachel Marshall
 May 8, 1976
 ..7 Christian LaMar Marshall
 .?
@@ -87,13 +87,13 @@ Mar 17, 1976
 ..6 Larry LeRoy Charger, Jr
 May 6, 1980
 5 Myrna Fern Charger May 6, 1947
-,†Vincent Frederick 'Beanie' Scott
++Vincent Frederick 'Beanie' Scott
 Aug 19, 1943 - Mar 23, 1978
-•6 Frederick James Scott Jan 27, 1968
-•†Linda Kimball
+.6 Frederick James Scott Jan 27, 1968
+.+Linda Kimball
 ..5 Darrell Frederick Scott 1985
 Frederick James Scott
-,*Brenda LeBeau
+*Brenda LeBeau
 ...5 Brandon James Scott Feb 7,
 1991
 . 6 Donna Lynelle Scott

@@ -1,9 +1,9 @@
-•. 8 Chad Michael North
+.. 8 Chad Michael North
 Oct 1, 1976
 ... 8 Jamie Rae North
 Mar 12, 1978
 Dawn Rae Dorsey
-•†Paul A Emerson
+.+Paul A Emerson
 ... 8 Meghan Michelle Emerson
 Nov 9, 1988
 .. 8 Amber Dawn Emerson
@@ -16,26 +16,26 @@ Oct 14, 1956 - Oct 15, 1956
 Oct 14, 1956 - Oct 15, 1956
 7 Vickie Lea Dorsey
 Oct 14, 1958
-•+Sidney Richard Adams
+.+Sidney Richard Adams
 *
 Vickie Lea DoIsey
-•+Michael Collins
+.+Michael Collins
 .. 8 Allen Michael Collins
 Mar 31, 1989
 ...8 Victoria Marie Collins
 Sep 28, 1991
 ...7 Karen Ann Dorsey Sep 15, 1959 - Jan 18, 1962
 5 Moses Ducheneaux
-May 23, 1902 • Apr 13, 1977
-•.+Victoria Theresa Nichols
+May 23, 1902 . Apr 13, 1977
+..+Victoria Theresa Nichols
 Aug 12, 1897
 - Oct 16, 1973
-•5 Patrick Ducheneaux Apr 21, 1904 - Apr 10, 1946
-•.+Josephine Amelda Whitney
+.5 Patrick Ducheneaux Apr 21, 1904 - Apr 10, 1946
+..+Josephine Amelda Whitney
 Mar 21, 1905 - Oct 8, 1971
 ..6 Darrel Patrick Ducheneaux
 Oct 31, 1927 - Aug 3, 1993
-•†Louise Veronica Silva
+.+Louise Veronica Silva
 Oct 17, 1923
 ,7 Darrel Carlton Ducheneaux
 Jul 3, 1953
@@ -45,26 +45,26 @@ Sep 25, 1955
 Jun 29, 1984
 .7 Patrick Lee Ducheneaux
 Dec 10, 1956
-• 6 LeMoyne D Ducheneaux
+. 6 LeMoyne D Ducheneaux
 Dec 25, 1928 - Dec 31, 1928
 6
 Eugene LeMoyne "Toby' Ducheneaux
 Dec 5, 1929 - Aug 8, 1999
-•†Rose Ann Claymore
+.+Rose Ann Claymore
 Nov 24, 1933 - Jun 11, 1993
 .7 David Gene Ducheneaux
 May 2, 1953
-•†Josie Rena Sam
+.+Josie Rena Sam
 Sep 7, 1951
 ..8 Nicole Ann Ducheneaux Nov 1, 1980
 ...8 Camille Jean Ducheneaux
 Sep
 6, 1985
 7 Roxanne Kay Ducheneaux Oct 9,1954
-• tJeffrey Campaign
+. tJeffrey Campaign
 .. 8 Leanna M Campaign
 Eugene LeMoyne Ducheneaux
-•+Theresa Rose LeBeau Jan 24, 1936
+.+Theresa Rose LeBeau Jan 24, 1936
 .7 June Kathleen Ducheneaux
 Jun 6, 1956
 . . 8
@@ -73,25 +73,25 @@ Oct 28, 1974
 .....+Amy Louise Bowers
 Apr 7, 1974
 * June Kathleen Ducheneaux
-- +Hugh Gerard Peters
++Hugh Gerard Peters
 Mar 16, 1956 - Apr 5, 1983
 ....8 Travis
 Jerard Peters Nov 13, 1977 - Mar 17, 1989
 7 Rose Marie Jean Ducheneaux
 Jul 15, 1958
-•.+Robert Eugene Green Aug 10, 1946
+..+Robert Eugene Green Aug 10, 1946
 7 Clinton Stuart Ducheneaux, Sr
 Nov 13, 1959
-•+Lily Marlae Mendoza Jan 27, 1958
+.+Lily Marlae Mendoza Jan 27, 1958
 ..8 Madelynn Marlae Ducheneaux Jul 3, 1979
 ...8 Cameron Ralph Ducheneaux
 Jun 11, 1980
 Clinton Stuart Ducheneaux,
 Sr
-•+Lisa Kay Hamlin Dec 21, 1955
+.+Lisa Kay Hamlin Dec 21, 1955
 ...8 Clinton Stuart 'Duke' Ducheneaux, Jr Sep 30, 1988
 7 Darin Kevin Ducheneaux Jan 12, 1961
-•#Kun Cha Nov 1, 1963
+.#Kun Cha Nov 1, 1963
 ..8 Patrick Neil Ducheneaux May 27, 1984
 .... 8 Charles Lee Ducheneaux
 Jul 31, 1985

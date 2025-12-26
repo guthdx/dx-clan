@@ -1,14 +1,14 @@
-•.+Ruby Takes The Gun Oct 14, 1944 - Dec 5, 1987
+..+Ruby Takes The Gun Oct 14, 1944 - Dec 5, 1987
 ....7 Skeets Coleton Dolphus
 May 29,
 1981
 6
 Stewart Anthony Dolphus
 Now 24. 1956
-*†Belinda donosky
+*+Belinda donosky
 ...7 Trady Kay Dolphus Feb 18, 1980
 Stewart Anthony Dolphus
-,†Paula Gardner
++Paula Gardner
 ....7 Jensen Don Dolphus
 Sep
 20,
@@ -16,7 +16,7 @@ Sep
 ..5 Lorna E Carter (Garreau)
 Aug 10,
 1931 (a)
-•†Donald Morris 'Duke' Dupree
+.+Donald Morris 'Duke' Dupree
 Feb 28, 1930
 ..6 Larry Reed Dupree
 May 13, 1949
@@ -31,7 +31,7 @@ Oct 28, 1959
 ....5 Melvina Carter
 Feb 21, 1934
 ....* William Carter, I
-... †Nellie LeBeau
+...+Nellie LeBeau
 Apr 1893 - Dec 2, 1933
 ....5 Roland Roy Bowker
 Dec 7, 1928 - Feb 24, 1929
@@ -41,7 +41,7 @@ Mar 28, 1888 - Aug 21, 1957
 Nov 1, 1895 - Sep 9, 1985
 .....5 Angeline Alma White Eyes 1917 - Jan 7, 1930
 * Thomas Carter
-•+Lucy Laundreaux Oct 27, 1893 - Jan 18, 1957
+.+Lucy Laundreaux Oct 27, 1893 - Jan 18, 1957
 ..5 Vivian Rose Carter
 Oct 10, 1925
 ..+Steven Lawrence Red Leaf
@@ -51,7 +51,7 @@ Red Leaf
 Dec 4, 1946
 ....7 Mark Wayne Red Leaf Aug 6, 1968
 Peggy Ann Red Leaf
-•+Leonard Paul 'Ghetto' High Bear Sep 18, 1949
+.+Leonard Paul 'Ghetto' High Bear Sep 18, 1949
 ...7 Jerry Dean High Bear
 Feb 5, 1975
 6 Dale Bernard Red Leaf, SI Apr 24, 1948
@@ -73,7 +73,7 @@ Jun 1,
 1982
 1984
 Mary Red Leaf
-• +William Schmidt
+.+William Schmidt
 ...7 Nina Rose Schmidt
 sep
 6 Michael Thomas Red Leaf
@@ -94,7 +94,7 @@ Jan 8,
 1958
 Mar 9,
 1959
-• +Mona Poor Thunder
+.+Mona Poor Thunder
 ...7 Misty Rose Red Leaf
 6 Linda Diane Red Leaf
 Apr 27, 1985

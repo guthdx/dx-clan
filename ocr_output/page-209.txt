@@ -1,4 +1,4 @@
-•†Russell Charles Zephier Jan 24, 1967
+.+Russell Charles Zephier Jan 24, 1967
 .7 Lynelle Irene Zephier
 Nov 27, 1990
 7 Kyle Wade Zephier Feb 25, 1992
@@ -7,14 +7,14 @@ Jul 13, 1995
 ..6 Gregory Wade Scott Sep 3, 1970
 5
 Delilah Rose Charger Mar 10, 1949
-•†Kenneth Orville "Hardy' Scott
+.+Kenneth Orville "Hardy' Scott
 Feb 22,
 1948 - Dec 25, 1979
-• 6 Orville Robert Scott,
+. 6 Orville Robert Scott,
 SI
 Feb 19,
 1968
-•+Shelly Raylene Bowker
+.+Shelly Raylene Bowker
 Jun 4, 1969
 7 Orville Robert Scott, JI
 Jul 9, 1990
@@ -25,20 +25,20 @@ Felecia Lynn Scott Jun 26, 1986
 ..7 Brittany Josette Scott Jun 27, 1991
 6
 Duane Lyn Charger Apr 13, 1969 - Oct 1989
-•†Lorenda Middletent
+.+Lorenda Middletent
 ...7 Dean Allen Bradley Charger Dec 12, 1984
 Duane Lyn Charger
-•+Lynelle Marie Fallis
+.+Lynelle Marie Fallis
 .7 Amanda Louise Charger May 5, 1988
-•7 Duane Austin Lyn Charger
+.7 Duane Austin Lyn Charger
 Apr 10, 1990
 Delilah Rose Charger
 +Gary Milton Bad Warrior Feb 12, 1950
-•6 GaIy Lyn Bad Warrior Feb 20, 1973
-.†Claudia Brooks
+.6 GaIy Lyn Bad Warrior Feb 20, 1973
+.+Claudia Brooks
 ...7 Shanda Marie Bad Warrior Apr 19, 1991
 6 Gary Lyn Bad Warrior
-•+Brandee Lynn Jewett Feb 21, 1980
+.+Brandee Lynn Jewett Feb 21, 1980
 ..7 Trevor Lyn Bad Warrior
 Feb 10, 1998
 ..7 Treyton Jay Bad Warrior
@@ -46,18 +46,18 @@ Jan 19, 2000
 6
 Terry Lyn Bad Warrior
 Feb 20, 1973
-•†Janet Lynn Uses Many
+.+Janet Lynn Uses Many
 Dec 11, 1972
 ...7 Makayla Lindsey Bad Warrior
 Jun 29, 1992
 Terry Lyn Bad Warrior
-•†LaRonna Sue Big Back
+.+LaRonna Sue Big Back
 7 Sue Ann Bad Warrior
-•7 Sophie Lynn Bad Warrior
+.7 Sophie Lynn Bad Warrior
 6 Robin Ann Bad Warrior May 6, 1974
-•+Shane Loren Eagle Horse, Sr
+.+Shane Loren Eagle Horse, Sr
 Dec 31, 1969
-•7 Jory Vaughn Eagle Horse
+.7 Jory Vaughn Eagle Horse
 Jun 30,
 1991
 Jerilyn Verrier Eagle Horse
@@ -74,7 +74,7 @@ Robin Ann Bad Warrior
 ...7 Ian Edward Hawk
 Sep 6, 1996
 Robin Ann Bad Warrior
-•+Leon Brown Otter, Jr
+.+Leon Brown Otter, Jr
 ...7 Lee Rose Brown Otter Nov 22,
 1998
 Delilah Rose Charger
@@ -82,7 +82,7 @@ Delilah Rose Charger
 5 Colette Coleen Charger
 Bot change e 24, 1930.
 Jun 2, 1951
-†Charles Duane 'Charlie Boy' Shaving
++Charles Duane 'Charlie Boy' Shaving
 Feb 6, 1948 - Jun 26, 1998
 ..6 Tisha Ann Shaving
 Jun 10, 1971

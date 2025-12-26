@@ -3,23 +3,23 @@ Kristie Lee Muzzy
 ....8 Kyle Louis Tibbits
 Sep 3,
 1991
-•7 Beth Lynn Muzzy Jul 9, 1976
+.7 Beth Lynn Muzzy Jul 9, 1976
 .....+Dustin Swalve
-• 6 Rebecca Louise MUZZY 1948
-•+Robert Ward Shreiner
-•.7 Robert Louis Shreiner Jun 19, 1967
+. 6 Rebecca Louise MUZZY 1948
+.+Robert Ward Shreiner
+..7 Robert Louis Shreiner Jun 19, 1967
 ...7 Jeanette Shreiner
 * Rebecca Louise Muzzy
 +David George Carpenter 1947
 .7 David Wesley Carpenter
 Sep 3, 1969
-•7 Louise Marie Carpenter Sep 14,
+.7 Louise Marie Carpenter Sep 14,
 1976
 ..7 Erin Sloan Carpenter May 7, 1978
 6 Katherine Rose Muzzy
 6 Charles Muzzy
 .-6 Jennifer Muzzy
-•5 Ione Marie Claymore Feb 4, 1925 - Feb 20, 1960
+.5 Ione Marie Claymore Feb 4, 1925 - Feb 20, 1960
 +Robert C Hoehner Apr 25,
 1921 - Oct 1973
 ...6 Judith Ann Hoehner
@@ -32,7 +32,7 @@ Aug 15, 1928
 +Ronald Marshall
 .....7 Dustin Marshall
 Evelyn Pauline 'Babe' Claymore
-.†James Brown
+.+James Brown
 ... 6 Christine Brown
 ..6 Pernie James Brown
 ...6 Kari Brown
@@ -42,12 +42,12 @@ Francis Claymore
 Jul 29, 1932 - Jan 9, 1933
 Rose Ann Claymore
 Nov 24, 1933 - Jun 11, 1993
-•†Eugene LeMoyne 'Toby' Ducheneaux Dec 5, 1929 - Aug 8, 1999
+.+Eugene LeMoyne 'Toby' Ducheneaux Dec 5, 1929 - Aug 8, 1999
 .. 6
 David Gene Ducheneaux
 May
 2, 1953
-•+Josie Rena Sam
+.+Josie Rena Sam
 Sep 7, 1951
 ..7 Nicole Ann Ducheneaux
 Nov 1, 1980
@@ -60,7 +60,7 @@ Sep
 ....*
 Rose Ann Claymore
 .. 6 Michael Linn Ducheneaux Aug 19, 1956
-•†Melinda Sidell
+.+Melinda Sidell
 ..7 Chad Sidell
 ....8 Tate Michael Sidell
 .......*
@@ -77,7 +77,7 @@ Rose Ann Claymore
 ...+Floyd Trudell 'Bunker' Hill Mar 21, 1943
 ........*
 Rose Ann Claymore
-•+Duane Edward
+.+Duane Edward
 'Chief' Traversie Nov 27, 1936
 .......
 ...6 Jai Lane Hill Jun 1967

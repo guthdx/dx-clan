@@ -1,7 +1,7 @@
 ....6 Rita Lauris Scott Oct 5, 1987
 Ronald Deleyne Charger
 ...6 Kayla Charger
-•5 Norman Cleveland Charger
+.5 Norman Cleveland Charger
 Jun 7, 1960
 . 5
 Leon Louis Charger
@@ -21,15 +21,15 @@ Jane Charger
 ...+Solomon Gray Bear 1865 - Jul 5, 1905
 .,4
 May or Mary Gray Bear 1893
-•Jan 29, 1910
+.Jan 29, 1910
 ...*.4 Louise Gray Bear
 Dee 13, 1899
 - Oct 16, 1982
-•+Paul High Bear
+.+Paul High Bear
 1900 - 1996
 5 Martin Rufus High Bear
 Sep 11, 1919
-•†Alvina V Little Eagle
+.+Alvina V Little Eagle
 ..6 Clifford Martin High Bear Dec 15, 1940
 +Sandra Maelu Blue Arm
 May 9, 1941
@@ -51,8 +51,8 @@ William Rufus High Bear Aug 12, 1966
 Robbie High Bear
 Aug 10, 1967
 7 Lawrence Jeffery High Bear Jan 15, 1969
-• tAnne Reddy
-•8 Marisa Rose High Bear Nov 9, 1987
+. tAnne Reddy
+.8 Marisa Rose High Bear Nov 9, 1987
 ...8 Rachel Ione High Bear Dec 31, 1992
 ..7 Conroy Dwight High Bear
 Nov 17, 1972
@@ -62,10 +62,10 @@ Jan 12, 1945 - May 2, 1979
 Oct 29, 1936 - Oct 1980
 ...7 Monica Jean LaRoche Quilt
 Oct 5, 1971
-•6 Edward Joseph High Bear Nov 9, 1946
+.6 Edward Joseph High Bear Nov 9, 1946
 .6 Ronald Norman High Bear Nov
 30, 1947 - Apr 2, 1982
--†Clara Louise LeBeau
++Clara Louise LeBeau
 Oct 30, 1949
 .7 Ronald High Bear Nov 21, 1969
 7 Delvin Ray High Bear
@@ -74,7 +74,7 @@ Jan 6, 1970
 ...7 Rhonda Lou High Bear
 Jul
 12, 1974
-• 6 Leonard Paul 'Ghetto' High Bear
+. 6 Leonard Paul 'Ghetto' High Bear
 Sep 18, 1949
 ..+Peggy Ann Red Leaf Dec 4, 1946
 ...7 Jerry Dean High Bear
@@ -83,7 +83,7 @@ Martin Rufus High Bear
 +Rachel Olive Crow Feather May 12, 1925 - Oct 31, 1960
 ,6 Clarice Paulette Marshall
 Nov 20, 1944
--+Dennis C Olsen
++Dennis C Olsen
 ..7 Debra Lynn Olsen Jan 31, 1965
 Clarice Paulette Marshall
 +Earl Barrett

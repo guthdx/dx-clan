@@ -1,11 +1,11 @@
 +Peter L Montry Jul 17, 1929
-• 7 Kateri Marie Montry
+. 7 Kateri Marie Montry
 Feb 13, 1955
-.. +
+..+
 Mercer
 Gregory Louis Montry May 22, 1956
 7 Robert Joseph Montry May 30, 1957
-•7 Kimberly Susan Montry Aug 30, 1959
+.7 Kimberly Susan Montry Aug 30, 1959
 ..7 Jacqueline Denise Montry Feb 16, 1962
 Velda Arlene Ducheneaux
 ..+DeWayne Cottle
@@ -14,34 +14,34 @@ Carl Victor 'Booze' LeCompte Jan 22, 1935 - Oct 6, 1964
 .. 6 Kenneth A Lebeau (Gale T Ducheneaux)
 Aug 31, 1937 - Jul 4, 1957
 Dec 5, 1913 - Mar 5, 1924
-•5 Amelia Marie Ducheneaux Aug 12, 1916 - Oct 1, 1994
-•Edward Calvin Kensler May 24, 1914 - Mar 25, 1981
+.5 Amelia Marie Ducheneaux Aug 12, 1916 - Oct 1, 1994
+.Edward Calvin Kensler May 24, 1914 - Mar 25, 1981
 ..6 Wayne Edward Kensler Nov 18, 1937
 +Joann Marie Carson
 ..7 Michelle Marie Kensler Apr 4, 1967
 ....7 Kristine Louise Kensler
 Jun 29, 1969
 6 Roletta Rose Kensler Aug 5, 1942
-• +Lloyd s Sutton
-•. 7 Kaylene Marie Sutton
+.+Lloyd s Sutton
+.. 7 Kaylene Marie Sutton
 May 5, 1962
 ..7 Craig Samuel Sutton Dec 15,
 1963
 ...7 Kevin Edward Sutton Oct 4, 1966
 Roletta Rose Kensler
-.. +
+..+
 Springfield
 ..6 Emeryl Lorraine Kensler Dec 16, 1948
 +
 Holmes
-•5 Melvin "Jack' Ducheneaux Mar 23, 1921 - Apr 22, 1945
-•†Esther Cecelia Thompson Jun 28, 1919 - Aug 10, 1954
+.5 Melvin "Jack' Ducheneaux Mar 23, 1921 - Apr 22, 1945
+.+Esther Cecelia Thompson Jun 28, 1919 - Aug 10, 1954
 ..6 Ronald Curtis Traversie, SI
 May 23, 1944 - Oct 7, 1982
-• Caroline Lillian Tiger
+. Caroline Lillian Tiger
 Oct 1, 1950
 .7 Terri Lynn Traversie Dec 13, 1974
-•†Thomas Seagram Smith Dec 15, 1971
+.+Thomas Seagram Smith Dec 15, 1971
 .8 Daryl Paige Smith Nov 7, 1995
 .....8 Tomi Lynn Smith
 Dec 14, 1999
@@ -51,7 +51,7 @@ Aug 22, 1979
 6 Leland Dale Traversie Oct 25, 1945 - Mak 30, 1968
 5 Phillip Basil 'Basie' Ducheneaux
 Mar 27, 1923 - Nov 19, 1983
-. +Grace Beatrice Thompson
+.+Grace Beatrice Thompson
 Apr 8, 1926 - Aug 3, 1974
 .. 6 William Ziebach "Zeke' Rousseau
 Mar 7, 1945 - Jan 4, 1997
@@ -59,9 +59,9 @@ Mar 7, 1945 - Jan 4, 1997
 ...7 Dawn Rousseau (Antelope)
 (c)
 William Ziebach Rousseau
-• . +Laverne Thiemeyer
+..+Laverne Thiemeyer
 Phillip Basil Ducheneaux
-• Virginia Mae Powell
+. Virginia Mae Powell
 Oct 28, 1924 = Apr 30, 1964
 .6 Melvin Roland Ducheneaux
 Oct 8,
@@ -69,7 +69,7 @@ Oct 8,
 +Jane Marie Hager Aug 7, 1949
 .7 Stacy Marie Ducheneaux
 Oct 21, 1968
-.. †Wayne Nelson
+..+Wayne Nelson
 .... 8 Austin Wayne Nelson
 Jan 10, 1999
 7 Darren Chance Ducheneaux

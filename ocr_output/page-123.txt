@@ -1,27 +1,27 @@
 -B Rose Mary Thompson Mar 31, 1987
 Mary Beth Lafferty
-• +Edward Red Fox
+.+Edward Red Fox
 Dec 23, 1950
 ..8 Harrison Paul Lafferty
 Feb 16,
 1989
 7
 Lawrence Dickens Lafferty Aug 11, 1959
-†Kathleen Louise Talks
++Kathleen Louise Talks
 Jun 30, 1948
 7
 Josephine Kay "Josie' Lafferty
 Jan 19, 1961
-.. +Ron Goben
+..+Ron Goben
 7 Virginia Denise 'Sugar' Lafferty Nov 24, 1964
 .. B Tanner Lafferty
 Virginia Denise Lafferty
-•+Todd Schmidt
+.+Todd Schmidt
 ....& Thorne Dakota Schmidt May 31, 1995
 Theresa Ann Rousseau
-•†Napoleon Charles Ducheneaux Feb 23, 1929 - Apr 28, 1971
+.+Napoleon Charles Ducheneaux Feb 23, 1929 - Apr 28, 1971
 Theresa Ann Rousseau
-• +Luis Anthony Lassalle
+.+Luis Anthony Lassalle
 ...7 John Anthony Lassalle Mar 24, 1974
 6
 Francis George Rousseau, Sr
@@ -38,8 +38,8 @@ Mar 6, 1968
 7 Elaine Marie Rousseau Jun 27, 1971
 +Nelson Colin Little Bear
 Jun 4, 1971
-•B Danielle Austine Little Bear Oct 16, 1992
-•B Philip Little Bear
+.B Danielle Austine Little Bear Oct 16, 1992
+.B Philip Little Bear
 .8 Alethea Little Bear
 .8 Shelby Little Bear
 7 Deborah Jean Rousseau
@@ -50,7 +50,7 @@ Aug 13, 1976
 Rosemary Rousseau
 Sep 14, 1938 - Nov 2, 1984
 .6 Leo Frederick Rousseau, Sr Nov 26, 1939
-.. +Mary Agnes Martin
+..+Mary Agnes Martin
 Dec 7, 1949
 ..7 Leo Frederick Rousseau, JI
 Sep 20, 1977 (c)
@@ -60,11 +60,11 @@ Oct 24, 1980
 John Isadore Rousseau,
 Sr
 Dec 13, 1943
-.†Frances Evelyn 'Susie' Martin Sep 1, 1951
+.+Frances Evelyn 'Susie' Martin Sep 1, 1951
 .7 Trisha Lynn Rousseau Nov 28, 1977 (c)
-•7 Katherine Jolene Rousseau Aug 2, 1979 (c)
+.7 Katherine Jolene Rousseau Aug 2, 1979 (c)
 May 20,
-•7 John Isadore Rousseau, Jr Nov 8, 1982 (c)
+.7 John Isadore Rousseau, Jr Nov 8, 1982 (c)
 ..7 Dawn Amber Rousseau
 Jun 1, 1985
 (e)
@@ -74,9 +74,9 @@ Aug 12, 1945
 +Nino Martin Montreal Feb 17, 1938 - Sep 16, 1974
 ..7 Yvette Ann Montreal
 Jan 9, 1967
-•7 Dino Martin Montreal, Sr Jan 14, 1969
+.7 Dino Martin Montreal, Sr Jan 14, 1969
 +De Shannon Raba
-•8 Dino Martin Montreal, Jr Nov 25, 1985
+.8 Dino Martin Montreal, Jr Nov 25, 1985
 ..8 Dustin Paul Matthew Montreal
 Apr 20, 1990
 ..7 Devin Dean Montreal
@@ -87,7 +87,7 @@ Dec 4, 1947
 6
 William Wallace Rousseau
 May 14, 1950
-•+Theresa Anita Swan Jul 18, 1954
+.+Theresa Anita Swan Jul 18, 1954
 7 Eugene Paul Rousseau
 Sep 12,
 1976

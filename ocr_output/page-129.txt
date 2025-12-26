@@ -5,18 +5,18 @@ Sr (Joseph W Ross)
 1894 - May 19, 1977
 ..5 Frances C Rousseau
 Jan 21, 1912
-,+T
++T
 Myers
 5
 Tana Celia Mary Rousseau Mar 3, 1915 - Nov 11, 1989
-•. tAugust Roebuck
+.. tAugust Roebuck
 ..6 Richard Lee Roebuck Mar 15, 1939
 Tana Celia Mary Rousseau
 ..+Leo Francis Marso
 ...6 Mary Cecilia Marso Oct 16, 1940
 Tana Celia Mary Rousseau
 . tArthur Leon Ver Bouwens
-•6 Patricia Jane Ver Bouwens
+.6 Patricia Jane Ver Bouwens
 Oct 30, 1943
 ,6 Michael Ver Bouwens
 Oct 22, 1947
@@ -26,7 +26,7 @@ May 25,
 1950
 . 5 William Bogus Rousseau
 Feb 24, 1917 - Jan 4, 1961
-•+ Evelyn Payne
+.+ Evelyn Payne
 5
 Joseph P Rousseau, JI
 May 22, 1919 - Jan 16, 1995
@@ -36,10 +36,10 @@ Jun
 18, 1921
 . 5
 Marie Julia Rousseau Aug 28, 1928
-.. +
+..+
 Champayne
 * Marie Julia Rousseau
-..†
+..+
 Warner
 4
 Sophia Rousseau
@@ -48,7 +48,7 @@ Sophia Rousseau
 27, 1899
 ..5 Clarence Edward 'Bud' Mathieson,
 Sep 26,1892 - Jun 1, 1960
-•†Opal
+.+Opal
 Martin
 ..6 Betty Mathieson 1924
 Solomon
@@ -63,12 +63,12 @@ Edward 'Billy' Mathieson,
 1928
 .7 Darlene Mathieson
 Jan 31, 1955
-.. +
+..+
 Seaman
 ....5 Joseph R Mathieson Jun 17, 1894 - Sep
 20, 1987
 ..* Sophia Rousseau
-..,+William E Ludlum
+..+William E Ludlum
 d. 1940
 ....4 Ellen Rousseau
 1877 - Eeb 12, 1962
@@ -80,7 +80,7 @@ Aug 17,
 ..........+
 Stock
 ........5 Donald R Mathieson Jun 11, 1908 - Mar 13,1986
-.........-+Edna Mathieson
+.........+Edna Mathieson
 d. 1965
 ..........6 Ann Mathieson
 Jun 18, 1936
@@ -98,6 +98,6 @@ Jul 3, 1879 - Jul 28, 1940
 .......5 Isabelle M Rousseau
 Oct 10, 1899
 .6 Nadine Isabelle Mueller May 14, 1929
-•+Donald Patrick Shoener
-•..7 Kenneth Maxwell Shoener Nov 14, 1949
+.+Donald Patrick Shoener
+...7 Kenneth Maxwell Shoener Nov 14, 1949
 127

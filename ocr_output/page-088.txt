@@ -2,7 +2,7 @@ May 8, 1996
 .....7 Sandra Kay Runs After
 Jun 5,
 1978
-•5 Floyd Monroe LeBeau, Sr Nov 4, 1923
+.5 Floyd Monroe LeBeau, Sr Nov 4, 1923
 - Oct 27, 1971
 ...+Dorothy Isabelle Jones
 Jan 25, 1928
@@ -21,33 +21,33 @@ Floyd Monroe LeBeau, SI
 1958
 . 7 Twila Rae Mandan
 Nov 2, 1974
-•†Jeremy Reuter
-•. 8 Austin Avery Reuter Dec 21, 1995
+.+Jeremy Reuter
+.. 8 Austin Avery Reuter Dec 21, 1995
 Jul 21, 1998
-•6 Merritt William
+.6 Merritt William
 'Billy' LeBeau, SI
 May 2, 1957
-•*Nora Nadine Low Dog
+.*Nora Nadine Low Dog
 Sep 2, 1956
 ...7 Merritt William LeBeau, Jr Aug 12, 1981
 Merritt William LeBeau, SI
-•+Marsha Baker
+.+Marsha Baker
 ....7 Shantelle Marie LeBeau
 Nov 30, 1982
-•6 Virgil Maynard LeBeau
+.6 Virgil Maynard LeBeau
 May 28, 1958 - Apr 11, 1959
-• 6 Linda Margaret LeBeau Oct 25, 1959
-•*Wayne Louis Cornelius, Jr Nov 23, 1960
+. 6 Linda Margaret LeBeau Oct 25, 1959
+.*Wayne Louis Cornelius, Jr Nov 23, 1960
 ..7 Alebra Dee Cornelius Apr 8, 1980
 ..7 Sandra Lee Cornelius
 Aug 7, 1981
 ...7 Wayne Louis Cornelius, III
 Jul 21, 1982
-•6 Candace Lynette LeBeau Feb 12, 1961
-•†James Robert Meeter (Red Wing)
+.6 Candace Lynette LeBeau Feb 12, 1961
+.+James Robert Meeter (Red Wing)
 Oct 1, 1955
 ..7 Darwin Louis LeBeau Mar 5, 1980
-•. tAmí Maurita Robideau
+.. tAmí Maurita Robideau
 Aug
 1, 1978
 ..8 Anthony Rae LeBeau
@@ -56,19 +56,19 @@ Jan 4,
 ..8 Gabrielle Jade LeBeau
 Apr 7, 1998
 Candace Lynette LeBeau
-•+Larry C Earring Apr 4, 1957
+.+Larry C Earring Apr 4, 1957
 ...7 Chadfield Monroe
 "Chad' LeBeau
 ApI 15, 1983
 ....7 Brent Alan LeBeau Jun 8, 1985
-•6 Gordon Anthony LeBeau Aug 19, 1963
+.6 Gordon Anthony LeBeau Aug 19, 1963
 ..+Ansonia Black Bird
 Jul 21, 1961
 ....7 Bradley Ray Black Bird
 Feb 1, 1990
 Gordon Anthony LeBeau
-•+Karla Sue Kingman (Lind) Nov 18, 1960
-•.7 Samantha Jordan LeBeau
+.+Karla Sue Kingman (Lind) Nov 18, 1960
+..7 Samantha Jordan LeBeau
 Apr 8,
 1991
 ..7 Mariah Paige LeBeau
@@ -79,7 +79,7 @@ Sep 27, 1965
 ..+Sidney Chester Bears Heart, SI
 Oct 17, 1959
 Patricia Jean LeBeau
-•†Mark Carroll
+.+Mark Carroll
 Patricia Jean LeBeau
 ..+Bert Cecil 'Buzzy' Lafferty Aug 17, 1941
 Floyd Monroe LeBeau, Sr
@@ -88,7 +88,7 @@ Floyd Monroe LeBeau, Sr
 . 5
 Donald Darwin LeBeau
 ApI 22, 1930 - Dec 28, 1990
-•†Marie V Black Bird
+.+Marie V Black Bird
 Apr 4,
 1935 - Dec 7, 1975
 Donald Darwin LeBeau

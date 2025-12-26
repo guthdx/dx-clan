@@ -1,6 +1,6 @@
 7 Jeffery Scott Monthye Apr 28, 1960
-• 7 Susan Jean Monthye Mar 11, 1962
-... +Leland Scheurer
+. 7 Susan Jean Monthye Mar 11, 1962
+...+Leland Scheurer
 .6 Leal Francis Gay
 Sep 7, 1934 - Jun 26, 1988
 +Darlene Marie Martel
@@ -35,32 +35,32 @@ Oct
 ...7 Alicia Gay
 .6 Earl James Gay
 Mar 6, 1941 - Jul 27, 1941
-• 6 Ruby Ellen Gay
+. 6 Ruby Ellen Gay
 Aug 22, 1942
--+James Robert Black
++James Robert Black
 .7 Dana Marie Black Jan 31, 1964
-.. +Steve Rowe
+..+Steve Rowe
 ..8 Erica Lynn Rowe 1985
 .......7 Keith Edward Black Jun
 5, 1969
-• 5 Regina Virginia LeCompte
+. 5 Regina Virginia LeCompte
 Jul 23, 1909 - Aug 18, 1969
-•+Lynn Harrison
+.+Lynn Harrison
 ..6 Gloria Marie Arvis 'Mitzi' Harrison Jun 3, 1936
 ....6 Bernard Harrison 1939 - 1941
 * Regina Virginia LeCompte
-†Harold Harlow or Harlowe W Hansen
++Harold Harlow or Harlowe W Hansen
 ..6 Lorelei Ann LeCompte Hansen
 May 18, 1888 - Apr 21, 1964
 Feb 24, 1945
-... +Joseph Trudeau
-•5 Emma Arliene LeCompte Jul 14, 1912 - Mar 29, 1914
-• 5 Marcelline Martina LeCompte
+...+Joseph Trudeau
+.5 Emma Arliene LeCompte Jul 14, 1912 - Mar 29, 1914
+. 5 Marcelline Martina LeCompte
 1919 - Oct 18,
 1993
 6 Orville Lee LeCompte
 * Marcelline Martina LeCompte
-•+Francis Groth
+.+Francis Groth
 6 Garrett Jay Groth
 Sep 7, 1953
 ..7 Amy Groth 1977
@@ -90,7 +90,7 @@ Jul 3,
 1923
 - Mar 1, 1970
 ........ 5 Verda Marie Cooke Sep
-• 14,
+. 14,
 1925
 '........+
 Hart

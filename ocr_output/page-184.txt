@@ -5,9 +5,9 @@ Aug 31, 1999 - Oct 5, 1999
 ...7 Claymore John LeBeau
 MaY 11, 1986
 6 Sharon Marie LeBeau Jun 11, 1957
--+Edward Lee Anderson
++Edward Lee Anderson
 Jun 30, 1953
-•7 Kim Renee Anderson
+.7 Kim Renee Anderson
 Oct 11, 1975
 .+Terrance Wayne Wright Jul 2, 1975
 ....8 Jesse James Wright Dec 12, 1998
@@ -15,19 +15,19 @@ Oct 11, 1975
 Mar 23, 1978
 .7 Lonny Wade Anderson Oct 7, 1981
 6 Russell Marion LeBeau Jul 25, 1958
-.. †Deanna LaBelle
+..+Deanna LaBelle
 6 Julian Michael LeBeau Nov 16, 1959
 6 Donna Lynn LeBeau Feb 21, 1963
--+Richard Vrooman
++Richard Vrooman
 ролі горон зр
 ..7 Ross Martin Vrooman
 ...7 Cinnamyn Marie Vrooman
 Dec 2, 1991
 6 Lee Anne LeBeau
 Feb 12, 1964
-•.+Clint Birkeland
+..+Clint Birkeland
 6 Blaine Paul LeBeau Dec B, 1968
-•+Wileen May Black Lance
+.+Wileen May Black Lance
 May 28, 1970
 ........7 Brandy Lynn LeBeau Nov 14, 1990
 .5 Arlene Ann Claymore
@@ -49,7 +49,7 @@ Jan 19, 1964
 . 5
 Mary Frances Claymore
 Jul 9, 1942
-•+Steve Hielman
+.+Steve Hielman
 . 6 Brad Hielman
 ..6 Tracey Hielman
 5 John Leonard Claymore
@@ -57,10 +57,10 @@ Mar 3, 1944
 ..+Mardel Joyce Simons 1943
 -6 Dixie Ann Claymore (Lee)
 May 16,1957 (c)
--+Benjamin Walton Thompson
++Benjamin Walton Thompson
 ....7 Bradford Wayne Thompson Feb 9, 1977
 Dixie Ann Claymore (Lee)
-•+Douglas Marvin LeCompte Sep 2, 1957
+.+Douglas Marvin LeCompte Sep 2, 1957
 7 Bradford Wayne LeCompte
 Feb 9, 1977 (b)
 Colton Douglas LeCompte
@@ -76,7 +76,7 @@ Feb 22,
 Feb 26, 1989
 6 Chad Russell Claymore
 Jun 25, 1964
-•6 Lee Travis Claymore Jul 14, 1967
+.6 Lee Travis Claymore Jul 14, 1967
 .6 Catherine Claymore
 5 Antoine Edward 'Smokey' Claymore,
 Jr
@@ -92,6 +92,6 @@ Nov 13, 1974
 'Ede' Claymore
 Sep 12,
 194B
-•5 Stephanie Loraine Claymore
+.5 Stephanie Loraine Claymore
 Mar 20, 1952
 182

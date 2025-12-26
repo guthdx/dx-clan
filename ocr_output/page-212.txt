@@ -3,40 +3,40 @@
 Gladys Thompson
 .+William Menzie, I
 Oct 15, 1912 - Jan 3, 1991
-• 5 Joyce Menzie
-•.*
+. 5 Joyce Menzie
+..*
 Cook
-• 5 Shirley Menzie
+. 5 Shirley Menzie
 ..t
 Ashley
 5 William Menzie, II
 5
 Richard Phillip Menzie, Sr Nov 25, 1939 - May 10, 1999
-• +Clarinda Spotted Wolf
+.+Clarinda Spotted Wolf
 ..6 Terrold Menzie
 ...6 Richard Phillip Menzie, Jr
 ...5 Myron Malette Menzie
 1941
-•4 Clarence R Thompson May 23, 1916
-• tAlberta Simmons
+.4 Clarence R Thompson May 23, 1916
+. tAlberta Simmons
 .. 5 Brenda Joyce Thompson
-•5 Clarence Thompson
+.5 Clarence Thompson
 ....5 Robert Thompson
-• 4 Vernie L Thompson
+. 4 Vernie L Thompson
 Sep 17, 1917 - Jul 16, 1965
-•4 LeRoy L Thompson Feb 9, 1919
-•4 Melvin M Thompson, SI
+.4 LeRoy L Thompson Feb 9, 1919
+.4 Melvin M Thompson, SI
 Jul 18, 1920 - Aug 5, 1991
 ..+Amanda Lautner
-•5 Malvina Thompson
-• 5 Dorothy Thompson
-•5 Melvin M Thompson, JI
+.5 Malvina Thompson
+. 5 Dorothy Thompson
+.5 Melvin M Thompson, JI
 .5 Frances Thompson
 .4
 Elgin Harold Thompson Oct 20, 1921
 ..4 Carl Victor Thompson
 Dec 6, 1992 - Mar 14, 1974
-.. †Cecelia D LaRoche Aug 13,
+..+Cecelia D LaRoche Aug 13,
 1919
 ..5 Cathy Marie Thompson
 Jan
@@ -48,8 +48,8 @@ Mackey
 ....4 Mary E Thompson
 Sep 5, 1926
 Dixon
-•3 Moses DeSmet Nov 10, 1891 - Jul 30, 1979
-..†Ellen I Lundguist Aug 12, 1892 - Jun 11, 1982
+.3 Moses DeSmet Nov 10, 1891 - Jul 30, 1979
+..+Ellen I Lundguist Aug 12, 1892 - Jun 11, 1982
 ..4 Gordon Louis DeSmet, SI
 Dec 16, 1915
 ..+Ruth M LaRoche Aug 30, 1914

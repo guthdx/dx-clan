@@ -1,4 +1,4 @@
-•+Mark James Knight Sep 26, 1961
+.+Mark James Knight Sep 26, 1961
 ... 8 Jaymie Lee Ducheneaux
 Feb 16, 1987
 Lisa Marie Ducheneaux
@@ -16,28 +16,28 @@ Lorelei Dale Ducheneaux
 May 1996
 7 Zachary Wayne Ducheneaux
 Sep 25, 1969
-•+Vicki Jo Holzer Mar 2, 1973
+.+Vicki Jo Holzer Mar 2, 1973
 .. 8 Kelsey Rose Ducheneaux
 Sep 20, 1993
 7 Guthrie Leo Ducheneaux
 Oct 17, 1972
-•7 Wayne Leo Ducheneaux, Jr May 29, 1978
+.7 Wayne Leo Ducheneaux, Jr May 29, 1978
 7 Bud Henry Ducheneaux
 Nov 5, 1979
-• 6 Anthony Clair 'A C' Ducheneaux
+. 6 Anthony Clair 'A C' Ducheneaux
 May 15, 1938 - Mar 28, 1993
 ..+Julia Marie Jewett
 Feb 2, 1938
-•7 Brenda Jo Ducheneaux
+.7 Brenda Jo Ducheneaux
 Sep 30, 1960
-•+Roy Lemmon
+.+Roy Lemmon
 ...8 Dylan Julia Lemmon Jul 3, 1998
 7 Allison Marie Ducheneaux
 Nov 29, 1962
 +Brice Edwin Peterson
 Feb 2, 1962
 ..8 Tyler James Peterson Nov 16, 1980
-•8 Ashley Marie Peterson
+.8 Ashley Marie Peterson
 Jan 7,
 1983
 .. 8 Spencer Matthew Peterson
@@ -49,19 +49,19 @@ Michael Preston Ducheneaux
 Feb 2, 1963
 7 Matthew McLeod Ducheneaux
 Apr 10, 1964
-•+Dyleen Marie Meier
+.+Dyleen Marie Meier
 Jun 21, 1962
 ...8 Merissa Rose Ducheneaux Apr 27, 1983
 Matthew McLeod
 Ducheneaux
-•†Stephanie Lynelle Augustine Mar 29, 1965
+.+Stephanie Lynelle Augustine Mar 29, 1965
 Anthony Clair Ducheneaux
-•+Marlene Margaret Lessert
+.+Marlene Margaret Lessert
 Feb 5, 1955
 ..7 Annette Kaylene
 'Katie' Ducheneaux
 Aug 17, 1975
-•†Christopher William Rivers
+.+Christopher William Rivers
 Aug
 16, 1977
 ..8 Krislyn Jade Ducheneaux
@@ -69,11 +69,11 @@ Feb 25, 1996
 6
 Franklin Delano Ducheneaux
 Jan 30, 1940
-.†Victoria Carter Cannon
+.+Victoria Carter Cannon
 Oct 29, 1943
-•7 Frank Douglas Ducheneaux, II
+.7 Frank Douglas Ducheneaux, II
 Nov 17, 1964
-• . +Brooke Forsythe
+..+Brooke Forsythe
 ...7 Christopher Darren Ducheneaux Dec 3, 1968
 * Franklin Delano Ducheneaux
 ..+Ernestine Elise Roullier
@@ -94,7 +94,7 @@ Dec 12, 1969
 Feb 26, 1991
 6 Gregory Keith Ducheneaux, I
 Jul 29, 1944
-•+Georgia Ann LaPlante
+.+Georgia Ann LaPlante
 Dec 18, 1946
 ..7 Kim Wade Ducheneaux
 Jan 18, 1963

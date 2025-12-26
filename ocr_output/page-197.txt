@@ -1,4 +1,4 @@
-•.+Ira Homer Grinnell, SI
+..+Ira Homer Grinnell, SI
 ........5 IIa Homer Grinnell, JI Oct 25, 1935
 ...4 Clarence Arpan 1907
 ..4 Allan Robert Arpan
@@ -7,7 +7,7 @@ Jan 2, 1912 - Nov 13, 1972
 Dec 8, 1912 - May 7, 1985
 .*...5 Arlene Adair Arpan
 Mar 15, 1940
-,+David Olen Makwell
++David Olen Makwell
 ..6 Cheryl Ann Maxwell Jun 7, 1957
 ..6 Anthony David Maxwell
 Apr 26, 1959
@@ -25,21 +25,21 @@ ApI 27, 1914
 Elsie Wanda Arpan
 ...+Theodore Wilson
 ..5 Kay Diann Rouse Apr 21, 1937
-•tLouis Edward Thompson
+.tLouis Edward Thompson
 Jul 28, 1935
 ..6 (baby girl) Thompson Mar 5,
 1957 - Mar 5, 1957
 ..6 Delbert Gene Thompson Nov 13, 1958
-•+Cynthia Verheeche
+.+Cynthia Verheeche
 .7 Joshua David Thompson
 Feb 20, 1976
 .7 Jessica Leigh Thompson
 ...7 Jerica Dawn Thompson
-•6 Theresa Marie Thompson May 1, 1960
+.6 Theresa Marie Thompson May 1, 1960
 +Clement Iron Wing
 .7 Natasha Leigh Iron Wing Jan 6, 1980
-•+Dean Tatedo
-•Kutohe Lee Tatedo
+.+Dean Tatedo
+.Kutohe Lee Tatedo
 Jul 11, 1999
 Theresa Marie Thompson
 .+Norman Moon
@@ -51,7 +51,7 @@ Theresa Marie Thompson
 1991
 Elsie
 Wanda Arpan
-. . +Kenneth L Rouse
+..+Kenneth L Rouse
 ...5 Kenneth Lee 'Buddy' Rouse
 Feb 28, 1939
 Elsie Wanda Arpan
@@ -80,7 +80,7 @@ Oct 2, 1982
 7 Tate Cyrus Thompson
 Jun 7,
 1985
-•T Tyler Lee Thompson Sep 8,
+.T Tyler Lee Thompson Sep 8,
 1986
 6 Wanda Rae Thompson
 May 28,

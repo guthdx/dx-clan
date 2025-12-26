@@ -12,7 +12,7 @@ Walter Sydney Swift Bird
 1900 - Dec 25, 1918
 ........4
 Ida May Swift Bird Sep 5, 1903 - Nov 9, 1968
-.... ... ...+Patrick Parsley LeBeau
+..........+Patrick Parsley LeBeau
 Oct 22, 1895 - May 6, 1983
 ... 4
 Antoine Oscar Swift Bird Oct 1, 1906 - Oct 23, 1953
@@ -33,25 +33,25 @@ Nov 20, 1908 - Aug 28, 1968
 Elsie Ellen Swift Bird
 ...+Henry William Swimmer
 Nov 16, 1911 - Jul 23,1986
-. . . .....*
+........*
 Elsie Ellen Swift Bird
-• †Alexander Matthew Garreau, I
+.+Alexander Matthew Garreau, I
 Dec 23, 1906 ~ Dec 12, 1975
 ....3 Vetal Anselm LeCompte, SI
 Oct 1875 - May 15, 1940
 ...+Catherine Maude Traversie Apr 13, 1876 - Mar 23, 1946
 ..4 Zelda Catherine LeCompte Oct 1, 1896 - Aug 9, 1979
 ...+James Sidney McLaughlin Mar 18, 1894 - Jan 22, 1977
-• *
+.*
 Zelda Catherine LeCompte
-•tOscar Arthur Corey
+.tOscar Arthur Corey
 .....4
 Nov 4, 1886 - Mar 19, 1963
 Gerald (Budd) LeCompte Jan 9,1898 - Nov 21, 1958
-•+Millie Vereide
+.+Millie Vereide
 d. Oct 17, 1932
 Gerald (Budd) LeCompte
-•†Katherine Cecelia Livermont Aug 7, 1902 - Jun 23, 1973
+.+Katherine Cecelia Livermont Aug 7, 1902 - Jun 23, 1973
 Gerald
 (Budd) LeCompte
 +Marcella Halsey
@@ -59,20 +59,20 @@ Gerald
 ....4
 Elmer Moses 'Babe' LeCompte, SI
 Sep 22, 1900 - Oct 1, 1976
-•.+Margaret 'Maggie' Baker
+..+Margaret 'Maggie' Baker
 Feb 13, 1900
 - 1972
 .. 4
 Vetal Anselm LeCompte, JI Nov 30, 1902 - Nov 3, 1978
-†Margaret Rose 'Maggie' Ducheneaux Mar 14, 1905 - May 28, 1966
++Margaret Rose 'Maggie' Ducheneaux Mar 14, 1905 - May 28, 1966
 Vetal Anselm LeCompte, Jr
-•†Loudia Bernice Fire Cloud
+.+Loudia Bernice Fire Cloud
 .. 4
 Mar 12, 1900 - Mar 27, 1975
 Dennis LeCompte Sep 27, 1904 - Apr 18, 1987
 ..+ May Lewis Nov 1, 1905 - Oct 26, 21925
 Dennis LeCompte
-•*Millie Vereide d. Oct 17, 1932
+.*Millie Vereide d. Oct 17, 1932
 Dennis LeCompte
 ..+Geneva Roubideaux Oct 18, 1910 - Jul 18, 1988
 ........*
@@ -86,8 +86,8 @@ Sep
 ......+Nellie R Brown Nov 4, 1888 - Dec 3,
 1949
 2 Theresa Latina LeCompte 1832 - Mar 22, 1888
-•. tOwen McKenzie d. 1863
-•...3 Patrick Baptiste McKenzie Jun 4, 1850 - Jul 26, 1897
+.. tOwen McKenzie d. 1863
+....3 Patrick Baptiste McKenzie Jun 4, 1850 - Jul 26, 1897
 ......+
 Prue
 ....*

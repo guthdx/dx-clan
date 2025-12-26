@@ -1,11 +1,11 @@
-•7 Ruth Ann Gesinger Apr 12, 1974
-•+Duane Casper "Cap' Pearman
+.7 Ruth Ann Gesinger Apr 12, 1974
+.+Duane Casper "Cap' Pearman
 May 7, 1964
 . 8 Colby Ann Pearman
 ApI 15, 1994
 . 6
 Lois Lavonne Rousseau Dec 5, 1938
-•+Leo Alan Fischer, Sr Jun 14, 1938
+.+Leo Alan Fischer, Sr Jun 14, 1938
 ..7 Linda Jean Fischer Apr 15, 1959
 „+Richard Louis Yett
 -8 Justin Louis Yett Sep 15, 1990
@@ -17,12 +17,12 @@ Jan 27, 1961
 ...8 Courtney Marie Fischer Dec 30, 1993
 7 Charles Len 'Festus' Fischer
 Nov 2, 1964
-,+Kristy Rose Zorc
++Kristy Rose Zorc
 Jan 27,
 1968
 .8 Keri Lavonne Fischer
 1987
-•B Brett Joseph Fischer Sep 29, 1993
+.B Brett Joseph Fischer Sep 29, 1993
 .8 Brock Alan Fischer Apr 25,
 1999
 .7
@@ -39,14 +39,14 @@ Jan 13, 1994
 Mar 16,
 2000
 7 Jeremy Scott Fischer May 26, 1976 (c)
-,+Nicole Lynelle Garreau
++Nicole Lynelle Garreau
 Mar
 2, 1978
 ...8 Tristan Wayne Fischer Aug
 10, 1996
 Jeremy Scott Fischer (c)
 May 26, 1976
-.†Kellie Annis
+.+Kellie Annis
 ..8 Sloan Riah Fischer Nov 2, 1998
 7 Wendy Lynn Fischer May 28, 1979 (c)
 ..+Beau Chance Maynard
@@ -55,7 +55,7 @@ Jun 12, 1978
 Regina Rose Rousseau
 May 3,
 1941
-•†Wayne Leo Ducheneaux, SI
+.+Wayne Leo Ducheneaux, SI
 Sep 25, 1936
 .7 Collette Ann Ducheneaux
 Sep 28, 1963
@@ -64,7 +64,7 @@ Sep 26, 1962
 ..8 Meredith Ellen Dolezal Feb 6, 198B
 Lisa Marie Ducheneaux Aug 19,
 1965
--+Todd Allen Kessler
++Todd Allen Kessler
 May 25,
 ....B Jill Daye Kessler
 Feb 26, 1982
@@ -74,7 +74,7 @@ Sep 26, 1961
 ..... B Jaymie Lee Knight
 Feb 16, 1987
 Lisa Marie Ducheneaux
-•+Jerry Keith Farlee
+.+Jerry Keith Farlee
 Nov 16, 1970
 .B Cindy Marie Farlee Sep 19, 1993
 ..8 Jade Keith Farlee Aug 7, 1994
@@ -97,5 +97,5 @@ Oct 17,
 7
 Wayne Leo Ducheneaux, JI
 May 29, 1978
-•7 Bud Henry Ducheneaux Nov 5, 1979
+.7 Bud Henry Ducheneaux Nov 5, 1979
 169

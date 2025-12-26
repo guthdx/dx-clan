@@ -1,12 +1,12 @@
 +Doyle Deon Bell Jan 26, 1965
-•. 8 Taijscha Simone Bell
+.. 8 Taijscha Simone Bell
 Aug 19, 1994
 ... 8 Maudieux Dean
 Nov 22, 1995
 ..7 Monte Ann Ducheneaux Feb 26,
 1972
 6 Myrna Claire Ducheneaux Oct 31, 1940
-•†Robert Dale Christenson Jan 18, 1941
+.+Robert Dale Christenson Jan 18, 1941
 7 Scott Allan Christenson Mar 6, 1961
 7 Todd Robert Christenson Jul 12, 1962
 Ann Marie Christenson Mar 20, 1964
@@ -15,7 +15,7 @@ Jun 14, 1970 (b)
 ... 8 Whitney Christenson
 Sep 27, 1986
 6 Dallas Bernard Ducheneaux May 3, 1944 Sud
-•†Frances Refugio Martinez Jan 20, 1943
+.+Frances Refugio Martinez Jan 20, 1943
 7 Bonnie Kay Ducheneaux Sep 15, 1964
 +Robert Darrel Bowling
 ..8 Brittany Ann Bowling Jan 31, 1987
@@ -23,7 +23,7 @@ Sep 27, 1986
 Bonnie Kay Ducheneaux
 ..+Richard Brook Ray
 7 Ty Ducheneaux Jul 22, 1967
-•+Cynthia Barber
+.+Cynthia Barber
 ...8 Dallas Neal Ducheneaux
 Apr 15, 1990
 7 Toby Ducheneaux
@@ -32,18 +32,18 @@ Aug 11, 1969
 . 5
 Catherine Ducheneaux
 Mar 8, 1906 - Oct 12, 1912
-•5 Mabel W Ducheneaux Mar 12, 1908 - Nov 27, 1989
-•tEllsworth Frederick LaPlante
+.5 Mabel W Ducheneaux Mar 12, 1908 - Nov 27, 1989
+.tEllsworth Frederick LaPlante
 Jan 6, 1894 - May 19, 1987
-•6 Frederick Tyndall Brooks SI
+.6 Frederick Tyndall Brooks SI
 Jul 10, 1929
-•.tAngeline Ambriz
+..tAngeline Ambriz
 Jul 7, 1932
 ..7 Frederick Tyndall Brooks, Jr
 Mar 27, 1952
 .7 Charles Argus Brooks
 Feb 27, 1957
-.†Renee Marie Portolese
+.+Renee Marie Portolese
 Jul 5, 1962
 ... 8 Ashley Marie Brooks
 Sep 5, 1989
@@ -51,23 +51,23 @@ Sep 5, 1989
 Aug 27, 1991
 ..7 Richard Luis Brooks Mar 11, 1960
 Mabel ₩ Ducheneaux
-•.+Burley Patterson
+..+Burley Patterson
 * Mabel ₩ Ducheneaux
 ..tRay Springer
 .. 5
 Bernard 'Barney' Ducheneaux
 Jan 6, 1910 - Sep 1914
-•.5 Frederick Ducheneaux
+..5 Frederick Ducheneaux
 Sep 22, 1911
 - Feb 24,
 1990
-• tAnnie Josephine LeBeau
+. tAnnie Josephine LeBeau
 Oct 10, 1914 - Oct 22,
 1981
 . 6 Richard Fred
 'Delbert' Ducheneaux
 May 27, 1937 - May 15, 1963
-•6 Ellis Erwin 'Pat' Ducheneaux Apr 17, 1939
+.6 Ellis Erwin 'Pat' Ducheneaux Apr 17, 1939
 ....7 Delbert Ducheneaux
 Ellis Erwin Ducheneaux
 ..tOra Marie Bell
@@ -78,7 +78,7 @@ Ellis Erwin Ducheneaux
 Dec 27, 1940
 +Shirley Ann Martin
 Jan 16, 1956
-•7 Mary Frances Ducheneaux
+.7 Mary Frances Ducheneaux
 Mar 22, 1973
 7 Carmen Raye Ducheneaux Sep 3, 1974
 .+Edward John Hoffman
@@ -88,5 +88,5 @@ May 1,
 ...8 Marlo Cruz Ducheneaux Aug 22, 1996
 7 Burton James Ducheneaux, Jr Aug 7, 1975 - Aug 7, 1975
 7 Michelle Monique Ducheneaux Jun 25, 1981
-•7 Nicole Lynn Ducheneaux Jan 29, 1986
+.7 Nicole Lynn Ducheneaux Jan 29, 1986
 20

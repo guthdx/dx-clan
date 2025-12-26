@@ -1,15 +1,15 @@
 ..+Laurena Todachine Nov 15, 1971
-•5 Henry Dale "Bud' Ducheneaux
+.5 Henry Dale "Bud' Ducheneaux
 Sep 10, 1933
-•*Rita Pauline LeBeau Dec 8, 1932
-•6 Allen Francis Ducheneaux
+.*Rita Pauline LeBeau Dec 8, 1932
+.6 Allen Francis Ducheneaux
 Dec 14,
 1955
-•+Donna Marie Thompson
+.+Donna Marie Thompson
 Oct 27, 1955
 .7 Hadden Colter Ducheneaux
 Aug 19, 1975
-.†Jamie Lee Willis
+.+Jamie Lee Willis
 ... 8 Jobe Lee Ducheneaux
 Allen Francis Ducheneaux
 *Brenda Lee 'Bree' Arrington Aug 8, 1954
@@ -23,7 +23,7 @@ Oct 19, 1980
 Jun 12,
 1984
 ..7 Anthony Wade Ducheneaux Sep 22, 1987
-•6 Henry James Ducheneaux, II May 20,
+.6 Henry James Ducheneaux, II May 20,
 1958
 +Willetta Lynn Morgan
 Jun 19, 1960
@@ -37,7 +37,7 @@ Jun 29,
 ...7 Lisa Anne Ducheneaux Nov 1, 1989
 . 6 Marsha Ann Ducheneaux
 Jul 17, 1960
-•+LeRoy Lewis 'Tom' Vrooman, JI
+.+LeRoy Lewis 'Tom' Vrooman, JI
 Feb 11, 1958
 .. 7 Misty Ann Vrooman Jan
 2, 1978
@@ -69,7 +69,7 @@ Mar 2, 1964
 Jul 8, 1960 - Jun 14, 1999
 ..7 Carolyn Kay Vrooman
 Feb 13, 1980
-.•.7 Ryan Douglas Vrooman
+...7 Ryan Douglas Vrooman
 ApI 16, 1982
 .. 7 Bud Alan Vrooman
 Sep 30, 1983
@@ -79,14 +79,14 @@ Feb 17,
 ..5 John Vernon Ducheneaux
 Jan 21, 1935 - Jun
 29, 1998
-•+Twila June "T J' Stillwell
+.+Twila June "T J' Stillwell
 Jun 6, 1935
 John Vernon Ducheneaux
 +Theresa Rose LeBeau
 Jan 24, 1936
 .6 Pete Wesley Ducheneaux
 Jul 21, 1972 (a)
-•+Dawn Lynn Bad Warrior Nov 1,
+.+Dawn Lynn Bad Warrior Nov 1,
 1972
 ..7 Cassandra Kaye Ducheneaux
 Sep 3,
@@ -100,8 +100,8 @@ John Vernon Ducheneaux
 Sep 10, 1986
 ....,5 Wayne Leo Ducheneaux, Sr
 Sep
-• 25, 1936
-•+Regina Rose Rousseau May 3,
+. 25, 1936
+.+Regina Rose Rousseau May 3,
 1941
 .6 Collette Ann Ducheneaux
 Sep 28,

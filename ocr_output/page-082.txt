@@ -1,6 +1,6 @@
 7 Sarah Linsey Comeau
 Jul 10, 1978
-• †Yuma House
+.+Yuma House
 ...8 Bailey Jaeden House
 2000
 .6 Carol Lee Ward
@@ -10,32 +10,32 @@ Mar 22, 1947
 Debra Ann Ward Jul 23, 1952
 ..+Ron Fravel
 Debra Ann Ward
-•†Mevin Pfaff Apr 29, 1944
-• 6
+.+Mevin Pfaff Apr 29, 1944
+. 6
 William Riley 'Buck'
 Ward
 Aug
 12,
 1956
-•†Lori Faye Mowrer
+.+Lori Faye Mowrer
 Sep 10, 1958
 ..7 Jessi Joy Ward Jul 14, 1979
-•7 Jean Maree Ward Feb 5,
+.7 Jean Maree Ward Feb 5,
 1981
 .7 Riley Mowrer Ward
 May
 20,1987
-•5 Richard Louis Ward Jul 12, 1931 - Dec
+.5 Richard Louis Ward Jul 12, 1931 - Dec
 7, 1994
-•+Deloris Jean Ducheneaux
+.+Deloris Jean Ducheneaux
 Oct 15, 1937
 - May 30, 1978
 ..6 Wade Monroe "Tater' Ward Aug 7, 1958
-•+Diane Lynelle Garreau
+.+Diane Lynelle Garreau
 Jan 23,
 ....7 Jeffrey Allen Ward Sep 23, 1977
 Wade Monroe Ward
-,+Connie Kay Means (Thompson)
++Connie Kay Means (Thompson)
 Mar 26, 1956
 ..7 Jimmie Dee Ward
 Apr 16, 1978
@@ -45,7 +45,7 @@ Apr 16, 1978
 Dec 3,
 1984
 Wade Monroe Ward
-†Laura Alley
++Laura Alley
 ..7 Tatum Loraine Ward Aug 6, 1998
 6 Morgan Todd Ward
 Mar 1, 1961
@@ -61,14 +61,14 @@ Feb 13,
 1986
 6 William Troy Ward
 Oct 17, 1962
-•+Shanna Callihan
+.+Shanna Callihan
 Mar 6, 1965
 -7 Taylor Dee Ward
 Jan 29, 1987
 ...7 Rylee Yaeger Ward
 Oct 9, 1990
 6 Richard Marty Ward Nov 9, 1963
--+Danelle Denise Keckler
++Danelle Denise Keckler
 Sep 4, 1965
 ....7 Dustin Dean Ward
 Mar 11, 1982
@@ -88,7 +88,7 @@ Jan 25,
 7 Nicolette Mariel Diamond ward
 Dec 15, 1999
 Richard Louis Ward
--†Sandra Elizabeth Marshall
++Sandra Elizabeth Marshall
 Jan 26,
 1939
 5
@@ -96,7 +96,7 @@ Katherine Minnie 'Gypsy' Ward
 Fel
 10,
 1934
-•+Nick Walters
+.+Nick Walters
 ...6 Holly Walters
 Feb 1956
 ....6 Ward Walters
@@ -105,7 +105,7 @@ May 7,
 ....5 William Rogers Ward
 Sep 27, 1936 - Jan 8,
 1995
-•+ Elaine Leona Traversie
+.+ Elaine Leona Traversie
 MaI 31,
 1943
 ..6 Will Rogers Ward

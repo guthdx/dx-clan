@@ -1,10 +1,10 @@
 ...9 Peter Thomas Rousseau, II Jan 13, 1997
 Wanda Kay Rousseau
-•†Harlan Eugene Gunville, JI Aug 22, 1964
+.+Harlan Eugene Gunville, JI Aug 22, 1964
 ..,9 Ranger Quill Gunville
 Feb 11, 2000
 8 Ramona Rae Rousseau Nov 13, 1974
-•+Brian Schell
+.+Brian Schell
 ...9 Jessica Faye Schell Sep 18, 1991
 8
 Rhonda Fay Rousseau Nov 13, 1974
@@ -12,10 +12,10 @@ Rhonda Fay Rousseau Nov 13, 1974
 Nov 28, 1965
 ...9 Molly Jane Rousseau Jul 24, 1992
 Rhonda Fay Rousseau
-•Steven Gene Gray (Young) Sep 13, 1970
+.Steven Gene Gray (Young) Sep 13, 1970
 -9 Braden Gray
 .9 Teigan Gray
-• 9 Tanner Gray
+. 9 Tanner Gray
 Rhonda Fay Rousseau
 +Jeffrey Iron Wing Aug 26, 1977
 ......9 (baby) Iron wing 2001
@@ -27,7 +27,7 @@ Doretta Danielle Four Bear
 +Ronald Wayne Bowker Jul 14, 1961
 . 8 Ryun Wayne Bowker
 Apr 17, 1991
-• 8 Roni Sioux Bowker Jan 15, 1993
+. 8 Roni Sioux Bowker Jan 15, 1993
 ..8 Dylan Gene Bowker
 Jan 31,
 1994
@@ -36,13 +36,13 @@ Jan
 5, 1956
 +Deb James Knight
 Oct 17, 1955
-• 8 LeeAnne Renee Knight
+. 8 LeeAnne Renee Knight
 Sep 2, 1973
--+Jess
++Jess
 Dean Mike
 Sep 15, 1972
 .. 9 Amanda Knight
-•9 Jace Colton Knifep 11, 1991
+.9 Jace Colton Knifep 11, 1991
 Sep 25, 1992
 ... 9 Terrance Joseph Knight Mar 19, 1995
 LeeAnne Renee Knight
@@ -53,13 +53,13 @@ Jul 6, 1999
 Cecelia Odette Four Bear
 ..8 Joseph Paul Garreau Apr 19, 1975 - May 14, 1993
 Cecelia Odette Four Bear
-•Morgan Samuel Garreau Oct 29, 1947
+.Morgan Samuel Garreau Oct 29, 1947
 ...8 Louis Pierre Garreau Sep 4, 1981
 7 Cheryl Renee Four Bear
 Oct 25,
 1957
-•†Clarence Christian 'Rocky' Black Bird, Jr Jul 26, 1959
-•8 Clarence Christian Black Bird, III
+.+Clarence Christian 'Rocky' Black Bird, Jr Jul 26, 1959
+.8 Clarence Christian Black Bird, III
 Dec 22, 1976
 8 Angela Dawn Bears Heart (Four Bear)
 1979
@@ -70,7 +70,7 @@ Dec 22, 1976
 ..8 Chas Daniel Haskell
 .8 David Haskell
 7 Michael Daniel Four Bear Apr 29, 1960
-.. +Judy Lynn Thompson
+..+Judy Lynn Thompson
 Jun 15, 1960
 .. 8 Alyssa Rae Four Bear
 Nov 8, 1991

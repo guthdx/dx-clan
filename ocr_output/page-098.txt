@@ -1,5 +1,5 @@
 Twila Joann Hanson
-• +Robert Anthony Marshall,
+.+Robert Anthony Marshall,
 Sr
 .. Robert Anthony Marshall, JI
 Feb 9,
@@ -7,7 +7,7 @@ Feb 9,
 ..7 Marian Denise Marshall
 Sep 18, 1970
 Twila Joann Hanson
-•*Donald Wayne Emme Sep
+.*Donald Wayne Emme Sep
 24, 1945
 ...7 Jason Wayne Emme
 4, 1980
@@ -27,7 +27,7 @@ Sep 26,
 Oct 12, 1983
 6 Maria cleo Hanson
 Feb 21, 1961
--+Charles Wayne Bull Bear
++Charles Wayne Bull Bear
 Sep 29, 1957
 ..7 Megan Lynn Bull Bear Apr 1,
 1983
@@ -36,13 +36,13 @@ Sep 29, 1957
 .. 5
 Berniece Annabell McKenzie
 ....+Ben Tietgen
-• 6 Anita Tietgen
+. 6 Anita Tietgen
 6 Roxine Tietgen
 6 Rex Tietgen
-• 6 Shirley Tietgen
+. 6 Shirley Tietgen
 .6 Pamela Tietgen
 ..5 Naomi Ruth McKenzie Feb 27,1925
-.. +Robert Schepp
+..+Robert Schepp
 5 Darlene Ione McKenzie
 Feb
 5,
@@ -50,15 +50,15 @@ Feb
 -Richard Jay
 "Buster' Ellston,
 -6 Sharon Ellston
-•6 Richard Ellston
+.6 Richard Ellston
 ...6 Janice Ellston
 5 Carl Franklin McKenzie Apr 1,
 1932
 5 Norma Jean McKenzie Aug 20, 1934
-•William Lucht,
+.William Lucht,
 SI
 ,6 Rosemarie Lucht
-• 6 William Lucht,
+. 6 William Lucht,
 JI
 ..4 Volmar 'Volley' McKenzie
 d. 1973
@@ -69,9 +69,9 @@ tAntoine
 'Chet' DuBray
 3 Joseph or George DuBray Nov 1857 - Apr 19,
 1913
-• Mary Narcelle
+. Mary Narcelle
 Joseph or George DuBray
-.. †Wall Woman
+..+Wall Woman
 *..4 Cora DuBray d. Nov 3, 1892
 Joseph or George DuBray
 ..+
@@ -80,7 +80,7 @@ Hopkins
 1885 - Aug 15, 1987
 Joseph or George DuBray
 ..+Bob-Tail Beaver Woman or Martha Shield
-•*..4 George Louis Shields
+.*..4 George Louis Shields
 1889
 - Mar 5,
 1943

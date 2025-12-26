@@ -1,6 +1,6 @@
 .7
 Donel Dee Newbrough May 2, 1966
-•+Melanie Rose Bruguier Jan 25, 1974
+.+Melanie Rose Bruguier Jan 25, 1974
 ..8 Stottin Kade Newbrough Dec 11, 1991
 ...8 K'Dyn Brae Newbrough
 Jun 10,
@@ -9,11 +9,11 @@ Jun 10,
 Monta Lynn Veronica Claymore
 ..+Dale Little Soldier
 6 Almeda Claire Claymore Aug 1, 1943
-•+Robert Thomas Lawrence, Jr
+.+Robert Thomas Lawrence, Jr
 Aug 16, 1941
 7 Robert Len Lawrence
 Sep 1, 1961
-•+Kimberlin Karole Dunn Mar 29, 1969
+.+Kimberlin Karole Dunn Mar 29, 1969
 ...8 Reggie Raye Lawrence
 Dec 10, 1989
 7 Deb Duane Lawrence Feb 15, 1963
@@ -32,7 +32,7 @@ Todd James Lawrence
 ...8 Lane Thomas Lawrence
 1991
 Todd James Lawrence
-. +Rhonda Lynn Swan
+.+Rhonda Lynn Swan
 Oct 7, 1963
 ...8 Kellon James Lawrence
 Mar 4, 1995
@@ -53,7 +53,7 @@ Jun
 Apr 29, 1994
 7
 Wayde Alan Lawrence Sep 14, 1972
-. +Naomi Novak
+.+Naomi Novak
 ..8 John Todd Lawrence Feb 15, 1989
 Wayde Alan Lawrence
 +Melanie Rose Bruguier
@@ -86,12 +86,12 @@ Sep 4,
 ..8 Cole Knight 1993
 7 Clinton James Stadel
 Dec 5, 1967
-•+Heidi Amann
+.+Heidi Amann
 ...8 Shayne Grey Stadel Jun 15, 1997
 Julia Darlene Claymore
 .+Alvin Wayne Stadel
 .7 Jason Brams Stadel
-•.7 Kyle Claymore Stadel
+..7 Kyle Claymore Stadel
 Jul 25, 1978
 Jul 25, 1978
 237

@@ -1,38 +1,38 @@
--†Leona Lucille Rivers Mar 1, 1917
++Leona Lucille Rivers Mar 1, 1917
 ....6 Lynn Antoinette LeCompte (DuBray) Apr 18, 1952 (c)
-•5 Velma Cleone LeCompte
+.5 Velma Cleone LeCompte
 Jan 10, 1923
 - Jun 6,1990
 ..5 Quentin Robert LeCompte
 Feb
 27,
 1924
-†Verna Marie Garreau
++Verna Marie Garreau
 Jul 31, 1931
 .6 Rockne Robert LeCompte
 Jan 23,
 1953
-•†Peggy Lea Laurenz
+.+Peggy Lea Laurenz
 Sep 14, 1954
 .7 Cassandra Kym LeCompte
 Sep 25, 1972
-•+Patrick Wayne West
+.+Patrick Wayne West
 © Richard Suentin LeConte And 195e
 .... 7 Megan LeCompte
 6 Cheryl Lani LeCompte Oct 16, 1959
-•+Kenton Dean Keckler Nov 18,
+.+Kenton Dean Keckler Nov 18,
 1965
 ....7 Jade Raeanne Keckler
 Jul 27, 1988
 6 Monte Carl LeCompte
 Nov 9, 1960
-•+Catherine Ann Jeffries
+.+Catherine Ann Jeffries
 Oct 3, 1957
 ..7 Dominic Quinn LeCompte Oct 15, 1985
 ..7 Quentin Carl LeCompte Jan 30, 1988
-•5 Marian Catherine 'Merle' LeCompte
+.5 Marian Catherine 'Merle' LeCompte
 Mar 9, 1926 - Apr 16, 1992
-.. +Emmett Powell
+..+Emmett Powell
 . 5
 June Helen LeCompte
 +Karl Van Schellern
@@ -43,7 +43,7 @@ June Helen LeCompte
 * 5
 Claymore Narcelle "John' LeCompte
 Feb 16, 1931 - Oct 19, 1999
-†Rose Ann Claymore
++Rose Ann Claymore
 Nov 24, 1933 - Jun 11, 1993
 -6 Terrill Susan "Terri' Ducheneaux Feb 10, 1958 - Jan 14, 1992
 ....7 Shawn James Nelson
@@ -52,9 +52,9 @@ Nov 24, 1933 - Jun 11, 1993
 ..+Germaine Corliss Hill
 Jan 31, 1945
 ,6 Leslie Alyssa LeCompte Nov 22, 1969
-•6 Floyd Narcelle LeCompte
+.6 Floyd Narcelle LeCompte
 Jan 7, 1971
-• •†Shanon Kae Morgan
+..+Shanon Kae Morgan
 Dec 9,1975
 ..7 Claymore Narcisse LeCompte
 Sep 21, 1993
@@ -64,21 +64,21 @@ Jul 2,
 .5 Narcisse Edward LeCompte
 Mar 2,
 1933 - Feb 23, 1993
--+Daisy Mae Cadotte
++Daisy Mae Cadotte
 Mar 22, 1937
-• 6 Robert Russell LeCompte
+. 6 Robert Russell LeCompte
 Sep B, 1962 (a)
 .....7 Natalie Rose Davis
 Oct 3,
 1988
 .....5 Gordon Vincent LeCompte
 Jul 11, 1935
-•Patricia Katherine Lafferty
+.Patricia Katherine Lafferty
 Oct 20,
 1937
 .6 Jody Fay LeCompte May 6,
 1958
-•†Gary Evan Garrison
+.+Gary Evan Garrison
 11, 1958
 ,.7 Yvette Marie Garrison
 Aug
@@ -97,7 +97,7 @@ Feb
 Aug
 10, 1978
 * Jacqalyn Kay LeCompte
-•+Jerry Black
+.+Jerry Black
 ..7 Eric Black
 ..7 Janessa Louise Katherine Black
 ....7 Alexandra Janeen Black

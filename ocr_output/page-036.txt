@@ -1,15 +1,15 @@
  7 Andrea Joleen Aberle Dec 3, 1963
 ..+Lester Luther Nielsen
 Dec 7, 1958
-• 8 Leah Faye Nielsen Nov 2, 1992
-• 8 Maesa Jean Nielsen Apr 2, 1996
+. 8 Leah Faye Nielsen Nov 2, 1992
+. 8 Maesa Jean Nielsen Apr 2, 1996
 Luther Andrew Nielsen
-Sep 1; 1998
-• 7
+Sep 1, 1998
+. 7
 Patrick David Aberle Jan 26, 1965
 +Carletta Marie Schweitzer
-Aug 6; 1967
-• 8
+Aug 6, 1967
+. 8
 Kurt Andrew Aberle Nov 18, 1984
 :8 Cody Patrick Aberle Feb 20, 1988
 8 Casey Michael Aberle Oct 2, 1990
@@ -17,74 +17,74 @@ Kurt Andrew Aberle Nov 18, 1984
 Jan 25, 1995
 ...7 Michael Todd Aberle, I
 Jun 9, 1968
-- Jun 14; 1987
+- Jun 14, 1987
 : 6 Frank Edward Ducheneaux
 Jul 26, 1939
-•†Carol Jean Tatro
-Sep 30; 1946
-•7 Edward Frank Ducheneaux Jun 29, 1976
-• 7 Mae Elizabeth Ducheneaux Dec 28, 1977
+.+Carol Jean Tatro
+Sep 30, 1946
+.7 Edward Frank Ducheneaux Jun 29, 1976
+. 7 Mae Elizabeth Ducheneaux Dec 28, 1977
 .:7 Paul Milton Ducheneaux Jan 5, 1981
 -7 John Henry Ducheneaux
 Oct 20, 1982
 ÷ :7
 Frankie Jean Ducheneaux
 Teb 1, 1989
-• 6
+. 6
 Terry Dean Ducheneaux
 Nov 17: 1940
-•†Nancy Mae Hempel
+.+Nancy Mae Hempel
 Oct 16, 1945
 :: 7 Michelle Mae Ducheneaux
-Nov 1; 1966
-•+Harold James Gray Nov 18; 1966
+Nov 1, 1966
+.+Harold James Gray Nov 18, 1966
 8 Carroline Kay Gray
-Sep 2; 1985
-••.::8 Tyler James Gray
-Mar 10;
+Sep 2, 1985
+...::8 Tyler James Gray
+Mar 10,
 1987
 ii:::7 Robert Edward Ducheneaux
-Jan 7; 1969
-• +Tammi Dee Opheim
+Jan 7, 1969
+.+Tammi Dee Opheim
 May 17,1971
-•8 Skya Lynn Ducheneaux
+.8 Skya Lynn Ducheneaux
 May 3, 1996
 ..*::8 Jayden Lee Ducheneaux
 Nov 27, 1998
 ::7 Nicole Ann Ducheneaux
-Jul 2; 1972
-: +Robert Schoeberl
-• 8 Alexander Kyle Schoeberl Sep 26, 1994
+Jul 2, 1972
++Robert Schoeberl
+. 8 Alexander Kyle Schoeberl Sep 26, 1994
 .::8 Dominick Aaron Schoeberl
 Sep 17, 1996
-•7 Stephanie Rae Ducheneaux Sep 26, 1973
+.7 Stephanie Rae Ducheneaux Sep 26, 1973
 ::7
 Evette Carol
 "Jake' Ducheneaux
-Jan 16; 1976
-• +Thomas James Houck Jun 1974
+Jan 16, 1976
+.+Thomas James Houck Jun 1974
 8 Isabella Mercedez Houck
 Jun 20, 1995
 .*...:8 Dakota James Houck Jul 15, 1996
 .. 5
 Ernest Camilla "Tuff' Ducheneaux
-May 17; 1906 - Jun 19; 1984
-• †Mary Cecelia Collins
-Oct 29; 1913 - Feb 24, 1987
-•6 Phyllis Ann Ducheneaux Jul 25, 1933 - May 16, 2000
-• +Elmer David Gunville
+May 17, 1906 - Jun 19, 1984
+.+Mary Cecelia Collins
+Oct 29, 1913 - Feb 24, 1987
+.6 Phyllis Ann Ducheneaux Jul 25, 1933 - May 16, 2000
+.+Elmer David Gunville
 Jun 3. 1928 - Mar 27, 1990
-• 7 Guyla Ann Gunville Aug 4; 1956
-+William Douglas Knight Nov 10; 1953
-• 8 Wallace Coy Lamont Knight
+. 7 Guyla Ann Gunville Aug 4, 1956
++William Douglas Knight Nov 10, 1953
+. 8 Wallace Coy Lamont Knight
 Oct 8, 1974
 .:8 Sarah Cecelia Rose Knight Aug 17, 1983
-;•i:8 Francesca Phyllis Ann Knight
+;.i:8 Francesca Phyllis Ann Knight
 1993
 *7 Latonne Rae Gunville Jul 9, 1957
-•Wesley Charles Jacobs, Jr
+.Wesley Charles Jacobs, Jr
 1955
-• 8 Jacqué Jaye Jacobs
+. 8 Jacqué Jaye Jacobs
 Aug 26, 1980
 +George Patrick Marshall
 Dec 4, 1974
@@ -93,7 +93,7 @@ Latonne Rae Gunville
 + Kenton Blaine LaPlante Feb 23,
 1961
 8 Camille Marie LaPlante Jul 22, 1988
-•8 Heidi Antoinette LaPlante
+.8 Heidi Antoinette LaPlante
 Dec 22, 1989
 ; 8
 Vanessa Kyle LaPlante Apr 26, 1991

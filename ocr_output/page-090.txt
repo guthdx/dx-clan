@@ -1,6 +1,6 @@
-• 6 Margaret Jean 'Mags' Garreau
+. 6 Margaret Jean 'Mags' Garreau
 Oct 11, 1961
-.. +William Ward Gunville
+..+William Ward Gunville
 Apr 9,1962
 ..7 Austin Elmer Gunville
 ApI 28, 1992
@@ -9,9 +9,9 @@ ApI 28, 1992
 Mar 4,
 1996
 Emaline Lou LeBeau
-.....†Vernon Edward Moran
+.....+Vernon Edward Moran
 Sep 1, 1940
-•.5 Inez A LeBeau
+..5 Inez A LeBeau
 Apr 2, 1932
 ".. +
 Swonke
@@ -59,13 +59,13 @@ Barbara Jean Swift Bird
 Jul 3, 1936
 5 Nathan Sidney Swift Bird
 Nov 9, 1941
-• +Genevieve Straight Head
+.+Genevieve Straight Head
 Jan 24, 1936 - Sep 15, 1991
-•6 Sharon Elizabeth Swift Bird
+.6 Sharon Elizabeth Swift Bird
 Nov 14,
 1964
 (a)
-•7 April Swift Bird
+.7 April Swift Bird
 Apr 23, 1984
 .7 Candace Leigh Swift Bird
 Jun 28, 1988
@@ -85,20 +85,20 @@ Clara Mabel Swift Bird
 Elsie Ellen Swift Bird
 Apr 9, 1913
 Jul 17, 1992
-•†Leonard Daniel LeBeau
+.+Leonard Daniel LeBeau
 Nov 20, 1908 - Aug 28, 1968
 .5 Archie Leonard LeBeau
 Jul
-•†Norma Lucille Mills
+.+Norma Lucille Mills
 ..6 Carla Rae LeBeau
 Sep 6, 1951
 +Harold Delano 'Sonny' Hill,
 Jr
 Apr 10, 1946
-• 7 Lynette Rae LeBeau
+. 7 Lynette Rae LeBeau
 Oct
 22, 1971
-.. +Cody W White
+..+Cody W White
 .. 8 Kaylin Rae White
 7 Travis Roland LeBeau
 Jul 26, 1996
@@ -109,5 +109,5 @@ Sep
 ...8 Trevor Leo Travis LeBeau
 Mar 30, 1997
 Carla Rae LeBeau
-•.+Bernard Jojolla
+..+Bernard Jojolla
 88

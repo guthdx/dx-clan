@@ -4,7 +4,7 @@
 ..8 Phannette Maureen Gray Oct 25, 2000
 6 Paula Jean LeCompte Dec 1, 1952
 ..+Royce Dean Boehrs Feb 15, 1953
-•.7 Kristen Suzanne Boehrs
+..7 Kristen Suzanne Boehrs
 Jul 17, 1976
 ....7 John Royce Boehrs Jun 4, 1981
 6 Wyla Jolene LeCompte Mar 29, 1955
@@ -14,7 +14,7 @@ Aug 27, 1974
 ...8 Miranda Rose Lawrence
 Jul 11, 1991
 Stephanie Leigh Lawrence
--+Chad Hall
++Chad Hall
 ...8 André Xavier Hall Jun 8, 1996
 7 Bryan Paul Lawrence
 Feb 9, 1978
@@ -25,13 +25,13 @@ Rose Lawrence Oct 13, 1981
 ..7 Ryan Kasper LeCompte
 ..7 Beth Nicole LeCompte Mar 29, 1981
 Leo Casper LeCompte
-•Ethel Louise Morgan Feb 19, 1958
+.Ethel Louise Morgan Feb 19, 1958
 5 Vetal Franklin
 'Buster' LeCompte
 Маг 6, 1925
 .+Cyrinthia Traversie
 Dec 22, 1929
-•6 Sharon Darlene LeCompte (Traill (c)
+.6 Sharon Darlene LeCompte (Traill (c)
 +Jerry Dean Cartmell
 ..7 Cyrinthia Shawna Cartmell Mar 22, 1972
 Sharon Darlene LeCompte (Trail)
@@ -40,7 +40,7 @@ Sharon Darlene LeCompte (Trail)
 Dec 13, 1973
 6 Karen Marlene LeCompte (Trail)
 Feb 9,1948 (c)
--+Vincent Bibiano Gasca
++Vincent Bibiano Gasca
 ..7 Vincent Brian Gasca, SI Jan 12, 1967
 .+Naida Veliz
 .....8 Vincent Brian Gasca, JI
@@ -54,11 +54,11 @@ Karen Marlene LeCompte (Trail)
 +Joseph Rhymer
 .. 8 Kobe Scott Rhymer Jul 28, 1998
 Karen Marlene LeCompte (Trail)
-.. +Dan
+..+Dan
 .6 Terrence Dean LeCompte
 Oct 22, 1958 (c)
 5 Ivan Andrew LeCompte Dec 28, 1926
-, +Verda Adell Garreau
++Verda Adell Garreau
 Nov 24,
 1931 - Aaug 1, 1999
 .6 Charles Andrew LeCompte
@@ -66,7 +66,7 @@ Mar 15, 1951
 +Ramona Dallas Poitras Aug 13, 1953
 .7 Richard Gene LeCompte
 Sep 1, 19 70 - Dec 29, 1994 (a)
-• +Gayle Ann Lofton
+.+Gayle Ann Lofton
 Jul 24,
 .8 Ricquel Gene Amelia LeCompte
 Aug 6, 1990
@@ -77,7 +77,7 @@ Jan 21, 1973
 -8 Chey-tyle Bosley 1994
 ..8 Summer Bosley 1996
 7 Raymond Gary LeCompte
-•7 Stephen Douglas LeCompte, II
+.7 Stephen Douglas LeCompte, II
 Mar 18, 1981
 Oct 30, 1984 (bo)
 141

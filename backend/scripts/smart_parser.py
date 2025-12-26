@@ -64,7 +64,8 @@ def extract_years(text: str) -> tuple:
 
     # Pattern for date ranges like "Sep 14, 1910 - Jul 20, 1981" or "1893 - Dec 21, 1915"
     # The pattern handles: YEAR - [optional month day] YEAR
-    range_pattern = r'(\d{4})\s*[-–]\s*(?:[A-Za-z]+\s+\d+,?\s*)?(\d{4})'
+    # Include em-dash and en-dash variants
+    range_pattern = r'(\d{4})\s*[-–—]\s*(?:[A-Za-z]+\s+\d+,?\s*)?(\d{4})'
     range_match = re.search(range_pattern, text)
     if range_match:
         birth_year = int(range_match.group(1))
@@ -115,7 +116,10 @@ def extract_years(text: str) -> tuple:
 
     # Also check death is not before birth
     if birth_year and death_year and death_year < birth_year:
-        # Keep the more plausible one (usually birth year is more reliable)
+        # Dates are in wrong order - this usually means two dates from different
+        # people got merged incorrectly. Keep the EARLIER year as birth year
+        # since birth years are more reliable in this data.
+        birth_year = min(birth_year, death_year)
         death_year = None
         death_circa = False
 
@@ -329,6 +333,12 @@ def preprocess_lines(lines: list) -> list:
     partial_date_ending = re.compile(r'[A-Za-z]{3}\s+\d{1,2},\s*$')
     year_only_pattern = re.compile(r'^[•.*†+,;:\-/\s]*(\d{4})\s*$')
 
+    # Pattern for lines that are just month+day (no year): "Jul 2," or "Jul 2"
+    month_day_only_pattern = re.compile(
+        r'^[•.*†+,;:\-/\s]*'  # Optional OCR noise prefix
+        r'[A-Za-z]{3}\s+\d{1,2},?\s*$'  # "Jul 2," or "Jul 2"
+    )
+
     # Pattern for lines that look like date fragments (year, month day, ranges)
     # Matches: "1940 - Jan 1," or "1963" or "Jan 1, 1963" etc.
     date_fragment_pattern = re.compile(
@@ -384,15 +394,45 @@ def preprocess_lines(lines: list) -> list:
                     i = j
                     continue
 
-            # Check if current line is a name and next line is just a date
-            # (handles cases where gen+name are together but date is separate)
+            # Check if current line is a name and next line(s) are just dates
+            # (handles cases where gen+name are together but dates are separate)
             if i + 1 < len(lines):
                 next_line = lines[i + 1].rstrip()
+
+                # Special case: next line is month+day only (like "Jul 2,")
+                # and following line is year only (like "1988")
+                if month_day_only_pattern.match(next_line) and i + 2 < len(lines):
+                    year_line = lines[i + 2].rstrip()
+                    if year_only_pattern.match(year_line):
+                        # Join all three: name + month_day + year
+                        combined = line + ' ' + next_line + ' ' + year_line
+                        j = i + 3
+                        # Keep joining more date lines if present
+                        while j < len(lines):
+                            following = lines[j].rstrip()
+                            if date_only_pattern.match(following):
+                                combined = combined + ' ' + following
+                                j += 1
+                            else:
+                                break
+                        processed.append(combined)
+                        i = j
+                        continue
+
                 if date_only_pattern.match(next_line):
-                    # Join name line with date line
+                    # Join name line with date line(s)
                     combined = line + ' ' + next_line
+                    j = i + 2
+                    # Keep joining consecutive date lines
+                    while j < len(lines):
+                        following = lines[j].rstrip()
+                        if date_only_pattern.match(following):
+                            combined = combined + ' ' + following
+                            j += 1
+                        else:
+                            break
                     processed.append(combined)
-                    i += 2
+                    i = j
                     continue
 
             processed.append(line)
@@ -499,7 +539,10 @@ def build_persons_dict(entries: list) -> dict:
             person.death_year = entry.death_year
             person.death_year_circa = entry.death_year_circa
 
-        if entry.generation and not person.generation:
+        # Only set generation on first appearance - don't update from subsequent listings
+        # A person may appear multiple times (under their parents, under their spouse's family, etc.)
+        # and the first appearance is authoritative
+        if is_new_person and entry.generation and not entry.is_spouse:
             person.generation = entry.generation
 
         # Handle relationships
@@ -523,19 +566,49 @@ def build_persons_dict(entries: list) -> dict:
                 parents_set.add(key)
 
                 # Find the parent in our persons dict
-                parent_key = None
-                for k, p in persons.items():
-                    if k[0] == parent_name.lower():
-                        parent_key = k
-                        break
+                # Handle multiple people with same name by preferring plausible parent age
+                parent_name_lower = parent_name.lower()
+                candidates = [(k, p) for k, p in persons.items() if k[0] == parent_name_lower]
 
-                if parent_key:
-                    parent = persons[parent_key]
-                    # Add bidirectional relationship ONLY for first appearance
-                    if entry.name not in parent.children:
-                        parent.children.append(entry.name)
-                    if parent.name not in person.parents:
-                        person.parents.append(parent.name)
+                parent_key = None
+                parent = None
+
+                if len(candidates) == 1:
+                    parent_key, parent = candidates[0]
+                elif len(candidates) > 1 and entry.birth_year:
+                    # Multiple candidates - prefer one with plausible parent age
+                    for k, p in candidates:
+                        if p.birth_year:
+                            age_at_child_birth = entry.birth_year - p.birth_year
+                            if 12 <= age_at_child_birth <= 60:
+                                parent_key, parent = k, p
+                                break
+                    # Fall back to oldest candidate
+                    if not parent:
+                        with_birth = [(k, p) for k, p in candidates if p.birth_year]
+                        if with_birth:
+                            parent_key, parent = min(with_birth, key=lambda x: x[1].birth_year)
+                        else:
+                            parent_key, parent = candidates[0]
+                elif candidates:
+                    parent_key, parent = candidates[0]
+
+                if parent:
+                    # Validate the relationship is biologically plausible
+                    # Skip if parent would be younger than child or impossibly young
+                    should_add = True
+                    if parent.birth_year and entry.birth_year:
+                        age_at_child_birth = entry.birth_year - parent.birth_year
+                        if age_at_child_birth < 12:
+                            # Parent too young or younger than child - skip this relationship
+                            should_add = False
+
+                    if should_add:
+                        # Add bidirectional relationship ONLY for first appearance
+                        if entry.name not in parent.children:
+                            parent.children.append(entry.name)
+                        if parent.name not in person.parents:
+                            person.parents.append(parent.name)
             # NOTE: If key is already in parents_set, we do NOT add any relationships
             # This prevents subsequent appearances from creating wrong parent-child links
 
@@ -574,9 +647,8 @@ def merge_duplicates(persons: dict) -> dict:
     """
     Merge duplicate person entries.
 
-    When the same person appears with (name, birth_year) and (name, None),
-    merge them into a single entry, preferring the one with birth_year.
-    Also shares children between spouses.
+    ONLY merge when the same person appears with (name, birth_year) and (name, None).
+    Do NOT merge entries that both have birth years - they're different people!
     """
     from collections import defaultdict
 
@@ -593,49 +665,76 @@ def merge_duplicates(persons: dict) -> dict:
             # No duplicates
             merged[entries[0][0]] = entries[0][1]
         else:
-            # Multiple entries with same name - merge them
-            # Prefer the one with birth_year
+            # Multiple entries with same name
             with_birth = [e for e in entries if e[0][1] is not None]
             without_birth = [e for e in entries if e[0][1] is None]
 
-            if with_birth:
-                # Use the entry with birth year as base
-                base_key, base = with_birth[0]
-            else:
-                # Use first entry if none have birth year
-                base_key, base = without_birth[0]
+            # Keep ALL entries with different birth years - they're different people!
+            for key, person in with_birth:
+                merged[key] = person
 
-            # Merge data from other entries
-            for key, other in entries:
-                if key == base_key:
-                    continue
-
-                # Merge death year if missing
-                if not base.death_year and other.death_year:
-                    base.death_year = other.death_year
-                    base.death_year_circa = other.death_year_circa
-
-                # Merge generation if missing
-                if not base.generation and other.generation:
-                    base.generation = other.generation
-
-                # Merge parents (take first non-empty)
-                if not base.parents and other.parents:
-                    base.parents = other.parents
-
-                # Merge spouses (union)
-                for spouse in other.spouses:
-                    if spouse not in base.spouses:
-                        base.spouses.append(spouse)
-
-                # Merge children (union)
-                for child in other.children:
-                    if child not in base.children:
-                        base.children.append(child)
-
-            merged[base_key] = base
+            # Only merge entries without birth year into ONE entry with birth year
+            if without_birth:
+                if with_birth:
+                    # Merge the no-birth entries into the FIRST with-birth entry
+                    base_key, base = with_birth[0]
+                    for key, other in without_birth:
+                        # Merge data from no-birth entry
+                        if not base.death_year and other.death_year:
+                            base.death_year = other.death_year
+                            base.death_year_circa = other.death_year_circa
+                        if not base.generation and other.generation:
+                            base.generation = other.generation
+                        if not base.parents and other.parents:
+                            base.parents = other.parents
+                        for spouse in other.spouses:
+                            if spouse not in base.spouses:
+                                base.spouses.append(spouse)
+                        for child in other.children:
+                            if child not in base.children:
+                                base.children.append(child)
+                else:
+                    # No birth year entries - keep first one
+                    merged[without_birth[0][0]] = without_birth[0][1]
 
     return merged
+
+
+def find_person_by_name(persons: dict, name: str, child_birth_year: int = None) -> Optional[Person]:
+    """
+    Find a person by name, handling cases where multiple people share the same name.
+
+    If child_birth_year is provided, prefer a person who could plausibly be a parent
+    (born at least 12 years before the child).
+    """
+    name_lower = name.lower()
+    candidates = []
+
+    for key, person in persons.items():
+        if key[0] == name_lower:
+            candidates.append(person)
+
+    if not candidates:
+        return None
+
+    if len(candidates) == 1:
+        return candidates[0]
+
+    # Multiple candidates - pick the best one
+    if child_birth_year:
+        # Prefer someone who could be a parent (born 12-60 years before child)
+        for candidate in candidates:
+            if candidate.birth_year:
+                age_at_child_birth = child_birth_year - candidate.birth_year
+                if 12 <= age_at_child_birth <= 60:
+                    return candidate
+        # Fall back to oldest candidate
+        with_birth = [c for c in candidates if c.birth_year]
+        if with_birth:
+            return min(with_birth, key=lambda c: c.birth_year)
+
+    # Return first candidate as fallback
+    return candidates[0]
 
 
 def share_children_between_spouses(persons: dict) -> None:
@@ -649,11 +748,6 @@ def share_children_between_spouses(persons: dict) -> None:
     CRITICAL: A child can have at most 2 biological parents. This function
     will NOT add more than 2 parents to any person.
     """
-    # Build a lookup by name for finding persons
-    by_name = {}
-    for key, person in persons.items():
-        by_name[key[0]] = person  # key[0] is lowercase name
-
     # For each person who has exactly 1 parent, try to add the second parent
     # (the spouse of the first parent)
     for key, person in persons.items():
@@ -662,24 +756,28 @@ def share_children_between_spouses(persons: dict) -> None:
             continue
 
         parent_name = person.parents[0]
-        parent_key = parent_name.lower()
+        parent = find_person_by_name(persons, parent_name, person.birth_year)
 
-        if parent_key not in by_name:
+        if not parent:
             continue
-
-        parent = by_name[parent_key]
 
         # Add the FIRST spouse as second parent (most likely the biological parent)
         # We only add ONE spouse to avoid creating more than 2 parents
         for spouse_name in parent.spouses:
             if spouse_name not in person.parents:
+                # Find the spouse and validate age is plausible
+                spouse = find_person_by_name(persons, spouse_name, person.birth_year)
+
+                # Skip if spouse would be impossibly young parent
+                if spouse and spouse.birth_year and person.birth_year:
+                    age_at_child_birth = person.birth_year - spouse.birth_year
+                    if age_at_child_birth < 12:
+                        continue  # Skip this spouse, try next one
+
                 person.parents.append(spouse_name)
                 # Also add this person to spouse's children list
-                spouse_key = spouse_name.lower()
-                if spouse_key in by_name:
-                    spouse = by_name[spouse_key]
-                    if person.name not in spouse.children:
-                        spouse.children.append(person.name)
+                if spouse and person.name not in spouse.children:
+                    spouse.children.append(person.name)
                 # Stop after adding one spouse (now have 2 parents)
                 break
 

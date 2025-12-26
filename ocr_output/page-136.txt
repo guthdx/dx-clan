@@ -1,13 +1,13 @@
 5
 5
-• †Gary Helbert
-•8 Nicole Heibert Mar 8, 1990
+.+Gary Helbert
+.8 Nicole Heibert Mar 8, 1990
 ...8 Andrew Heibert Apr 23, 1992
 7 Malissa Renee Brown Oct 2, 1968
 Maurice
 Raymond Mathieson
 Aug 28, 1907 - Jul 20, 1966
-†Grace Sweeney
++Grace Sweeney
 May 6,
 1915 - Sep
 1984
@@ -16,16 +16,16 @@ May
 12, 1909 - May 6, 1957
 +Robert Paul Simon, SI
 Feb 17, 1902 - Apr 29, 1959
-•6 Joan Deloris Simon
+.6 Joan Deloris Simon
 Jan 31, 1929
 tArnold James Lesmeister
 Feb 10, 1927 - Aug 8, 1990
-•7 Linda Joan Lesmeister Nov 19, 1948
-•+Edward Lindsey Mathews Jun 30, 1943
+.7 Linda Joan Lesmeister Nov 19, 1948
+.+Edward Lindsey Mathews Jun 30, 1943
 ...8 Courtney Lynn Mathews
 Dec 8, 1991 (d)
 7 Stephen Paul Lesmeister Sep 18, 1951
--†Sheryl Ingalls Aug 1, 1957
++Sheryl Ingalls Aug 1, 1957
 .. 8
 Jason Paul Lesmeister
 Jan 30, 1977
@@ -33,7 +33,7 @@ Jan 30, 1977
 6
 Jean Valerie Simon
 Jan 18, 1931
-• *Robert Roy Rose
+.*Robert Roy Rose
 Nov 24, 1924
 .7 Verna Jean Rose
 Jul 17, 1949
@@ -43,21 +43,21 @@ Erin Elizabeth Schad
 Nov 21, 1973 - Nov 21, 1973
 8
 Jeremy Michael Schad Nov 12, 1974
-•+Rikki Lynn Good House
+.+Rikki Lynn Good House
 Apr 26, 1975
 ...9 Sydney Nichole Schad
 Jul 23, 1997
 ...8 Ryan Michael Schad Jan 28, 1978
 7 Danialle Diane Rose
 Jun 11, 1950
-• +James Eugene Beaumont Jul 5, 1949
-•8 Colin Leigh Beaumont (Eagle Horse) Nov 10, 1975 (d)
+.+James Eugene Beaumont Jul 5, 1949
+.8 Colin Leigh Beaumont (Eagle Horse) Nov 10, 1975 (d)
 8 Demetria Bianca Beaumont (Eagle Feather) Jun 8,1977 (d)
 ..8 Deric Wade Beaumont Jul 5, 1981 - Jan 29, 1982
 Danialle Diane Rose
 ...+Wilfred Keith Joseph
 Jun 14, 1956
-•I Nina Renee Rose Mar 25,
+.I Nina Renee Rose Mar 25,
 1953
 +James Franklin Craid
 Feb 21, 1947
@@ -70,7 +70,7 @@ Dec 4, 1985
 Jan 13, 1958
 .+Michael John Chavanu
 Jul 14, 1956
-•8 Christopher Michael Chavanu
+.8 Christopher Michael Chavanu
 Oct 11, 1980
 ..8 Joseph Kevin Chavanu
 May 18, 1985
@@ -86,7 +86,7 @@ Mar 4, 1967
 6
 Robert Paul 'Sonny' Simon, Jr
 Dec 21, 1932 - Feb 7, 1965
--+Jean Ardith Miller Feb 16, 1934
++Jean Ardith Miller Feb 16, 1934
 .7 Lora Jane Simon May
 10, 1956 - Jul 5, 2000
 +Walter Jay 'Jake' Berndt Jan 19,

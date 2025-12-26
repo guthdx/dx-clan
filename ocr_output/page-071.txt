@@ -3,7 +3,7 @@ tAnn Marguerite Phillips
 .6 John Allen Gray
 Jun
 9, 1938
-•+Charlotte Robertson
+.+Charlotte Robertson
 ... 7 Darinda Gray
 6
 Glen Allen Gray
@@ -15,23 +15,23 @@ Oct 3,
 Emma Diane Gray
 Jul
 27, 1945
-.. +Steve Lecher
+..+Steve Lecher
 .... 7 Justin Gray
 6
 Darlene Isabel Gray May 9, 1948
-•+Joseph Bolen
+.+Joseph Bolen
 .7 Michael Bolen
 ...7 Julia Bolen
 6 Karen Coleen Gray Jun 21, 1953
 ..+Fred Broberg
 ...7 Tera Lynn Broberg
-•5 Zelma Jim Gray Oct 5, 1910 - Mar 26, 1993
+.5 Zelma Jim Gray Oct 5, 1910 - Mar 26, 1993
 .tAlfred Carl Bryant
-• 6 Erbie Bryan Bryant
+. 6 Erbie Bryan Bryant
 Sep 15, 1932
-•+Grace Garnette
+.+Grace Garnette
 1934
-•7 Erbie Ray Bryant
+.7 Erbie Ray Bryant
 Aug 5, 1959
 7 Alfred Alan Bryant Mar
 21, 1962
@@ -49,35 +49,35 @@ Feb 8, 1957
 6
 Joann Lorraine Bryant
 Sep 15, 1938
-•+Ralph John Richter
-•7 Keith Allen Richter Jan 9, 1960
+.+Ralph John Richter
+.7 Keith Allen Richter Jan 9, 1960
 .7 Carol Ann
 Richter
 Dec 5,
 1961
 ..7 Mark Adam Richter Oct 11, 1970
 Zelma Jim Gray
-•+Raymond Francis 'Shag' Austin
+.+Raymond Francis 'Shag' Austin
 May 13, 1900 - Feb 21, 1986
 .6 Zelma Mae Austin
 Feb 21, 1943
-•+Theodore Harold Hill
-•.7 Kay Marie Hill
+.+Theodore Harold Hill
+..7 Kay Marie Hill
 Feb 4, 1960
 ...7 Angela Fay Hill Nov 14, 1962
 Zelma Mae Austin
-.. +Robert Marsh
+..+Robert Marsh
 . 6 Thomas Dewey Austin
 Jul 25, 1944
 6 Michael Patrick "Mick' Austin
 Sep 28, 1945
-•+Wanda Jean Long
+.+Wanda Jean Long
 Feb 6, 1951
 .7 Patrick Michael Austin
 Jan 22, 1969
 +Cassie Cruz
 .8 Ryan Nykole Austin Nov 6, 1989
-• 8 Parker Michael Austin
+. 8 Parker Michael Austin
 Jan 25, 1992
 ...8 Jordan Marie Austin
 Sep 25,
@@ -86,12 +86,12 @@ Sep 25,
 Jun
 5, 1988
 6 Mary Frances Austin Mar 3, 1947
-•+Kenneth John Miller
+.+Kenneth John Miller
 ..7 Staci Lynn Miller Aug 28, 1976
 ..7 Mary Katherine Miller
 Oct 29, 1977
 6 Calvin Ray Austin
 Jun 25, 1952
 +Janet Alene Hamilton
-•.7 Bill Raymond Austin Sep 2, 1971
+..7 Bill Raymond Austin Sep 2, 1971
 69

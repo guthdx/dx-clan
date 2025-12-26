@@ -1,9 +1,9 @@
 .8 Leanna M Campaign
 Eugene LeMoyne Ducheneaux
-• Theresa Rose LeBeau Jan 24, 1936
-•. 7 June Kathleen Ducheneaux
+. Theresa Rose LeBeau Jan 24, 1936
+.. 7 June Kathleen Ducheneaux
 Jun 6, 1956
-• 8 Heath Richard Ducheneaux Oct 28, 1974
+. 8 Heath Richard Ducheneaux Oct 28, 1974
 ..+Amy Louise Bowers Apr 7, 1974
 June Kathleen Ducheneaux
 +Hugh Gerard Peters
@@ -12,36 +12,36 @@ Mar 16, 1956 - Apr 5, 1983
 7
 7
 Rose Marie Jean Ducheneaux Jul 15, 1958
-.. +Robert Eugene Green
+..+Robert Eugene Green
 Aug 10, 1946
 clinton Stuart Ducheneaux, SI
 Nov 13, 1959
 +Lily Marlae Mendoza
 Jan 27, 1958
-• 8 Madelynn Marlae Ducheneaux
+. 8 Madelynn Marlae Ducheneaux
 Jul 3, 1979
 ... 8 Cameron Ralph Ducheneaux
 Jun 11,
 1980
 Clinton Stuart Ducheneaux, SI
-•†Lisa Ray Hamlin Dec 21, 1955
+.+Lisa Ray Hamlin Dec 21, 1955
 ...8 Clinton Stuart 'Duke' Ducheneaux, Jr Sep 30, 1988
 7
 Darin Kevin Ducheneaux
 Jan 12, 1961
 Nov 1, 1963
-•8 Patrick Neil Ducheneaux May 27, 1984
+.8 Patrick Neil Ducheneaux May 27, 1984
 ..8 Charles Lee Ducheneaux
 Jul 31,
 1985
 7
 Bruce Todd Ducheneaux Apr 14, 1963
-• +Jennifer McMichael
+.+Jennifer McMichael
 ...8 Tyler Moon Ducheneaux May
 6, 1997
 7
 Boyd James Ducheneaux Apr 3, 1964
-•+Shireen Connolly Nov 5, 1956
+.+Shireen Connolly Nov 5, 1956
 .8 Theresa Frances 'Tess' Ducheneaux
 Mar 28, 1989
 ...8 Zane James Ducheneax
@@ -50,7 +50,7 @@ Jan 14, 1995
 Lisa Helene Ducheneaux
 (Nordvold)
 Mar 4, 1966 (a)
-•+Preston Theodore Maynard Apr 21, 1964
+.+Preston Theodore Maynard Apr 21, 1964
 ..8 Rose Mary Maynard Jan 14, 1988
 ..8 Alissa Helene Maynard
 7
@@ -58,11 +58,11 @@ Jan 12,
 1989
 Pete Wesley Ducheneaux
 Jul 21, 1972
-•+Dawn Lynn Bad Warrior Nov 1,
+.+Dawn Lynn Bad Warrior Nov 1,
 1972
-•8 Christina Helene Ducheneaux
+.8 Christina Helene Ducheneaux
 Sep 3, 1991
-• 8 Cassandra Kaye Ducheneaux
+. 8 Cassandra Kaye Ducheneaux
 Sep 3, 1991
 6 Bonita Patricia 'Betty' Ducheneaux
 Feb 23, 1931 - May 24, 1962
@@ -70,17 +70,17 @@ Feb 23, 1931 - May 24, 1962
 Jan 2,
 1924
 .7 Rodney Royce Hogfoss Aug 27,1951
-•†Kelly Josephine Morris Nov 23, 1960
+.+Kelly Josephine Morris Nov 23, 1960
 ...8 Chaleena Marceen Hogfoss
 Richard Meldon Hogfoss
 Got 20, 1952
 1987
-• +Suzanne Mary Yetzer Mar 7, 1956
+.+Suzanne Mary Yetzer Mar 7, 1956
 .8 Jason Richard Hogfoss
 Jan 2, 1975
-• 8 Steven Lyell Hogfoss
+. 8 Steven Lyell Hogfoss
 Feb 4, 1976
-•8 Bonita Patricia Hogfoss May 21, 1981
+.8 Bonita Patricia Hogfoss May 21, 1981
 .8 Richard Matthew Murphy Hogfoss
 Feb 27, 1984
 7
@@ -93,7 +93,7 @@ Sep 14,
 May 19, 1982
 Barry Alan Hogfoss
 Oct 5, 1958
-•†Christina Ann Borkowski
+.+Christina Ann Borkowski
 Jul 26,
 1955
 .. 8 John Ryan Hogfoss
@@ -102,5 +102,5 @@ Oct 9, 1985
 Feb 25, 1932
 . William Harlan Rehfeld
 Mar 27,1926
-•.7 Blake Williams Rehfeld Oct 30, 1955
+..7 Blake Williams Rehfeld Oct 30, 1955
 65

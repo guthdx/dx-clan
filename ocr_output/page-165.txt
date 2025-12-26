@@ -1,7 +1,7 @@
-•5 Ella Belle Johnson Apr 30, 1925
+.5 Ella Belle Johnson Apr 30, 1925
 ..+Donald Lee Tomlin, SI
 .. 6 David Tomlin
-.. +Colleen Hogan
+..+Colleen Hogan
 ..7 Kevin David Tomlin Nov 21, 1975
 ...7 Katie Jean Tomlin Jun 18, 1977
 6
@@ -10,9 +10,9 @@ Donald Lee Tomlin, JI Dec 31,
 .6 Kathyleen Marcella Tomlin Jul 14, 1953
 .. 6 Colleen Tomlin
 ..6 Patrick Joseph Tomlin
-•5 Evelyn Rosetta Johnson
+.5 Evelyn Rosetta Johnson
 Jul 12, 1926
-•.+Lawrence Michael O'Leary
+..+Lawrence Michael O'Leary
 Dec 9, 1913
 ..6 Michael Lawrence O'Leary, SI
 Oct 11,
@@ -25,10 +25,10 @@ Feb 14, 1982
 +James Will
 .......7 Daniel Curtis Will Jan 26, 1992
 5 Anthony LaMonte 'Curley' Johnson Sep 14, 1929
-•†Jacqueline Joyce Hill Marshall Sep 27,
+.+Jacqueline Joyce Hill Marshall Sep 27,
 1939 - Sep 18, 1993
-•6 Chauncey Lamont 'C L' Johnson Jan 21, 1964 - Jan 9, 1999
-•+Leslie Clifford
+.6 Chauncey Lamont 'C L' Johnson Jan 21, 1964 - Jan 9, 1999
+.+Leslie Clifford
 ..7 Josey Johnson
 6
 Frankie Lou Johnson May 12, 1965
@@ -39,13 +39,13 @@ Kirk Patrick Johnson Jul 9,
 ..7 John Darren Jewett Jan 31, 1987
 Kirk Patrick Johnson
 +Wanda Lynn Hibner
-•7 Jacqueline Marie Johnson Mar 14, 2000
+.7 Jacqueline Marie Johnson Mar 14, 2000
 ..7 Bobby Lou Johnson
 Mar 14, 2000
 5
 Eda Jewell Johnson
 Oct 5, 1931
-•+Floyd Crawford Reno, JI
+.+Floyd Crawford Reno, JI
 Sep 29, 1929
 6 Floyd Crawford Reno, III
 May 30, 1955
@@ -54,7 +54,7 @@ May 30, 1955
 ....7 Sara Ficklin 1985
 6 Teckla Harriet Reno Jan 5, 1958
 +Patrick J Lohof
-•.7 Rachel Jewell Lohof Mar 27, 1980
+..7 Rachel Jewell Lohof Mar 27, 1980
 ...7 Kirk Reno Lohof 1985
 * Teckla Harriet Reno
 ....7 Walter Reno Alderson Dec 8, 1997

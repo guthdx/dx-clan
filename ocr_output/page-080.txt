@@ -1,16 +1,16 @@
-•5 Evelyn Elizabeth LeCompte
+.5 Evelyn Elizabeth LeCompte
 Sep 21, 1920 - Mar 17, 1933
 5
 George Francis LaCompte
 Feb 13, 1922
-•+Betty Speckman
-•6 Michael LaCompte Dec 9, 1945
+.+Betty Speckman
+.6 Michael LaCompte Dec 9, 1945
 ..7 Brian James LaCompte Feb 11, 1970
-•+Jamie Ann Haga
+.+Jamie Ann Haga
 ...8 Cody James LaCompte Jan 22, 1993
 Brian James LaCompte
-•.+Stacey Marie Tiger
-• Apr 22,
+..+Stacey Marie Tiger
+. Apr 22,
 1964
 7 Dale LaCompte
 Feb 19,
@@ -20,7 +20,7 @@ Oct 25,
 1979
 6 Gary LaCompte Sep
 7, 1947
-•†JoAnn Bunker Jun
+.+JoAnn Bunker Jun
 1948
 ..7 Lisa LaCompte
 Oct 20, 1973
@@ -30,17 +30,17 @@ Oct 20, 1973
 6 Linda LaCompte
 Aug 12,
 1951
-•+Roger Root Dec 28, 1949
-•7 Jamie Root
+.+Roger Root Dec 28, 1949
+.7 Jamie Root
 29, 1977
 7 Jesse Root
 1981
 ...7 Kelli Root
 Feb 1, 1987
-•6 Marilyn LaCompte Feb 29, 1956
+.6 Marilyn LaCompte Feb 29, 1956
 +Barry Grossenburg
 Nov 1, 1955
-•7 Melissa Lawayna Grossenburg
+.7 Melissa Lawayna Grossenburg
 May 19, 1980
 7 Charlie Francis
 Grossenburg
@@ -56,17 +56,17 @@ Feb 12, 1958
 Aug 16, 1965
 .7 Andrea Laree LaCompte
 Nov 1, 1984
-• 7 Angie Marie LaCompte
+. 7 Angie Marie LaCompte
 Jul 7,
 1986
-•.7 Matthew Mason LaCompte
+..7 Matthew Mason LaCompte
 . 5
 (sister) Madeleine Rita LeCompte (osS, 1988
 Aug 3, 1924
 5
 Bernice Christine LeCompte
 Feb 10, 1926
-•+Carl Johnson, Sr
+.+Carl Johnson, Sr
 .6 Gloria Johnson
 .. 6 Carl Johnson, JI
 .... 6 Jane Ann Johnson
@@ -83,7 +83,7 @@ Nov 26, 1931 - Jan 13, 1998
 Jan 27, 1918 - Dec 1985
 .5 Florence Putnam
 Sep 28, 1919
-•..... Evelyn Putnam Auo 30, 1921
+...... Evelyn Putnam Auo 30, 1921
 ........5 Arthur Lawrence Putnam
 ApI 12, 1923
 ........5 Elaine Putnam Feb 26, 1925

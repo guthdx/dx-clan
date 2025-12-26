@@ -7,13 +7,13 @@ Monta Lynn Veronica Claymore
 ..+Dale Little Soldier
 5 Almeda Claire Claymore Aug
 1, 1943
-•†Robert Thomas Lawrence, Jr
+.+Robert Thomas Lawrence, Jr
 Aug 16, 1941
-• 6 Robert Len
+. 6 Robert Len
 Lawrence
 Sep 1,
 1961
-•Kimberlin Karole Dunn
+.Kimberlin Karole Dunn
 Mar 29, 1969
 ... 7 Reggie Raye Lawrence
 Dec 10, 1989
@@ -21,7 +21,7 @@ Dec 10, 1989
 Deb Duane Lawrence
 Feb 15, 1963
 +Wendy Kay Shillingstad
-•7 Jordan Shay Lawrence
+.7 Jordan Shay Lawrence
 Oct 23,
 1986
 ...7 Callie Shayne Lawrence
@@ -29,7 +29,7 @@ sep
 11, 1994
 6 Todd James Lawrence
 May 22, 1964
-. +Michon Faith Marshall
+.+Michon Faith Marshall
 Sep
 11, 1967
 ...7 Kelsie Delphine Marie Lawrence
@@ -39,7 +39,7 @@ Todd James Lawrence
 ...7 Lane Thomas Lawrence
 1991
 * Todd James Lawrence
-• +Rhonda Lynn Swan
+.+Rhonda Lynn Swan
 Oct 7, 1963
 ...7 Kellon James Lawrence
 Mar 4,
@@ -51,19 +51,19 @@ Jun 30,
 7 Kayle CLay Lawrence sua 19, E991
 .... 7 Kacie Dru Lawrence
 Aug 10, 1983
-•6 Kimberly Rae Lawrence
+.6 Kimberly Rae Lawrence
 Jun
 14, 1966
-•+Carl Calvin Garreau Feb 15, 1971
+.+Carl Calvin Garreau Feb 15, 1971
 ,..7 Tucker Claymore Garreau
 Apr 29, 1994
 6 Wayde Alan Lawrence
 Sep 14, 1972
-.. †Naomi Novak
+..+Naomi Novak
 ....7 John Todd Lawrence
 Feb 15, 1989
 6 Wayde Alan Lawrence
-- †Melanie Rose Bruguier
++Melanie Rose Bruguier
 25, 1974
 ....7 Kain Brody Bordeau-Garreaux
 .. 5
@@ -72,10 +72,10 @@ Leonard Joseph Claymore
 May 10, 1946
 Oct 4, 1945
 6 Shawn Leroy Annis 1963 - Jul 11, 1965
-•6 Marty Scott Stadel Apr 4, 1964
-•+Jennifer Nicole Carter
+.6 Marty Scott Stadel Apr 4, 1964
+.+Jennifer Nicole Carter
 Mar 3, 1973
-•.7 Shelby Shaun-O'Neil Stadel Dec 26, 1990
+..7 Shelby Shaun-O'Neil Stadel Dec 26, 1990
 ...7 Seth Michael Carter
 6 Montgomery Shawn Stadel
 +Desiree Marie Knight
@@ -91,7 +91,7 @@ Dec 5, 1967
 ...7 Shayne Grey Stadel
 Jun 15, 1997
 Julia Darlene Claymore
-• +Alvin Wayne Stadel
+.+Alvin Wayne Stadel
 .6 Kyle Claymore Stadel
 ...6 Jason Brams Stadel
 .5 Montgomery Clay Claymore
@@ -99,5 +99,5 @@ Jul 25,
 1978
 1978
 Jun 1, 1948
-• +Debra Webb Nov 4, 1955
+.+Debra Webb Nov 4, 1955
 188

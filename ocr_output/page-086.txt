@@ -1,30 +1,30 @@
 *
 Burton James Ducheneaux
-•+Sharon Eileen Miner Mar 12, 1950 - Sep 7, 1988
+.+Sharon Eileen Miner Mar 12, 1950 - Sep 7, 1988
 .7 Richard Lee Miner
 ...8 Brett Nicole Miner
 . 6
 Sherel Ann Ducheneaux May 23, 1943
-•+Charles Henry Peterson, Jr (Carlton)
+.+Charles Henry Peterson, Jr (Carlton)
 May 3, 1943
 ..7 Jolene Ann Peterson Jul 20, 1961
-•+Lorenzo Black Lance 1954
-•8 Pté Ska Win Black Lance Feb 23, 1988 - May 18, 1988
-•8 T.K. Black Lance
+.+Lorenzo Black Lance 1954
+.8 Pté Ska Win Black Lance Feb 23, 1988 - May 18, 1988
+.8 T.K. Black Lance
 ....8 Anna Black Lance
 7 Charles Henry Peterson, III Jul 8, 1962
 7 Frederick James Peterson
 Oct 12, 1963
 7 Warren Ray Peterson
 Jul 29, 1967
-•7 James Wendell Peterson Jun 7, 1969
+.7 James Wendell Peterson Jun 7, 1969
 Sherel Ann Ducheneaux
-•+Nobel LaCroix Oct 23, 1938
+.+Nobel LaCroix Oct 23, 1938
 .7 Bret LaCroix
 .7 Brad LaCroix
 Elnora May Ducheneaux
 Oct 19, 1945
-•+Michael Robert Robertson
+.+Michael Robert Robertson
 Jan 20, 1947
 . ..7 Lana Rae Robertson
 Jul 31, 1966
@@ -33,14 +33,14 @@ Elnora May Ducheneaux
 ..+Ronald James Hope Oct 27, 1944
 Flora Carole Ducheneaux
 Oct 18,
-• +James Roy Odegaard May 15, 1945
+.+James Roy Odegaard May 15, 1945
 .7 Tina Rae Odegaard Feb 26, 1967
 Dec 17, 1963
 .8 Stacie Louise Foell
 Jan 19, 1990
 ...8 Melissa Rae Foell Jun 23, 1998
 7 Anita Susan Odegaard May 8, 1970
-•.8 Danielle Josephine Odegaard Jul 13, 1989
+..8 Danielle Josephine Odegaard Jul 13, 1989
 ..8 Sarah Nicole Borchard
 Nov 9, 1995
 7 Denise June Odegaard
@@ -56,7 +56,7 @@ Jun 24, 1974
 Sep 26, 1977
 .6 Bryant Donald Ducheneaux
 Feb 27, 1953 - Jul 15, 1978
-•6 LeNeta Rae Ducheneaux Aug 19, 1955 - Feb 9,
+.6 LeNeta Rae Ducheneaux Aug 19, 1955 - Feb 9,
 1999
 +Marlin Craig Miner
 1955
@@ -67,7 +67,7 @@ Jul 22, 1977
 ...8 Wyatt W Miner
 1994
 Sheri Jade Miner
-• +Jacob "J J' Breidenbach
+.+Jacob "J J' Breidenbach
 ..8 Jaycee Lynn Breidenbach
 Mar 17,
 1998

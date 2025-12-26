@@ -3,7 +3,7 @@ of
 1 Thomas LeStang Sarpy
 +First Cloud Woman
 1 Thomas LeStang Sarpy Mar 7, 1810 - Jan 19, 1832
-•.+First Cloud Woman d. 1830
+..+First Cloud Woman d. 1830
 ....2 Pelagie or Elizabeth Blanche 'Blazie' Sarpy
 Jul 1829 - Apr 15, 1918
 ......+Paul Pierre Narcelle
@@ -20,7 +20,7 @@ ApI 1851 - Mar 4, 1922
 ........3 Esther Narcelle
 1850 - Nov 14,
 1934
-...... ....+Romauld Rousseau
+..........+Romauld Rousseau
 Mar 15,
 1842 - Mar 27, 1903
 ........3 Sophia Narcelle 1851 - Oct 9, 1918
@@ -35,7 +35,7 @@ May 1857
 .....+Adell
 'Ida' Benoist
 1863
-— 1886
+- 1886
 .....*
 Edward Narcelle
 ........+Emma Ahart
@@ -51,13 +51,13 @@ Edward Narcelle
 ........+August 'Kid' Rich
 d. Feb 20, 1903
 ........* Mary Louise Narcelle
-....... +Harry Sturgis
+.......+Harry Sturgis
 Children and Grandchildren (an overvies)
 of
 * Thomas LeStang Sarpy
 +Good Ground Woman
 * Thomas LeStang
-.. +Good Ground Woman
+..+Good Ground Woman
 ....2 Mary Sarpy 1830 - May 9, 1892
 .....+Bazille Claymore, SI
 Testand Saipy,8a

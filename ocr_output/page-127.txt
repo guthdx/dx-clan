@@ -3,25 +3,25 @@
 6
 Arthur Francis
 'Bluey' Jewett Aug 26, 1928 - ca 1950
-• 6 Earl Albert "Pinky' Jewett
+. 6 Earl Albert "Pinky' Jewett
 Aug 26, 1928
 +Mary Frances Gilbert
 Jun 16,
 1935
-•7 Arthur George Jewett
+.7 Arthur George Jewett
 Aug 18,
 1954
 7 Albert Duane Jewett Aug 13, 1955
 +Peggy Lynn Schrempp 1958
-•8 Kellie Jo Jewett Sep 14, 1978
+.8 Kellie Jo Jewett Sep 14, 1978
 . 8 Brandee Lynn Jewett
 Feb 21, 1980
-•+Gary I Bad Warrior, JI
-•.9 Trevor Lynn Bad Warrior Feb 10, 1998
+.+Gary I Bad Warrior, JI
+..9 Trevor Lynn Bad Warrior Feb 10, 1998
 ..9 Treyton Jay Bad Warrior Jan 19, 2000
 8
 Cody Carlyle Jewett Nov 28,
-•+Dew Marie Bad Warrior Apr 29, 1979
+.+Dew Marie Bad Warrior Apr 29, 1979
 .. 9 Alyssa Marie Jewett
 May 27, 1999
 Travis Duane Jewett
@@ -29,13 +29,13 @@ May 30, 1983
 ..8 Dustin Albert Jewett 1996
 *
 Albert Duane Jewett
-• Stephanie Clair Eberhard
+. Stephanie Clair Eberhard
 Jul 24, 1967
 .....8 Wyatt Earle Jewett
 Mar 21, 1999
 7 Anita Marie Jewett
 Feb 26, 1957
-• †Robin LeRoy 'Butch' Anderson
+.+Robin LeRoy 'Butch' Anderson
 Jan 18, 1956
 ..8 Christy Lee Anderson
 Feb 17, 1978
@@ -43,7 +43,7 @@ Feb 17, 1978
 Sep 14, 1982
 7 Judy Ann Jewett Jul 12, 1958
 +Robert Farlee
-•.8 Jamie Lee Farlee Mar 29, 1977
+..8 Jamie Lee Farlee Mar 29, 1977
 .8 John Arthur Farlee
 Mar 2, 1980
 ..8 Don Albert Farlee Mar 2, 1980
@@ -70,7 +70,7 @@ Dec 14, 1961
 Shawnda Lee McDaniel
 Sep 9,1998
 Betsy Jean Jewett Nov 11, 1963
-•+Don Joseph Mitchell
+.+Don Joseph Mitchell
 Mar 11, 1960
 .8 Merrill Joseph Mitchell
 1991
@@ -78,7 +78,7 @@ Mar 11, 1960
 Jul 2, 1993
 6
 Iyonne Berta Jewett Feb 19, 1933
-•+Ellsworth Alexander Garreau Aug 8, 1928 - Mar 31, 1991
+.+Ellsworth Alexander Garreau Aug 8, 1928 - Mar 31, 1991
 .7 Mary Beth Garreau
 .7
 Kathryn Lynn Garreau Dec 10, 1952 - May 29, 1997
@@ -87,7 +87,7 @@ Nov 7, 1959
 7 Ellsworth Wayne Garreau
 Feb 16,
 1956
-• †Antoinette Amy Pearman Jun 23,
+.+Antoinette Amy Pearman Jun 23,
 1956
 8
 Sonny Wayne Garreau Sep 18, 1975

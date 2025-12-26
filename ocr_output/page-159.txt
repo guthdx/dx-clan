@@ -1,6 +1,6 @@
-• 7 Rhonda Lynn Pearman Jan 15, 1975
+. 7 Rhonda Lynn Pearman Jan 15, 1975
 7 Lawrence Jay Pearman Apr 3, 1981
-•7 Chad Alan Pearman Dec 12, 1983
+.7 Chad Alan Pearman Dec 12, 1983
 7 Chas Elliot Pearman
 Dec 12, 1983 - Nov 26, 1999
 . б
@@ -8,9 +8,9 @@ Susan Hope Pearman
 Jan 9, 1955
 +Kenneth Wayne Traversie
 Feb 6, 1948
-•7 Blaine Whitley Traversie Apr 23, 1972
-•+Lowan K Marshall Jul 3, 1979
-•8 Kentone James Traversie
+.7 Blaine Whitley Traversie Apr 23, 1972
+.+Lowan K Marshall Jul 3, 1979
+.8 Kentone James Traversie
 Jul 23, 1997
 ....8 Ford Whitley Traversie
 Jan 5,
@@ -19,7 +19,7 @@ Jan 5,
 Oct 13, 1974
 7 James Warren 'Dusty' Traversie
 Mar 19, 1978
-•†Codi D'Lauris Dupris Aug 1, 1980
+.+Codi D'Lauris Dupris Aug 1, 1980
 ....8 Brexton Jaye Traversie
 Dec 26, 1998
 7 Bobbie
@@ -28,15 +28,15 @@ Dec 20, 1979
 .7 Samuel Wayne Traversie Feb
 28,
 1981
-• 6 Antoinette Amy Pearman Jun 23, 1956
+. 6 Antoinette Amy Pearman Jun 23, 1956
 +Ellsworth Wayne Garreau
 Feb 16, 1956
-• 7 Sonny Wayne Garreau Sep 18, 1975
+. 7 Sonny Wayne Garreau Sep 18, 1975
 .... 8 Khalid Reese Garreau Mar 18, 2000
 7 Nicole Lynelle Garreau
 Mar 2,
 1978
-•†Jeremy Scott Fischer May 26, 1976
+.+Jeremy Scott Fischer May 26, 1976
 ...8 Tristan Wayne Fischer
 Aug
 10, 1996
@@ -50,10 +50,10 @@ Jan 3, 1959
 1954
 ....7 Charles Ann Pearman Oct 30, 197*
 Carson Henrietta Pearman
-•tOrson Orville 'Odie' Mound, Jr Feb 25, 1958 - Aug 25, 1996
+.tOrson Orville 'Odie' Mound, Jr Feb 25, 1958 - Aug 25, 1996
 .. 7 Charles Ann Pearman Oct
 30, 1977
--+Leroy Randolph Red Horse, JI
++Leroy Randolph Red Horse, JI
 Oct 3, 1974
 .8 Kylee Jo Red Horse
 Dec 23, 1997
@@ -72,7 +72,7 @@ Sep 20,
 7 Justin Lee Bridwell Jun 27, 1984
 6
 Stephanie Inez Pearman Sep 27, 1962
-•+Gerald Lee Davidson, Jr May 12, 1966
+.+Gerald Lee Davidson, Jr May 12, 1966
 ..7 Cassidy Quade Davidson
 .......5 Ina Pearman
 Mar 9, 1921
@@ -90,7 +90,7 @@ Elsie Florence Pearman
 ...+Henry William Fielder,
 SI 1872 - Dec 6, 1940
 ........5 Julius Pearman Fielder 1908 - 1918
-•5 Ramona Fielder Jan 12, 1910 - Jan 12, 1998
+.5 Ramona Fielder Jan 12, 1910 - Jan 12, 1998
 Pourier
 * Ramona Fielder
 Roush
@@ -98,6 +98,6 @@ Roush
 'Red' Fielder
 1912
 ........5 William Henry 'Billy Hank' Fielder, SI Aug 25, 1917 - Jun 17, 1966
-• +Sylvia Bergren
+.+Sylvia Bergren
 ..6 Gloria Jean Fielder Sep 3, 1939
 157

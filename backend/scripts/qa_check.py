@@ -135,14 +135,39 @@ def check_impossible_dates(persons: list) -> list:
     return issues
 
 
+def find_best_parent_match(candidates: list, child_birth_year: int):
+    """
+    Given multiple people with the same name, find the one most likely to be the parent.
+    Prefers someone born 12-60 years before the child.
+    """
+    if not candidates:
+        return None
+    if len(candidates) == 1:
+        return candidates[0]
+
+    # Prefer someone with a plausible parent age
+    for c in candidates:
+        if c.get('birth_year'):
+            age_at_child_birth = child_birth_year - c['birth_year']
+            if 12 <= age_at_child_birth <= 60:
+                return c
+
+    # Fall back to oldest candidate with birth year
+    with_birth = [c for c in candidates if c.get('birth_year')]
+    if with_birth:
+        return min(with_birth, key=lambda x: x['birth_year'])
+
+    return candidates[0]
+
+
 def check_parent_child_ages(persons: list) -> list:
     """Find cases where parent is younger than or too close in age to child."""
     issues = []
 
-    # Build lookup by name
-    by_name = {}
+    # Build lookup by name - store ALL people with each name
+    by_name = defaultdict(list)
     for p in persons:
-        by_name[p['name'].lower()] = p
+        by_name[p['name'].lower()].append(p)
 
     for p in persons:
         child_birth = p.get('birth_year')
@@ -150,7 +175,8 @@ def check_parent_child_ages(persons: list) -> list:
             continue
 
         for parent_name in p.get('parents', []):
-            parent = by_name.get(parent_name.lower())
+            candidates = by_name.get(parent_name.lower(), [])
+            parent = find_best_parent_match(candidates, child_birth)
             if not parent:
                 continue
 
@@ -192,18 +218,21 @@ def check_generation_consistency(persons: list) -> list:
     """Find generation number inconsistencies."""
     issues = []
 
-    # Build lookup by name
-    by_name = {}
+    # Build lookup by name - store ALL people with each name
+    by_name = defaultdict(list)
     for p in persons:
-        by_name[p['name'].lower()] = p
+        by_name[p['name'].lower()].append(p)
 
     for p in persons:
         child_gen = p.get('generation')
+        child_birth = p.get('birth_year')
         if not child_gen:
             continue
 
         for parent_name in p.get('parents', []):
-            parent = by_name.get(parent_name.lower())
+            candidates = by_name.get(parent_name.lower(), [])
+            # Find the best parent match based on birth year
+            parent = find_best_parent_match(candidates, child_birth) if child_birth else (candidates[0] if candidates else None)
             if not parent:
                 continue
 

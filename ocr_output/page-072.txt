@@ -1,4 +1,4 @@
-•.7 Twyla Jim Austin Mar 12, 1976
+..7 Twyla Jim Austin Mar 12, 1976
 ..7 Curt Brian Austin
 Dec 3,
 1979
@@ -6,20 +6,20 @@ Dec 3,
 Isabel Irene Gray
 Feb 22, 1911 - Feb 20, 2000
 ....+Wallie Hunt Jan 27, 1905 - Sep 22, 1978
-• 5
+. 5
 Vernon Gray
 1912
-• 5
+. 5
 Mona Joella Gray
 Aug 14, 1913 - Aug 4, 1988
-•+Benjamin Wayne Dupris
+.+Benjamin Wayne Dupris
 Apr 4,
 1907
 - Oct 2, 1988
 .6 Bennie Dale Dupris
 Apr 25,
 1934
-•6 Marlene J Dupris Sep 29, 1935
+.6 Marlene J Dupris Sep 29, 1935
 ..+
 0' Sullivan
 6
@@ -27,10 +27,10 @@ Joseph Calvin Dupris
 Dec 8, 1944
 6 Carol Ann Dupris
 Mar 1, 1949
-• +
+.+
 Williams
 Carol Ann Dupris
-•+Laborn Cleveland Malone, Jr
+.+Laborn Cleveland Malone, Jr
 ..7 Laborn Cleveland Malone,
 III Oct 3, 1968
 ....7 Amy Ann Malone
@@ -38,24 +38,24 @@ Feb 26, 1972
 .. 6 Judy Jo Dupris
 Jun 7, 1951
 Slayer
-•5 June Marcella Gray
+.5 June Marcella Gray
 1914
-†Francis J Young,
-• 6 Larry E Young, Sr Feb
++Francis J Young,
+. 6 Larry E Young, Sr Feb
 8, 1935
-..†Marilyn Rules
+..+Marilyn Rules
 Larry E Young, SI
 +Mary White
-•7 Joe Young
-•7 Lori Young
+.7 Joe Young
+.7 Lori Young
 .7 Evan Young
-•7 Larry E Young, JI
+.7 Larry E Young, JI
 .. 7 Renee Young
 6
 Francis J Young, JI Sep 15, 1936
 ..+Glenna White
 .. 7 Johnny Young
-•.7 Eric Young
+..7 Eric Young
 ..... 7 Stephanie Young
 . 6
 Robin Young
@@ -70,7 +70,7 @@ May 4, 1948
 ... 7 Gordon Bugge
 ...7 Michael Bugge
 Toni Jo Peck
-.. +Neil Aaby
+..+Neil Aaby
 .6 Michael C Peck Aug
 23, 1949
 .6 Patrick E Peck
@@ -86,12 +86,12 @@ Aug 1879
 - 1956
 ..5 Estella Marie Benoist
 Dec 2, 1900
-.. +James Bordeaux
+..+James Bordeaux
 Jul 1, 1902 - Jul 1972
 .5 Amelda Benoist
 Jun 12, 1902 - Jul
 1991
-... †Bruno A Wenner
+...+Bruno A Wenner
 .....6 Stella Marie Wenner
 5 Cyril Ambrose 'Butch' Benoist Nov 9, 1907 - Dec 20, 1975
 70

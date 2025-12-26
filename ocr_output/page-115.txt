@@ -8,12 +8,12 @@ Darlyn Luree 'Muffa' Bender Aug 14, 1966
 +Casey Keller
 .. 9 Megan Keller
 9 Molly Anne Keller Jul 4, 1994
-• 9 Morgan Gerald Keller Feb 14, 1996
+. 9 Morgan Gerald Keller Feb 14, 1996
 ..9 Gerald Jacob Keller
 Jul 31, 2000
 7 Lorita Ann Lawrence Feb 22, 1937
 +Cedric Dayton Hall 1937
-•8 Janelle Marie Hall Nov 14, 1960
+.8 Janelle Marie Hall Nov 14, 1960
 ..9 Kyle Dean Ward Dec 16, 1978
 ..+ Kara Lee Dupris Dec 21, 1967
 ...10 Cody Lamonte Todd Ward
@@ -21,7 +21,7 @@ Jun 22, 1999
 Janelle Marie Hall
 +Morgan Todd Ward
 Mar 1, 1961
-•9 Kayla Deloris Ward
+.9 Kayla Deloris Ward
 Aug 26, 1982
 ....9 Morgan Lorita Ward
 Feb
@@ -35,15 +35,15 @@ Lisa Dawn Hall
 Jul 4, 1963
 8
 Halsey Henry Hall Jul 31, 1965
-• †Darci Jo Dahl Feb 28, 1969
+.+Darci Jo Dahl Feb 28, 1969
 ..9 Dace John Hall
 ApI 9, 1986
 7 Robert Thomas Lawrence Aug 16, 1941
 +Almeda Claire Claymore
 Aug 1, 1943
-• 8 Robert Len Lawrence Sep 1,
+. 8 Robert Len Lawrence Sep 1,
 1961
-. +Kimberlin Karole Dunn
+.+Kimberlin Karole Dunn
 Mar 29, 1969
 ... 9 Reggie Raye Lawrence
 Dec 10, 1989
@@ -51,7 +51,7 @@ Dec 10, 1989
 Deb Duane Lawrence
 Feb 15, 1963
 +Wendy Kay Shillingstad
-•9 Jordan Shay Lawrence Oct 23, 1986
+.9 Jordan Shay Lawrence Oct 23, 1986
 ..9 Callie Shayne Lawrence
 Sep
 11, 1994
@@ -65,19 +65,19 @@ Todd James Lawrence
 +Leigh Armine Cudmore Oct 12, 1972
 ...9 Lane Thomas Lawrence 1991
 Todd James Lawrence
-†Rhonda Lynn Swan
++Rhonda Lynn Swan
 Oct 7, 1963
 ....9 Kellon James Lawrence
 Mar 4, 1995
 8 Donovan Clay Lawrence Jun 27, 1965
-•Patricia Rose Meier Jun 30,
+.Patricia Rose Meier Jun 30,
 1972
 ..9 Kayle Clay Lawrence Aug 19, 1991
 ...9 Kacie Dru Lawrence Aug 10,
 1993
 8
 Kimberly Rae Lawrence Jun 14, 1966
-•+Carl Calvin Garreau Feb 15, 1971
+.+Carl Calvin Garreau Feb 15, 1971
 ..9 Tucker Claymore Garreau
 Apr 29, 1994
 8
@@ -85,5 +85,5 @@ Wayde Alan Lawrence Sep 14, 1972
 +Naomi Novak
 ..9 John Todd Lawrence Feb 15, 1989
 Wayde Alan Lawrence
-•†Melanie Rose Bruguier Jan 25, 1974
+.+Melanie Rose Bruguier Jan 25, 1974
 113

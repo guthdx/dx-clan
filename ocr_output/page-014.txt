@@ -22,7 +22,7 @@ Mar 9, 1967
 Karen Mae Ducheneaux
 +Ted Otho Walker
 ..7 Rhoda Rebecca Walker Sep 17, 1969
-•.7 Dendra Earlene Walker
+..7 Dendra Earlene Walker
 Jan 10, 1972
 Karen Mae Ducheneaux
 ..+Courtney Anton Bliner,
@@ -30,16 +30,16 @@ Sr
 ..7 Josette Dawn Walker
 May
 11, 1975
-••7 Courtney Anton Bliner, Jr Aug 12, 1978
+..7 Courtney Anton Bliner, Jr Aug 12, 1978
 . 6 Cynthia Rose 'Cindy" Ducheneaux
 Jun 22, 1946
 +Richard Charles Fiddler,
 Sep 8, 1938
 7 Patty Ann Ducheneaux
-•7 Jolene Rose Fiddler Jun 6, 1964
-•+Lonnie Wayne Lindteigen
+.7 Jolene Rose Fiddler Jun 6, 1964
+.+Lonnie Wayne Lindteigen
 .. 8 Justin Allen Lindteigen
-• Jul 31, 1983
+. Jul 31, 1983
 ... 8 Ryan Lonnie Lindteigen
 May 1,
 1986
@@ -47,7 +47,7 @@ Jolene Rose Fiddler
 ..+Mitchell Samuelson
 7 Donna Rae Fiddler
 Mar 31, 1966
-• +Richard Thomas
+.+Richard Thomas
 .. 8 Amy Thomas
 ... 8 Richard Thomas
 7 Richard Charles 'O Big' Fiddler, Jr Mar 2, 1968
@@ -59,27 +59,27 @@ McLaughlin
 ...8 Adrian Cary Fiddler
 ..7 Kerry Roxanne Fiddler
 Sep 19, 1974
-• 6 Owen Ronald Ducheneaux Apr 15, 1949
-•+Sharon Kay Bohl
-•7 Shannon Elizabeth Ducheneaux Nov 5, 1975
+. 6 Owen Ronald Ducheneaux Apr 15, 1949
+.+Sharon Kay Bohl
+.7 Shannon Elizabeth Ducheneaux Nov 5, 1975
 ...7 Lisa Ann Ducheneaux
 Mar 23, 1977 - Mar 23, 1977
 6 Steven Michael Ducheneaux, Sr Jul 16, 1952
-•Shelly Silk
+.Shelly Silk
 .7 Adrienne Ducheneaux
 Sep 25, 1971
 ..8 Chaské Ducheneaux
 ...8 Colton Wesley Ducheneaux
 Steven Michael Ducheneaux, SI
 +Norma Jean Morris
-•7 Steven Michael Ducheneaux, Jr Jul 11, 1977
+.7 Steven Michael Ducheneaux, Jr Jul 11, 1977
 7 Alexander Dale Ducheneaux
 Feb 26, 1980
-•.7 Joseph Parker Ducheneaux, II
+..7 Joseph Parker Ducheneaux, II
 May 20,
 1981
-•5 Albert John Ducheneaux Nov 2, 1903 - Apr 5, 1979
-•†Mary Louise Halsey (White)
+.5 Albert John Ducheneaux Nov 2, 1903 - Apr 5, 1979
+.+Mary Louise Halsey (White)
 Dec 25, 1908 - May 27,
 1959
 ... 6 Napoleon Charles Ducheneaux
@@ -87,5 +87,5 @@ Feb 23, 1929 - Apr
 8, 1971
 ..+Amelia Aurelia Walking Elk
 1934 - Jan 18, 1952
-•* Napoleon Charles Ducheneaux
+.* Napoleon Charles Ducheneaux
 12

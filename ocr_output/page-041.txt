@@ -7,7 +7,7 @@ Jason Allen Lawrence
 .. 8 Jason Clinton Lawrence Jun 29, 1998
 .... 8 (baby) Lawrence 2001
 7 Kristie Lee Lawrence May 10, 1977
-•†Marshall Lee "Hoss" Pearman
+.+Marshall Lee "Hoss" Pearman
 Aug 16, 1972
 ,8 Haylee Shayne Pearman Apr 18, 1996 - Apr 27, 1996
 ...8 Brandyn Hayes Lawrence
@@ -18,13 +18,13 @@ Apr 30, 1997
 Marilyn Gloria Kay 'Butchie'
 Ducheneaux
 Dec 25, 1953
-•†Martin "Butch' Webb
+.+Martin "Butch' Webb
 Oct 8, 1956
-•7 Deb Allen Ducheneaux Jan 14, 1975
-•†Heidi Carmichael
+.7 Deb Allen Ducheneaux Jan 14, 1975
+.+Heidi Carmichael
 ..*..8 Morgan Jayde Ducheneaux May 2, 2000
 Marilyn Gloria Kay Ducheneaux
-•Walter Frank Grage, Jr Apr 5, 1953
+.Walter Frank Grage, Jr Apr 5, 1953
 .7 Walter Wayde Grage Jul 18, 1977
 +Jacalyn Hahne
 ... 8 Blaine William Grage Jul 31, 2000
@@ -38,22 +38,22 @@ Apr 7, 1907 - May 29, 1990
 5
 Josephine Catherine 'Henrietta' Ducheneaux
 Oct 31, 1916-Jan 5, 1945
-•+Stanley W Nelson
+.+Stanley W Nelson
 Oct 2, 1912 - Mar 2, 1982
-•6 Judith Ann Nelson
+.6 Judith Ann Nelson
 Aug 14, 1939
-•†Lee Roy Zundel Apr 12,
+.+Lee Roy Zundel Apr 12,
 1935
-•7 Laura Lee Zundel May 4, 1959
+.7 Laura Lee Zundel May 4, 1959
 +Wade Douglas Schmier
 Sep 1, 1960
 7 Mark Lawrence Zundel Dec 12,
 1962
-•+Shirley Iris Woyth Mar 10, 1961
+.+Shirley Iris Woyth Mar 10, 1961
 .. 8 Cameron Michael Zundel
 Dec 12, 1992
 ...8 Jace Lee Zundel Oct 5, 1995
-•7 Wayne Stephan Zundel Mar 25, 1965
+.7 Wayne Stephan Zundel Mar 25, 1965
 .......+Linda Marie Hammar Oct 8, 1958
 Judith Ann Nelson
 i retenant
@@ -71,12 +71,12 @@ May
 May 1900 - 1900
 Laura Mabel LeBeau
 Aug 4, 1901 - Mar 27, 1987
-•+Edward LaMont 1890 - Jun 17,1940
+.+Edward LaMont 1890 - Jun 17,1940
 ..6 Everett Moses LaMont Oct 9, 1930
 ..+Rosemary Brown Wolf Nov 11, 1940
 .... 7 Theresa Mary Brown Wolf
 Sep 18, 1958
-•* Everett Moses LaMont
-•+Barbara Jean Rouse
+.* Everett Moses LaMont
+.+Barbara Jean Rouse
 ................7 Laura Jean Fischer Apr 19, 1961
 39

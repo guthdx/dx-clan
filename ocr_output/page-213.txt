@@ -8,16 +8,16 @@ DeSmet Apr 20,
 ApI 23, 1900 - ApI 10, 1935
 ......+Philip Felecia LaRoche,
 Feb 1893 - Apr 11, 1953
-•4 Philip DeSmet LaRoche Mar 27, 1921 - Apr 21, 1970
-,+Jean Katherine Bell
-•5 Helen Bell Mar 31, 1942
+.4 Philip DeSmet LaRoche Mar 27, 1921 - Apr 21, 1970
++Jean Katherine Bell
+.5 Helen Bell Mar 31, 1942
 ..+
 Rhoads
 * Helen Bell
 ..+
 Pechous
 * Philip DeSmet LaRoche
-• +Lynne Anglin
+.+Lynne Anglin
 Philip DeSmet LaRoche
 ..+Shirley Fox
 4 Mildred May LaRoche Mar 13, 1923 - Feb 19, 1955
@@ -27,7 +27,7 @@ Philip DeSmet LaRoche
 Ruckdschel
 .5
 Michael Robert Robertson Jan 20, 1947
-•+Eleanor May Ducheneaux Oct 19, 1945
+.+Eleanor May Ducheneaux Oct 19, 1945
 ... 6 Lana
 Rae Robertson
 Jul 31, 1966
@@ -49,16 +49,16 @@ Descendant Tree (2e) of
 * John Split His Work
 +Mary Fire Thunder
 2 John Split His Work 1847 - Jul 9, 1914
-.. †Noise Woman
+..+Noise Woman
 ....3 Good Face Woman 1879
 ....3 Medicine Road Woman
 1883
 * John Split His Work
-.. +Jennie Wind
+..+Jennie Wind
 ....3 Nellie Split
 ....3 Lucy Split
 John Split His Work
-.. +Mary Fire Thunder 1854 - Dec
+..+Mary Fire Thunder 1854 - Dec
 14,
 1892
 Family Tree (3)
@@ -66,7 +66,7 @@ of
 Bazille Claymore
 Ice Woman
 3 John or James Claymore
-1853 — 1858
+1853 - 1858
 3 Paul Claymore
 1864
 - Apr 10,

@@ -1,18 +1,18 @@
 +Frank Hunter
 7 Cynthia Iyonne Mendoza Oct 29, 1950
 ..8 Robert Ramon Mendoza, II Nov 26, 1969
-•+Delnita Josette Traversie Jan 5, 1978
+.+Delnita Josette Traversie Jan 5, 1978
 ....9 Tatum Ti Mendoza
 -8 Christopher Keith Mendoza Jan 22, 1973
-•tHeidi Jo Ganje
+.tHeidi Jo Ganje
 ...9 Gabriel Robert Mendoza Jul 5, 1999
 Cynthia Iyonne Mendoza
 +William Burton Marcellais 1956
 ..8 Maris Marie Marcellais Jul 25, 1976
 ... 8 William Waylon Mendoza
 7 Jesus Jose 'Jessie' Mendoza, Sr Jul 22, 1952
-• †Donna Twiss
-•8 Jesus Jose "Jessie' Mendoza, Jr Oct 2, 1981
+.+Donna Twiss
+.8 Jesus Jose "Jessie' Mendoza, Jr Oct 2, 1981
 .. 8
 Jordan Chase Mendoza
 . 8
@@ -27,20 +27,20 @@ Jun 30, 1973
 .. 8 Devonna Annette Skates
 Nov 9, 1975
 Geraldine Catherine Mendoza
--+Randolph Gutwein
++Randolph Gutwein
 ...8 Rachel Olivia Gutwein
 Jul 20, 1982
 7 Lily Marlae Mendoza
 Jan 27, 1958
-•+Clinton Stuart Ducheneaux, SI
+.+Clinton Stuart Ducheneaux, SI
 Nov 13, 1959
 ..8 Madelynn Marlae Ducheneaux Jul 3, 1979
 ...8 Cameron Ralph Ducheneaux Jun 11, 1980
 Lily Marlae Mendoza
-•+James O' Daniel
+.+James O' Daniel
 ...8 Shamus Pearl O'Daniel Aug 15, 1991
 Lily Marlae Mendoza
-•†Douglas Phillips
+.+Douglas Phillips
 ...8 Michael Phillips
 7 George Jewett Mendoza Mar 23, 1959
 ...8 Jordan Richard Mendoza
@@ -73,7 +73,7 @@ Mar 26, 1928 - Dec 26, 1994
 .7 Luanne Crystal Lafferty
 Jan 31, 1947
 ~ Apr 7, 1985 (a)
-•+Kirby Lane Briggs
+.+Kirby Lane Briggs
 1944
 ., 8 Warren Dean Briggs
 May 13,
@@ -83,10 +83,10 @@ Feb 28, 1968
 8
 Denise Eileen Briggs
 Jan 7, 1970
-.... +Robert Houle
+....+Robert Houle
 7 Marcel Louis Jewett, SI
 Sep 15, 1948
-•†Connie Lee Parker
+.+Connie Lee Parker
 1951
 ..8 George Tillitson Jewett, II Sep 22, 1970
 123

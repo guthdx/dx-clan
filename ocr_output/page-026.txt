@@ -1,10 +1,10 @@
-•8 LaRae Fleurette Laundreaux Oct 22, 1982
+.8 LaRae Fleurette Laundreaux Oct 22, 1982
 ..8 LeAnne Alice Laundreaux
 Jun 21, 1986
-•..8 DeAnne Dorothy Laundreaux Jun 27, 1986
+...8 DeAnne Dorothy Laundreaux Jun 27, 1986
 7 George Thomas Laundreaux, II
 Aug 25, 1953
-•†Tamara Gail No Heart
+.+Tamara Gail No Heart
 Sep 27, 1960
 .. 8 Brandi Lee Laundreaux
 Nov 23, 1981
@@ -21,22 +21,22 @@ Sep 19, 1980
 ..8 Richard Dean Laundreaux, Jr Jul 19, 1983
 7 Cyril Laundreaux, SI
 Feb 14, 1960
-•†Jimmie Carol Tiger Mar 18, 1962
+.+Jimmie Carol Tiger Mar 18, 1962
 ..8 Chasidy Lorraine Laundreaux
 Sep 17, 1979
 ..8 Cyril Laundreaux, Jr Apr 18, 1982
 .... 8 Chad Thomas Laundreaux
 Apr 4, 1984
 7 Pierre Wayne Laundreaux, Si Apr 19, 1962
-•+Hattie Brown Nov 22,
+.+Hattie Brown Nov 22,
 1962
 ....8 Pierre Wayne Laundreaux, Jr Jun 25, 1980
 Pierre Wayne Laundreaux, SI
-•†Celeste Tiger Dec 22, 1964
+.+Celeste Tiger Dec 22, 1964
 ....8 Raysa Lynn Elaine Laundreaux
 Sep 15, 1986
 7 Monique Louise Laundreaux Jul 7, 1966
-•+Charles Mark Maxon
+.+Charles Mark Maxon
 .. 8 Tashauna Lynn Maxon Jul 2, 1985
 .... 8 Colburn James Maxon
 Dec
@@ -46,14 +46,14 @@ May 19, 1922
 +Marian Louise Briggs
 May 5, 1913 - Dec 23, 1985
 ..7 Billie Ann Laundreaux Dec 12, 1949
-. . ..+Sam Jauchius
+....+Sam Jauchius
 .......8 Caitlin Beth Jauchius Oct 22, 1984
 6 Vivian Viola Laundreaux
 Jan 22, 1924
 +Silas Ward 'Patrick' Condon
 Feb 4, 1920 - Dec 2, 1986
-•7 Robert Louis Wald Mar 19, 1941
-•+Bernadine Kay Ducheneaux
+.7 Robert Louis Wald Mar 19, 1941
+.+Bernadine Kay Ducheneaux
 Jan 23, 1942
 ..8 Jacqueline Marie Wald
 Sep 26, 1960
@@ -63,9 +63,9 @@ Jun 25,
 ...8 Clayton Allen Wald
 Mar 31, 1962
 Vivian Viola Laundreaux
-.†Adam Robert Wald
+.+Adam Robert Wald
 .7 Gerald Dean Wald, SI Feb 23, 1942
-•†Karen Mae Ducheneaux
+.+Karen Mae Ducheneaux
 Ap 26,
 1944
 ... 8 Connie Jean Ducheneaux
@@ -87,9 +87,9 @@ Sep 2,
 1970
 7 Elmer Gene Wald Oct 18,
 1943
-• 8 Mark Wald Mar 1,
+. 8 Mark Wald Mar 1,
 1966
-•8 Steven Wald Aug 27, 1967
+.8 Steven Wald Aug 27, 1967
 ....8 Diane Marie Wald
 Jan 20,
 1970

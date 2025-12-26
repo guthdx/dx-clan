@@ -1,5 +1,5 @@
 Rose Ann Claymore
-•+Cllifford Robert 'Bob' Marshall, Jr Aug 26, 1939
+.+Cllifford Robert 'Bob' Marshall, Jr Aug 26, 1939
 ....6 Matthew Robert Hill May 16,
 1972 - Dec 4, 1988
 5 Coral Arlene Claymore
@@ -8,28 +8,28 @@ Nov 3, 1938 - Sep 11, 1996
 .. 6 Beth Lavay Ducheneaux
 Jun 28,
 1961
-•†Theodore Loren Traversie Jul 17, 1956
-•7 Brandon Lee Ducheneaux Dec 30, 1978
+.+Theodore Loren Traversie Jul 17, 1956
+.7 Brandon Lee Ducheneaux Dec 30, 1978
 ..+Jessica Estelle Red Bear Feb 3, 1981
 ...8 Jahlyn Bleu Ducheneaux Apr 26, 1999
 Beth Lavay Ducheneaux
-• +Lonnie David Lee, SI
+.+Lonnie David Lee, SI
 Mar 7, 1963
 ...7 Lonnie David Lee, Jr Jul 26, 1983
 Beth Lavay Ducheneaux
 +Irving Luke Curley
 Feb 26, 1961
-•7 Lucas Shayde Curley
+.7 Lucas Shayde Curley
 Dec 31, 1990
 ...7 Tahlon Hunter Curley Jul 27, 1992
 Beth Lavay Ducheneaux
-• †Clinton Reno Oct 9, 1963
+.+Clinton Reno Oct 9, 1963
 .. 7 Jesa Ducheneaux
 Mar 1995
 ...7 Jasyn Ducheneaux
 Mar 1995
 6 Jess Brian Ducheneaux Dec 23, 1962
-• +Janie Marie Petersen
+.+Janie Marie Petersen
 Oct 18,
 1960
 ...7 Casey Ray Ducheneaux Dec
@@ -40,7 +40,7 @@ Jess Brian Ducheneaux
 ..7 Kaitlin Rose Turning Heart
 Jun 10, 1989
 Jess Brian Ducheneaux
-•+Jeri Jewel Garreau May 20, 1975
+.+Jeri Jewel Garreau May 20, 1975
 .. 7 Erynn Bree Garreau
 May 27, 1994
 ...7 Western Roam Ducheneaux
@@ -48,10 +48,10 @@ Mar 19,
 1997
 6 Richard Jason Ducheneaux
 Jan 21, 1966
-•†Diane Primeaux
+.+Diane Primeaux
 ....7 Kurtis James Ducheneaux Jul 2, 1985
 Richard Jason Ducheneaux
-• +Krissy Smith
+.+Krissy Smith
 ....7 Kelbi Jade Ducheneaux Jun 6, 1997
 ...6 Jerry Ducheneaux
 Coral Arlene Claymore
@@ -60,7 +60,7 @@ Coral Arlene Claymore
 Mar 17, 1853 - Jun 6, 1924
 ..+James Julius Pearman 1853 - Oct 30, 1914
 ....4 Robert Lee Pearman Oct 19, 1880
-— Sep 30, 1950
+- Sep 30, 1950
 ......+Emma Elizabeth 'Amy' Dolphus
 Dec 24, 1879 - Jun 22, 1938
 ........5 Lawrence Robert Pearman

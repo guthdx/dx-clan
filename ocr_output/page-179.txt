@@ -5,27 +5,27 @@ Apr 16, 1973
 Jayme Diane O'Neal
 Dec 11,
 1975
-†Robert Barton Ward Mar 11, 1976
++Robert Barton Ward Mar 11, 1976
 .......8 Shanee Mykel Ward
 Dec 28, 1995
 6 Terry Charles O'Neal
 Apr 20, 1959
-. †Philomine Bertha Moran
+.+Philomine Bertha Moran
 May 19, 1960
 ...7 Melissa Melanie O'Neal
 Jul 24, 1981
 6 Wayne Marcel O'Neal Apr 6,1960
 Clinton Charles O'Neal
-•+Betty Jean Longbrake
+.+Betty Jean Longbrake
 Jan 27, 1930 - Dec 31, 1977
 5 Odette Yvonne O'Neal
 Sep 13,
 1930
-•†William Theodore Voss
+.+William Theodore Voss
 Nov 11, 1928
 .. 6 Melanie Lou Voss
 Oct 27, 1954
-•†Larry Wayne Betlach
+.+Larry Wayne Betlach
 Aug 3, 1955
 ..7 Elizabeth Jo Betlach
 Sep 15, 1986
@@ -38,15 +38,15 @@ Jul 27, 1957 - Jul 27, 1957
 Apr 6, 1959
 +Winnie Tang
 Nov 30, 1959
-•7 Jane Tang Voss
+.7 Jane Tang Voss
 Dec 18, 1994
 4
 Elizabeth Claymore Jun 20, 1906 - Oct 11, 1971
-•+Clifford O'Neal
+.+Clifford O'Neal
 1906 - Nov 25, 1960
 .5 Lawrence Clifford O'Neal
 Mar 13, 1922 - Apr 22, 1989
-•tEldra Burgis Rousseau
+.tEldra Burgis Rousseau
 Feb 26,
 1902 - 1974
 ....6 Eileen Adair O'Neal
@@ -56,7 +56,7 @@ Oct 1941
 Oct 8, 1928
 6 Patricia Ann O'Neal
 Aug 20, 1949
-•+Brent Allen Folkerts
+.+Brent Allen Folkerts
 May 3, 1943
 .. 7 Nicole Suzanne Folkerts
 May 5, 1973
@@ -72,9 +72,9 @@ Jan 3,
 .6 Michael Terrance O'Neal
 May 3, 1954
 6 Jana Beth O'Neal Oct 30, 1963
-• +Henry Van Klaveren
-•7 Justin Henry Van Klaveren Feb 7, 1989
-• 7 Rebecca Joy Van Klaveren Jul 16, 1993
+.+Henry Van Klaveren
+.7 Justin Henry Van Klaveren Feb 7, 1989
+. 7 Rebecca Joy Van Klaveren Jul 16, 1993
 .......7 Jacob Ross Van Klaveren Apr 23, 1996
 .......5 Eugene Francis O'Neal
 Nov 7, 1928 - Jan 10, 1985

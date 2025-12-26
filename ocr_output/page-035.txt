@@ -27,7 +27,7 @@ May 23, 1955
 Sep 12, 1976
 ..8 Jo Lynn Enright Aug 30, 1978
 Nellie Mae Ducheneaux
-•+Victor Jerald Hollenbeck Mar 5, 1932
+.+Victor Jerald Hollenbeck Mar 5, 1932
 ..7 Kim Duane Hollenbeck Jul 1, 1957
 .+Beth Marie Frazier
 Jun 20, 1960
@@ -36,11 +36,11 @@ Sep 22, 1979
 .+Bobbi Grage
 ....9 Nathan James Hollenbeck
 Jun 24, 1998
-•.8 Paige Marie Hollenbeck Mar 20, 1985
+..8 Paige Marie Hollenbeck Mar 20, 1985
 ..8 Jared Alan Hollenbeck
 Jun 25, 1986
 7 Cameron Jay Hollenbeck Nov 10, 1958
-•+Carolyn Ruth Reiger Oct 19,
+.+Carolyn Ruth Reiger Oct 19,
 1957
 .8 Amber Lea Hollenbeck
 Apr 21, 1986
@@ -61,11 +61,11 @@ Oct 5, 1987
 Sep 28, 1969
 6 Keva Faye Ducheneaux
 Jan 23, 1938
-• +Andrew Joseph Aberle, Jr
+.+Andrew Joseph Aberle, Jr
 May 28, 1929
 7 Steven Lyle Aberle
 Jul 26, 1960
-,+Donna Jean Marshall May 1, 1964
++Donna Jean Marshall May 1, 1964
 .8 Bryan Scott Aberle Jun
 3, 1988
 8 Eric James Aberle

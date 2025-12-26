@@ -1,13 +1,13 @@
-•T David Ritchie Emery
+.T David Ritchie Emery
 1962
 6 Raymond Laverne Emery
 Sep 2, 1935 - Oct 14, 1972
-•-†Janise Lee Tibbets
+.+Janise Lee Tibbets
 11,
 .7 Michael Tim Emery
 May 31,
 7 Kathleen Raye Emery ApI 4, 1961
-• B Lacy Kaye Myers
+. B Lacy Kaye Myers
 Mar 24, 1980
 ...8 Jo Allen Bree Myers
 May 14, 1981
@@ -19,32 +19,32 @@ May 2, 1970
 Mar 31, 1909 - Aug 1, 1977
 .+Idita Maurine Donovant
 Sep 12, 1913 - Aug 6, 1990
-•6 Paul Thomas Donovant "Jackie' Claymore
+.6 Paul Thomas Donovant "Jackie' Claymore
 Sep B, 1935
-., +Sue Salter
-•7 Susan Claymore Oct 2, 1959
+.+Sue Salter
+.7 Susan Claymore Oct 2, 1959
 +Jess Edward Scott
 Aug 14, 1956
 .. 8 Rachel Lynn Scott
 20, 1987
-•B K Nichol Scott Aug 11, 1992
+.B K Nichol Scott Aug 11, 1992
 i Patrick Claymore May 26,
 1965
 ..7 Matthew Claymore May 21, 1969
 6 Gayle Patricia Claymore
 Jul 3, 1940
-•+Edward Henry Castillo May 8, 1939
+.+Edward Henry Castillo May 8, 1939
 *7 Catherine Jean Castillo
 Jul 13, 1958
-•+Kerry W Harvey
+.+Kerry W Harvey
 Feb 2, 1965
 .. 8 Alexander W Harvey
 Jun 19, 1985
 ...B Alsace P Harvey Nov 2, 1997
 7 Cheryl Ann Castillo Oct 13, 1959
-. +Jerry Gant
+.+Jerry Gant
 ..8 Justin Gant Feb 2, 1978
-••B Brandon Gant Dec 16, 1984
+..B Brandon Gant Dec 16, 1984
 7 David Henry Castillo
 May 30, 1961
 ..7 Carolyn Ruth Castillo Nov 12, 1962
@@ -64,7 +64,7 @@ Jun 30, 1979
 ..8 Jordan Riley Trujillo Jul 23, 1997
 ..B Jerra Sloan Trujillo Oct 26, 1999
 Thomas William Claymore
-• †Henrietta Rose Houston
+.+Henrietta Rose Houston
 Jan 5, 1916 - Apr 12, 1939
 .6 Alva Hope Houston
 Mar 25, 1936 - May 14, 1984
@@ -72,19 +72,19 @@ Mar 25, 1936 - May 14, 1984
 Jan 4, 1934 - Oct 18, 1970
 ..7 Michelle Rae Bowker
 Jul 22, 1958
-•+Dale Poor Thunder
+.+Dale Poor Thunder
 ...8 Christopher Wayne Poor Thunder Nov 27, 1974
 * Michelle Rae Bowker
-• +Edward Janis, JI
+.+Edward Janis, JI
 .. B Angel Mae
 Bowker Aug 10, 1977
 ....B Shawna Marie Bowker
 5, 1980
-•7 Hope Denise Bowker Jun 28, 1959
-•+Mark Anthony Claymore Apr 26, 1958
+.7 Hope Denise Bowker Jun 28, 1959
+.+Mark Anthony Claymore Apr 26, 1958
 ...B Jorai Elaina Claymore
 Jul
 25, 1981
 7 Diane Marie Bowker Aug 20, 1960
-•+Charles Miller
+.+Charles Miller
 229

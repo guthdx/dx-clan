@@ -1,36 +1,36 @@
 :. 8
 Kristopher 'Critter' Lamb Sep 18, 1991
 Sharon Margaret Ducheneaux
-;: +Duane Robert Keller
-•6 Arlyce Nadine Ducheneaux Jan 24, 1941
++Duane Robert Keller
+.6 Arlyce Nadine Ducheneaux Jan 24, 1941
 +Willis Wayne Wientjes
 Apr 15, 1938
 .7 Tammy Marie Wientjes
-Apr 19; 1961
-•+Monte Hepper Jun 10, 1959
-•8 Joseph Tanner Hepper Jan 13, 1990
+Apr 19, 1961
+.+Monte Hepper Jun 10, 1959
+.8 Joseph Tanner Hepper Jan 13, 1990
 8 Skyler Lee Hepper
 Sep 6, 1992
 .i.8 Nicki Nadine Hepper
-Oct 11; 1993
-•:7 Marlyce Mae Wientjes
+Oct 11, 1993
+.:7 Marlyce Mae Wientjes
 Apr 22, 1962
-:+Thomas John Fritz Sep 11; 1960
++Thomas John Fritz Sep 11, 1960
 .8 Jessica Marie Fritz
 Apr 25, 1983
-• 8 Melissa Rae Fritz
+. 8 Melissa Rae Fritz
 May 16, 1984
 ::8 Jonathan Thomas Fritz
 Mar 4, 1988
 Scott Raymond Wientjes
-Jul 27; 1963
-•:+Diane Louise Dekker Feb 2, 1965
+Jul 27, 1963
+.+Diane Louise Dekker Feb 2, 1965
 :8 Todd Raymond Wientjes
-Aug 4; 1987
-•8 Kenneth Scott Wientjes Oct
+Aug 4, 1987
+.8 Kenneth Scott Wientjes Oct
 29, 1985
 . 8
-Kevin Thomas Wientjes Oct 9; 1991
+Kevin Thomas Wientjes Oct 9, 1991
 ::8 Ryan David Wientjes
 Nov 12, 1994
 ..8 Lisa Diane Wientjes
@@ -38,63 +38,63 @@ Nov 12, 1994
 Qct 19; 1996
 Jack Frederick Wientjes
 Sep 5, 1965
-:+Jill McDonded
++Jill McDonded
 ..:.8 Taylor Wayne Wientjes May 28, 1994
 7
 Mary Emma Wientjes
-Nov 29; 1971
+Nov 29, 1971
 :i+Darin Kessler
-Apr 29; 1968
+Apr 29, 1968
 .:.7 Jamie Lynn Wientjes
 Jul 18, 1976
 Thomas Paul Ducheneaux, SI
 Mar 18, 1942
-• +Hillda Jean Thompson
-Jul 5; 1949
-•:7 Cindy Marie Ducheneaux
+.+Hillda Jean Thompson
+Jul 5, 1949
+.:7 Cindy Marie Ducheneaux
 Jun 26, 1967 (a)
 .:::8 Logan Jade Hump
-Apr 8; 1988
+Apr 8, 1988
 Cindy Marie Ducheneaux
-• tJoe Dunn
-•7 Thomas Paul Ducheneaux, Jr Aug 3, 1969 - Jun 14, 1987
+. tJoe Dunn
+.7 Thomas Paul Ducheneaux, Jr Aug 3, 1969 - Jun 14, 1987
 i::7 Joanne Elaine Ducheneaux
-Dec 13; 1970
+Dec 13, 1970
 6 Mary Jane Ducheneaux
 Mar 18, 1942
-•+Richard Dean Anderson
+.+Richard Dean Anderson
 Nov 15, 1938
-:7 Teri Deen Anderson Dec 1; 1963
-: +James Arthur Van Dusen
-•:8 Kylie James Van Dusen Oct 20, 1986
+:7 Teri Deen Anderson Dec 1, 1963
++James Arthur Van Dusen
+.:8 Kylie James Van Dusen Oct 20, 1986
 .8 Bruz Karlyle Van Dusen Mar 18, 1990
 catyse Var
 Mar 11, 1961
 4 255.
 7
 Kelly Kim Anderson
-May 11; 1965
+May 11, 1965
 8 Jace Tyler Anderson
-Jul 8; 1989
+Jul 8, 1989
 Kelly Kim Anderson
-;+Paul Baker Feb 3; 1966
-•.8 Jamie Danielle Baker
++Paul Baker Feb 3, 1966
+..8 Jamie Danielle Baker
 Apr 5, 1993
 ...8 Ryan Paul Baker
-Jun 8; 1995
+Jun 8, 1995
 7
 Lyle Dean Anderson Feb 27, 1969
 +Kimberly Atchison Dec 4, 1969
-• 8 Savanna Ty Anderson
-Apr 7; 1995
+. 8 Savanna Ty Anderson
+Apr 7, 1995
 8 Sloan Baili Anderson
 Sep 1, 1998
 6 Ernest Lyle Ducheneaux Jul 29, 1944
-•+Betsy Eileen Hunt Feb 14, 1947
+.+Betsy Eileen Hunt Feb 14, 1947
 : : 7
 Carlyle Brady Ducheneaux
 Jul 7, 1964
-•+Rain'E Jo Cavanaugh Jun 27, 1961
+.+Rain'E Jo Cavanaugh Jun 27, 1961
 8 Stetson Cooper Cavanaugh
 Feb 12, 1986 - Dec 1, 1990
 37

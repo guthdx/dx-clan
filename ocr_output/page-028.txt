@@ -1,5 +1,5 @@
 .6 Harry Mercier Laundreaux Jan 3, 1930
-•.+Merledean Mary Smith
+..+Merledean Mary Smith
 May 21, 1933
 .. 7 Michael Gene Laundreaux
 Oct 9, 1952
@@ -7,27 +7,27 @@ Oct 9, 1952
 Apr 20,
 1932 - Mar 23, 1934
 6 Rose Marie Laundreaux Jan 12, 1938
-•James Melroy Rieger Oct 31, 1931
-•7 James Allen Rieger Sep 25, 1960
+.James Melroy Rieger Oct 31, 1931
+.7 James Allen Rieger Sep 25, 1960
 +Connie Lynn Peterson
 Apr 7, 1965
 ..8 Joshua James Rieger
 Feb 1, 1986
 7 Gayle Marie Rieger
 Feb 24, 1964
-••.8 Nicole Marie Roach
+...8 Nicole Marie Roach
 Nov 7, 1984
 ......8 Randy James Roach Sep 26, 1985
 ...7 Bonita Lee Rieger
 Jan 9,
 1967
-•5 Elizabeth Rosaline Arpan Dec 21, 1898 - Feb 19, 1919
-•tOscar Oversett
+.5 Elizabeth Rosaline Arpan Dec 21, 1898 - Feb 19, 1919
+.tOscar Oversett
 .. 6 Elaine Carrie Oversett
 Feb 23, 1918
 ..+Carl Tucker Mar 16, 1906 - Oct 1962
 ..7 Leroy Donald Tucker Jan 3, 1936
-•+Delores Blofohey
+.+Delores Blofohey
 .. 8 Alvin Tucker
 May 19,
 1956
@@ -40,7 +40,7 @@ Michelle Tucker Oct 2,
 .. 8
 Renee Tucker
 Nov 4, 1960
-• . 8
+. . 8
 Tana Rue Tucker
 Jun 5, 1963
 .. 8
@@ -73,25 +73,25 @@ Jun 23,
 1901 - Jul 21, 1967
 ..6 Ernest John Sutton
 Feb 19, 1929 - Aug 9, 1973
-•6 Robert Eugene Sutton Nov 7, 1932 - Sep 13, 1972
+.6 Robert Eugene Sutton Nov 7, 1932 - Sep 13, 1972
 ...+Donna M Cameron May 13, 1926
-• 6 Alta Delema Sutton
+. 6 Alta Delema Sutton
 Apr 14, 1935
-•+Charles Elliot Woodruff
-•7 Jodi Lucinda Woodruff
-• 6 Harold Ray Sutton Jan 23,
+.+Charles Elliot Woodruff
+.7 Jodi Lucinda Woodruff
+. 6 Harold Ray Sutton Jan 23,
 Feb 15,
 1938
 1973
-•.†Patricia Austad
+..+Patricia Austad
 6 Carol Jean Sutton Sep 1, 1940
 ...7 Carl Lane Sutton
 Aug
 19,
 1959
 Carol Jean Sutton
-•+Calvin Ward Vincent
-•7 Melvin Scott Vincent Dec 10, 1960
+.+Calvin Ward Vincent
+.7 Melvin Scott Vincent Dec 10, 1960
 7 Calvin Wade Vincent Dec 10,
 1960
 7 Delenita Marie Vincent Dec 6, 1961

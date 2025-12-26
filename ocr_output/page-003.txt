@@ -4,7 +4,7 @@ Children, Grandchildren and Great-grandchildren arrie
 2 Louisson LeCompte Sep 6, 1830 - Apr 28, 1900
 ..+Lillian LeClaire 1831 - May 13, 1924
 ....3 Sophia LeCompte Sep 1850 - Apr 10, 1911
-.....-+Napoleon Louis Ducheneaux
+.....+Napoleon Louis Ducheneaux
 May 22,
 1833 - Nov 28, 1918
 ........4 Lillie Ducheneaux, I
@@ -22,7 +22,7 @@ Aug 15, 1878 - Nov 9, 1955
 ........4 Julie H Ducheneaux Feb 20, 1874
 - Jun 27, 1906
 1, 0, 2930)
-...+Thomas H Hill 1864 • Aug 20, 1923
+...+Thomas H Hill 1864 . Aug 20, 1923
 ., 4
 Angelique Ducheneaux Aug 11, 1875 - Apr 6,1938
 ......+Ernest Arpan (Halpin), Sr Jun 13, 1874 - Mar 12, 1923
@@ -38,18 +38,18 @@ Jun 4, 1872 - Sep 27, 1966
 . 4
 Josephine Margaret 'Josie' Ducheneaux
 May 26, 1880 - Nov 5, 1951
-.,†Moses Baptiste LeBeau 1877 - May 8, 1906
+.+Moses Baptiste LeBeau 1877 - May 8, 1906
 Josephine Margaret Ducheneaux
-. -+Charles LeBeau,
+.+Charles LeBeau,
 Sr Jun 16, 1887 - Mar 30, 1964
 ....4
 Camilla James Ducheneaux
 Jan 11, 1882 - Dec 15,1948
-•†Angelica
+.+Angelica
 'Emily' Hodgkiss
 Dec 27,1882 - Mar 21, 1944
 .4 Douglas Frank Ducheneaux Jan 4, 1885 - Aug 16, 1978
-..†Cecelia Elmira 'Alma' LeBeau Apr 29, 1895 - May 16, 1918
+..+Cecelia Elmira 'Alma' LeBeau Apr 29, 1895 - May 16, 1918
 ........*
 Douglas Frank Ducheneaux
 ..+Esther Adeline LeBeau
@@ -67,7 +67,7 @@ Mar 8, 1893 - Dec 8, 1893
 1826 - Jun 11, 1899
 ........4 Philip Felicia LaRoche, Sr
 Aug 1870 - Apr 14, 1937
-•†Amelia Rose 'Emily' Kincade
+.+Amelia Rose 'Emily' Kincade
 1875 - Sep 21, 1964
 ........4
 Zoe LaRoche
@@ -77,15 +77,15 @@ Zoe LaRoche
 Seymour LaRoche 1876
 ........4 Harry LaRoche
 Aug 4, 1878 - Apr 21, 1943
-•+Myrtle Hayes
+.+Myrtle Hayes
 Harry LaRoche
-†Alma Driving Hawk
++Alma Driving Hawk
 Harry LaRoche
-•*Emma DuFond d. Dec 11, 1926
+.*Emma DuFond d. Dec 11, 1926
 Harry LaRoche
 ..+Christine Johnson
 Dec 25, 1908 - Sep 24, 1981
-•4 DeSmet Richard 'Dick' LaRoche
+.4 DeSmet Richard 'Dick' LaRoche
 Dec 10, 1879 - Dec 20, 1954
 ..+Vernie Sawyer
 ........* DeSmet Richard LaRoche

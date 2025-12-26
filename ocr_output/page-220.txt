@@ -1,7 +1,7 @@
 8 Katina Johns 1983
 .. 8 Kayla Ann Johns
 Debra Kay Bridwell
-•tAnsel Lyle Dupris, JI
+.tAnsel Lyle Dupris, JI
 Jul 12, 1954
 .. 8 Dustin Lyle Dupris
 Nov 12, 1985
@@ -20,8 +20,8 @@ Aug 10, 1960
 ...8 Justin Lee Bridwell Jun 27, 1984
 Mary Arlene Bridwell May 26, 1958
 +Darrell Drapeaux
-• 8 Tara Drapeaux
-• 8 Yvette Drapeaux
+. 8 Tara Drapeaux
+. 8 Yvette Drapeaux
 8
 Shane Drapeaux
 .8 Elizabeth Drapeaux
@@ -43,14 +43,14 @@ Oct 16, 1992
 1927 - May 29, 1958
 6 Delores Doreen "Toni' Meeter
 Apr 27, 1931
-•+Leroy Verdel LaPlante, SI
+.+Leroy Verdel LaPlante, SI
 May 31, 1928
 .7 Diane Lynn LaPlante
 Dec 6, 1953
 .+Lloyd Dana Jensen, Sr
-• 8 Kristi Leigh Jensen
+. 8 Kristi Leigh Jensen
 Feb 27, 1975
-• 8 Kathi Lynn Jensen
+. 8 Kathi Lynn Jensen
 Jul 12,
 1979
 .8 Tate Donald Jensen
@@ -61,13 +61,13 @@ Feb 15, 1984
 Jan 20, 1955
 +Wilmer Frederick Dupris
 1953
-•8 Jayme Grant Dupris Apr 1, 1975
-•+Elizabeth Jean Berndt
+.8 Jayme Grant Dupris Apr 1, 1975
+.+Elizabeth Jean Berndt
 Jan 18, 1978
 ... 9 Westyn Reed Dupris
 Feb 12, 1998 - Feb 12, 1998
 * Jayme Grant Dupris
-. +Merrilee M Marrowbone
+.+Merrilee M Marrowbone
 ....9 Tylaina Jean Dupris Aug 29, 2000
 8 Memoree Michon Dupris
 Mar 2, 1977
@@ -75,7 +75,7 @@ Mar 2, 1977
 Dec 7, 1996
 8 Cody D' Lauris Dupris
 Aug 1, 1980
-•†James Warren 'Dusty' Traversie
+.+James Warren 'Dusty' Traversie
 Mar 19, 1978
 ..9 Brexton Jaye Traversie Dec 26, 1998
 Gloria Jean
@@ -84,7 +84,7 @@ LaPlante
 Fire Thunder
 7 Patricia Lee LaPlante
 May 1, 1956
-•+Leroy Randolph Red Horse, SI Apr 18, 1956 - Jul 25, 1981
+.+Leroy Randolph Red Horse, SI Apr 18, 1956 - Jul 25, 1981
 .. 8 Leroy Randolph Red Horse, JI
 Oct 3, 1974
 ...+Charles Ann Pearman

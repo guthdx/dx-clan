@@ -14,7 +14,7 @@ Jan 11, 1994
 6 Shawn Paul Smith, Sr
 Feb 27,
 1970 - Dec 11, 1988
-,+Theresa Ann Vocu
++Theresa Ann Vocu
 Aug 29, 1968
 ..7 Shawn Paul Smith,
 JI
@@ -28,7 +28,7 @@ Gregory Keith Ducheneaux, I
 Nov 3, 1968
 ...7 LaCosta Jo Ducheneaux Mar 31, 1990
 Jamie Russell Ducheneaux, SI
-•+Linda Cheryl Mahan Feb 21, 1966
+.+Linda Cheryl Mahan Feb 21, 1966
 ...7 Stetson Lane Ducheneaux
 Mar 19, 1992 (b)
 Ducheneaux,
@@ -53,7 +53,7 @@ Jul 22,
 1999
 6 Quincee Kaye Ducheneaux
 May 2, 1973
-•+DIury Delano Cook, Jr Mar 21, 1962
+.+DIury Delano Cook, Jr Mar 21, 1962
 ....7 Teton Keith Ducheneaux
 Feb 22, 1992
 6 Raquel Rae 'Rocky' Ducheneaux
@@ -62,7 +62,7 @@ Oct 3, 1975
 Mar 19, 1992
 . 6
 Raquel Rae Ducheneaux
-. .+Anthony Thomas Pearman
+..+Anthony Thomas Pearman
 Jun 10, 1968
 ..7 Blake Aaron
 Pearman
@@ -71,12 +71,12 @@ Jan 4,
 .5
 Lorna Rochelle Ducheneaux
 Sep 28, 1945
-•+John Gilmore Smith
+.+John Gilmore Smith
 Sep 12, 1941
 .6 Charles Brendan Smith
 Oct 27, 1967
-• +Rhea Emerald LeCompte Jan 12, 1965
-•? Arlene Rochelle Smith Jun 11, 1991
+.+Rhea Emerald LeCompte Jan 12, 1965
+.? Arlene Rochelle Smith Jun 11, 1991
 7 Mahto Nanji Smith
 Jan
 Sep
@@ -89,21 +89,21 @@ Nov 16, 1997
 Kathleen Dale Smith
 Oct 16,
 1968
-•+Robert Steven Aquilar
+.+Robert Steven Aquilar
 Oct 21,
 1969
 ...*.7 Ashton Christine Smith
 Apr 11, 1989
 Lorna Rochelle Ducheneaux
-•+Franklin Joseph Lawrence
+.+Franklin Joseph Lawrence
 1955
 .6 Catlin Jo Lawrence
 Jul 22, 1979
-•tOrlando Good Shield
+.tOrlando Good Shield
 ..7 Wakinyela Ska Win Lawrence Jun 17, 1999
 ....T Peji Hota Waniyetu Win Good Shield
 Jul 4, 2000
 ....6 Mackenzie Ellen Lawrence
-•5 Leslie Allen Ducheneaux
-• +Judith Charlene Brown Sep 5,
+.5 Leslie Allen Ducheneaux
+.+Judith Charlene Brown Sep 5,
 186

@@ -9,7 +9,7 @@ Jun 20,
 1971
 ..7 Nikki Jean Knight
 Sep 22, 1992
-•.7 Cooper Charles Knight
+..7 Cooper Charles Knight
 Jan 12, 1995
 6 Patricia Leone Knight
 May 22, 1961
@@ -19,7 +19,7 @@ Mar 3, 1979
 Patricia Leone Knight
 +Halley Gene Maynard
 ...7 Sashay Rae Maynard Apr 14, 1987
-•6 Pete Charles Knight Mar 19, 1963
+.6 Pete Charles Knight Mar 19, 1963
 +Marlene Schaeffer
 209 4%
 1961
@@ -28,8 +28,8 @@ Patricia Leone Knight
 6 Jill Marjorie Knight
 Mar 24,
 1965 - Jun 20, 1980
-•6 Heidi Jo Knight Nov 17, 1966
-.,+Shane Michael Kerstiens
+.6 Heidi Jo Knight Nov 17, 1966
+.+Shane Michael Kerstiens
 ..7 Jill Kayla Kerstiens
 Aug 6, 1986
 Heidi Jo Knight
@@ -39,9 +39,9 @@ Jan 11, 1967
 Jun 28, 1990
 5
 Richard Gordon Dunn Dec 28, 1938
-•+Mary Estelle Fielder Aug 9,
+.+Mary Estelle Fielder Aug 9,
 .6 Richard Anthony Dunn (David Alan Muir)
-,+Mary Katherine Syriac
++Mary Katherine Syriac
 pocugoand aian mule)
 Jan 18,
 ..7 Jason David Muir

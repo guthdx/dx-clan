@@ -1,12 +1,12 @@
 5 Mary Cleophee Rousseau Aug 18, 1897 - Jan 19, 1933
-• William B Quidor Oct 13, 1893 - Jan 1969
-• 6 Mary Estelle Quidor Aug 18, 1920
+. William B Quidor Oct 13, 1893 - Jan 1969
+. 6 Mary Estelle Quidor Aug 18, 1920
 +
 Denny
 .6 Edward Bennette Quidor Oct 23, 1921
-• +Glorine Maxine McCurdy
-•.7 Hollis Kent Quidor Jun 25, 1949
-•6 Mildred LaVerne Quidor Sep 13, 1923
+.+Glorine Maxine McCurdy
+..7 Hollis Kent Quidor Jun 25, 1949
+.6 Mildred LaVerne Quidor Sep 13, 1923
 .....t
 Daily
 Mary Cleophee Rousseau
@@ -14,17 +14,17 @@ Mary Cleophee Rousseau
 5 Arlene Belle Rousseau Oct 18, 1898 - Feb 11, 1922
 Camille Amadee 'Judd' Rousseau, Sr
 Jul 25, 1899 - May 10, 1972
-•Mildred Selena Traversie Oct 10, 1911 - Dec 31, 1997
-•6 Cyxil Jerome 'Jerry' Rousseau
+.Mildred Selena Traversie Oct 10, 1911 - Dec 31, 1997
+.6 Cyxil Jerome 'Jerry' Rousseau
 Apr 23, 1939
 ..+Georgia Lee Lewis Oct 21, 1943
 ..7 Yvette Michelle Rousseau Apr 10, 1964
 ...8 Leilani Rousseau
 Jul 20, 1984
 Yvette Michelle Rousseau
-• +James Martin Chambers
+.+James Martin Chambers
 Apr 28, 1959
-• 8 Lindsey Ree Chambers
+. 8 Lindsey Ree Chambers
 Sep 16, 1990
 .8 Thomas James Chambers
 Jan 27, 1992
@@ -32,10 +32,10 @@ Jan 27, 1992
 Sep 8, 1995
 7 Stephanie Adele Rousseau
 Jun 29, 1965
-•†Monte Steven D'Avignon Mar 28, 1958
-•8 Dustin Ryan D'Avignon Jun 11, 1985
+.+Monte Steven D'Avignon Mar 28, 1958
+.8 Dustin Ryan D'Avignon Jun 11, 1985
 .....8 Derek Alan D'Avignon Dec 26, 1992
-•7 Monique Marie Rousseau
+.7 Monique Marie Rousseau
 Feb 8, 1969
 Madison Selena Rousseau
 Mar 16, 1996
@@ -57,13 +57,13 @@ Jun 29, 1967
 +John William Sully
 ....8 Connie Sioux Sully
 Jan 24, 1978
-•7 Jamie Lynelle Wachtler
+.7 Jamie Lynelle Wachtler
 Sep 9, 1964
 +Alvin Wade Weasel
 Nov 2, 1961
 .8 John Michael Weasel
 Aug 30, 1984
-•8 Jacob Matthew Weasel Oct 30, 1986
+.8 Jacob Matthew Weasel Oct 30, 1986
 ..8 Jordan Michelle Weasel
 Jan 17, 1990
 7 Jodi Lee
@@ -72,10 +72,10 @@ Mar 22, 1967
 Oct 18, 1969
 ..7 Chad Michael Wachtler Apr 7, 1971
 Rochelle Yvonne Rousseau
-. +Loren John
+.+Loren John
 'Rusty" Farmer, Jr
 Sep 4, 1938
-•7 Chad Michael Farmer
+.7 Chad Michael Farmer
 Apr 7, 1971
 ..8 Joshua Nicholas Farmer
 May 31, 1991

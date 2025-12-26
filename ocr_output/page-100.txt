@@ -1,10 +1,10 @@
-•7 Jane Mary Brutsman Feb 11, 1964
+.7 Jane Mary Brutsman Feb 11, 1964
 .7 Dean Paul Brutsman Nov 25, 1965
-•.7 Billy John Brutsman
+..7 Billy John Brutsman
 Mar 27, 1967
 6 Linda Kathleen Brutsman
 Feb 18, 1942
-•+Carl William Rose, Jr Jun 24, 1938
+.+Carl William Rose, Jr Jun 24, 1938
 .7 Stuart James Roge
 Aug 4, 1961
 7 Sonja Marie Rose
@@ -16,7 +16,7 @@ Feb 27,
 1995
 7 Susan Bridget Rose
 Jul 24, 1965
-•+Craig Alan Evensen
+.+Craig Alan Evensen
 Jan 1,
 1963
 ..8 Steven Andrew Evensen
@@ -26,13 +26,13 @@ May 10, 1968
 6
 James William Brutsman
 Jul 4, 1946
-•+Faye Ann Barron Sep 20, 1949
-•7 Paul James Brutsman
+.+Faye Ann Barron Sep 20, 1949
+.7 Paul James Brutsman
 Mar 5, 1968
 ...7 Bud William Brutsman
 May
 6, 1970
-•5 Millie Marie Cummings Nov 7, 1913
+.5 Millie Marie Cummings Nov 7, 1913
 ..tOra Roland 'Duke' DeSart May 4, 1911 - Feb 8, 1977
 ..6 Joan Delores DeSart
 Dec 24,
@@ -41,16 +41,16 @@ Dec 24,
 Nov 20, 1922 - Sep 7, 1988
 ..7 Jeffery Dean Wientjes
 Jun 9, 1957
-•7 Jackie Marie Wientjes
+.7 Jackie Marie Wientjes
 Jan 22, 1960
-•7 Hope Nadine Wientjes
+.7 Hope Nadine Wientjes
 Mar 24,
 1967
 ....7 John Albertus Wientjes
 Mar 12, 1970
 6
 Peggy Joyce DeSart Jan 24, 1934
-•+Jerry Belisle
+.+Jerry Belisle
 ....7 Kathie Marie Belisle
 6
 Bonnie Lou DeSart
@@ -65,17 +65,17 @@ Bonnie Lou DeSart
 Dec 1964
 6 Gail Ann DeSart
 Jul 26, 1937
-• +John Hysong
+.+John Hysong
 .7 Pamela Hysong
 ,7 Tamala Hysong
 .7 Paddy Hysong
 ....7 Susan Coleen Hysong Apr 5, 1968
 6 Wayne Roland 'Butch' DeSart
 Mar 21, 1943
-•+Joann Jeanette Huber Oct 19, 1949
-•7 Michelle Marie DeSart
+.+Joann Jeanette Huber Oct 19, 1949
+.7 Michelle Marie DeSart
 Sep 5, 1962
-,+Curt Keith Fiechtner Dec 26, 1959
++Curt Keith Fiechtner Dec 26, 1959
 .. 8 Jermaine Thomas Fiechtner
 Sep 5, 1974 (a)
 8 Anna Marie Fiechtner
@@ -85,7 +85,7 @@ Apr 8,
 1987
 7 Wade Roland DeSart
 Oct 7, 1964
-•+Doris Tosha Peterhaensel
+.+Doris Tosha Peterhaensel
 Nov 5, 1959
 .. 8 Gary D Stewart
 Jul 3, 1979
@@ -97,11 +97,11 @@ Jan 28,
 Feb
 4,
 1961
--+Dorothy Jean Petta Young
++Dorothy Jean Petta Young
 ...6 Ronald Craig Cummings
 1947
 *
 George Mortimer Curmings
--†Helen
++Helen
 Overfelt
 98

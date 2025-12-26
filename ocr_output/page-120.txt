@@ -1,5 +1,5 @@
 +Ruth Seton
-•.B Shawnita Lea Seton Nelson Jun 12, 1983
+..B Shawnita Lea Seton Nelson Jun 12, 1983
 ..8 Jennilyn Marie Seton Nelson
 7
 Dec 3, 1985
@@ -12,24 +12,24 @@ Sheryll Marie Nelson Dec 9, 1956
 7 Michael Dean Nelson Dec 25, 1958
 + Rebecca Hampton
 .8 Lindsay Rae Nelson Mar 24, 1982
-• 8 Jeffrey Charles Nelson
+. 8 Jeffrey Charles Nelson
 Apr 15, 1985
 ....B Timothy Allen Nelson
 Nov 10, 1987
-•7 Patrick Ray Nelson
+.7 Patrick Ray Nelson
 Oct 10, 1961
 6 Margaret Elaine Rousseau
 Jun 16, 1923
-•+Charles Walter Avery
+.+Charles Walter Avery
 Nov 1, 1921
 7 Coleen Mae Avery Nov 30,
 1944
 ....B Thane Hale Avery Jan 26, 1964
 * Coleen Mae Avery
-•Duane Vernon 'Curley' Mommer Jun 5, 1934 - Sep 25, 2000
+.Duane Vernon 'Curley' Mommer Jun 5, 1934 - Sep 25, 2000
 ..B Sulita Rae Mommer Jan 1, 1965
 Rodriguez
-• 8 Byron Duane Mommer
+. 8 Byron Duane Mommer
 Jun 30, 1967
 .......9 Cory Michael Mommer
 7 Arthur Francis Avery
@@ -42,33 +42,33 @@ Arthur Francis Avery
 Oct 11, 1972
 7 Allen Arrel Avery
 Sep 28, 1948
-• *Lola Medina
+.*Lola Medina
 ..8 Antoinette Avery
 ..B Shane Avery
 ...8 Tessa Avery
 7 Leon LeRoy Avery Feb 5, 1950
-•.+Cynthia Ann Robertson
-• 8 Travis Dean Avery Nov 16, 1969 (a)
-•8 Tammera Sue Avery Nov 29,
+..+Cynthia Ann Robertson
+. 8 Travis Dean Avery Nov 16, 1969 (a)
+.8 Tammera Sue Avery Nov 29,
 1971
 ..8 Teresa Dawn Avery
 Sep 4, 1974
 7 Lamarr Paul Avery
 Sep 29, 1951
-•+Rosalita Roach
+.+Rosalita Roach
 Mar 11, 1947
 . 8 Medina Avery (c)
 .8 Ann Marie Avery
 .. 8 Orlando Avery (c)
 Raymond David 'Rocky' Avery, Sr
 Mar 26,1953
-. +Diane Johnson
+.+Diane Johnson
 7
 ..8 Raymond David Avery,
 Jr
 Una Lee Marie Avery
 May 6,1954
-• +Donald Arthur Howe
+.+Donald Arthur Howe
 .8 Donna Lee Marie Howe
 Jan 25, 1976
 8 Elizabeth Jane Howe
@@ -79,7 +79,7 @@ Apr
 7
 Muretta Ann Avery
 1956
-•†Caroll Hayes
+.+Caroll Hayes
 ...8 Margaret Ann Hayes
 Muretta Ann Avery
 118

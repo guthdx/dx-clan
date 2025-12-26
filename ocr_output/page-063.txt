@@ -1,6 +1,6 @@
 6 Sylvester Peck
-• 6 Lloyd Peck
-•6 Sharron Peck Jun 9,
+. 6 Lloyd Peck
+.6 Sharron Peck Jun 9,
 1939
 Julia Angelique LaRoche
 tEverett Moore
@@ -8,18 +8,18 @@ tEverett Moore
 Inez Marie 'May' LaRoche
 Oct 8,
 1915
-†Hobart Eagle
++Hobart Eagle
 Sep 7, 1911 - My
 1981
 Inez Marie LaRoche
-•+Benjamin Walton Thompson, Jr
-•6 Patricia Annette Thompson
+.+Benjamin Walton Thompson, Jr
+.6 Patricia Annette Thompson
 Oct 12,
 1914
 - Mar 19, 1985
 Aug
 7, 1936
-• 7 Michael E Daniels
+. 7 Michael E Daniels
 7
 Jacqueline Theresa Thompson
 ..7 Charles Thompson
@@ -32,12 +32,12 @@ Patricia Annette Thompson
 ..+
 Sommermyer
 6 Virginia Lee Thompson May 20, 1940
--+Ronald Wilhelm
++Ronald Wilhelm
 Inez Marie LaRoche
-•+Theodore 'Al' Hauser 1904
+.+Theodore 'Al' Hauser 1904
 .6 Craig Merle Hauser
 Apr 2, 1946
-• 6 Roderick Allen Hauser
+. 6 Roderick Allen Hauser
 Jun 23, 1947
 6 Alverda Hauser Aug 31, 1949
 . 6 Kathleen K Hauser
@@ -47,11 +47,11 @@ Oct 16,
 5
 Alice Margaret 'Hazel' LaRoche
 Dec 25, 1917 - Aug 7, 1982
-•+Robert Gilbert Philbrick d. May 17, 1992
+.+Robert Gilbert Philbrick d. May 17, 1992
 ..6 Douglas Robert Philbrick
 Mar 17, 1942
-•+Lynda Jane Harinon
-•7 Almo Robert Philbrick
+.+Lynda Jane Harinon
+.7 Almo Robert Philbrick
 Jul 12, 1970
 ..+Carla Joy Smith Feb 19, 1971
 ..8 Brianna Joy Philbrick
@@ -69,14 +69,14 @@ Amos Benjamin Philbrick Nov 28, 1979
 7 June Juliet Philbrick
 May 9, 1990
 6 Roger Robert Philbrick Mar 17, 1942
-•†Maria Juarez 1952
+.+Maria Juarez 1952
 ...7 Christina Maria Philbrick
 1980
 ...7 Tammy Lynn Philbrick
 1983
 6 Warren Randolph Philbrick
 Mar 20, 1945 - Jun 9, 1987
-•+Sharon I Larson
+.+Sharon I Larson
 .. 7 Michelle May Philbrick
 1964
 +Dan Gerner
@@ -87,7 +87,7 @@ Mar 20, 1945 - Jun 9, 1987
 1966
 .7 Randolph Philbrick
 Warren Randolph Philbrick
-•†Delores Miller
+.+Delores Miller
 ..7 Angelia Mae Philbrick 1970
 ....7 Audra Mercedes Philbrick
 1971

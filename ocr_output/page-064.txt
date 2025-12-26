@@ -1,14 +1,14 @@
 +Lawrence Harold Jandreau, Sr May
-• 7, 1912
+. 7, 1912
 - Sep
 14,
 1956
 6 Lawrence Harold Jandreau
 Feb 11,
 1949
-•. 7 Larry Jandreau
+.. 7 Larry Jandreau
 1975
-•7 Sherry Jandreau
+.7 Sherry Jandreau
 1975
 6 William Sherwood Jandreau
 Apr 11,
@@ -16,7 +16,7 @@ Apr 11,
 ..+Sandra Jean LeBeau Jun 21,
 1953
 William Sherwood Jandreau
-•+Gyla A Bagola
+.+Gyla A Bagola
 Aug 23, 1954
 .7
 Smoky James Jandreau
@@ -26,21 +26,21 @@ May
 30, 1980
 6 James Wayne Jandreau
 Oct 13, 1952
-•7 Kaycee Jandreau 1979
+.7 Kaycee Jandreau 1979
 ..7 Clint James Jandreau
 1989
 ...7 Chance Morgan Jandreau
 1993
 6 Mary Alice Jandreau Jan 7,
 1954
-•+Steve Gast
+.+Steve Gast
 ..7 Lee Frederick Gast
 1980
 .. 7 Odette Gast
 1981
-• 6 Melanie Rose Jandreau
+. 6 Melanie Rose Jandreau
 May 3, 1956
-•†Michael Johnson
+.+Michael Johnson
 .....7 Jason Johnson
 Alice Margaret LaRoche
 .+Richard Morrison
@@ -52,7 +52,7 @@ Richard John LaRoche, Sr Jan
 30,
 1920 - Apr 1, 1980
 +Violet Langdeau
-• 6 Delores M Glasford Nov 18, 1941
+. 6 Delores M Glasford Nov 18, 1941
 ..+Terry Pexa
 Delores M Glasford
 ......+
@@ -66,13 +66,13 @@ Apr 22, 1943
 ...+
 Lappengaard
 Richard John LaRoche, SI
-•+Kayleen Big Eagle
+.+Kayleen Big Eagle
 Aug 11, 1942
 ..6 Carol Lynn LaRoche
 Aug 9, 1964
-• 6 Dorma Lee LaRoche Dec 17,
+. 6 Dorma Lee LaRoche Dec 17,
 1965
-• 6 Richard John LaRoche, JI
+. 6 Richard John LaRoche, JI
 Nov 12, 1969
 ... 6 Lynette Kayleen LaRoche
 May 22,
@@ -81,14 +81,14 @@ May 22,
 Jan
 10, 1922 -
 Mar 16, 1958
-•+Benjamin Franklin Spring
+.+Benjamin Franklin Spring
 .. 6 Delouise E Spring Nov 23, 1944
 ...+
 Rice
 6 Marchelle Ann Spring
 Jan
 7, 1947
-•+Richard Dwayne Brazell, Sr
+.+Richard Dwayne Brazell, Sr
 ..7 Mona Florine Brazell
 Aug 14, 1964
 .7 Richard Dwayne Brazell, JI
@@ -102,7 +102,7 @@ Nov 6, 1923 - Mar
 5 Alvina Ruth LaRoche Jan 30, 1927
 23,
 1936
-•tOrville Landreau
+.tOrville Landreau
 .....6 Lloyd Landreau
 ....4 Sophia A LaRoche
 Apr 2, 1882 - Sep 14,

@@ -1,11 +1,11 @@
 * Philip DeSmet LaRoche
-. .+Lynne Anglin
+..+Lynne Anglin
 * Philip DeSmet LaRoche
-• .+Shirley Fox
+..+Shirley Fox
 6 Mildred Mae LaRoche Mar 13, 1923 - Feb 19, 1955
-•+Basil Robertson
-•7 Michele Robertson Jul 11, 1945
-. . +
+.+Basil Robertson
+.7 Michele Robertson Jul 11, 1945
+..+
 Ruckdaschel
 7
 Michael Robertson
@@ -21,7 +21,7 @@ Phyllis LaRoche Apr 6, 1928
 Robertson
 5 Mary Mae LaRoche Apr 20, 1896 - Mar 16, 1952
 +Jacob Hausman
-• 6 Milton Robert Hausman Dec 28, 1928
+. 6 Milton Robert Hausman Dec 28, 1928
 ..7 Robert Hausman
 .7
 Tom Hausman
@@ -38,13 +38,13 @@ Thomason
 6 Melvin James Hausman
 6 Mildred Mae Hausman
 Marian A Hausman
-•William Dahlquist Dec 8, 1927 - Feb 13, 1995
+.William Dahlquist Dec 8, 1927 - Feb 13, 1995
 7 William L Dahlquist
-•7 Patti Dahlquist
+.7 Patti Dahlquist
 ..+Jon Wessel
 7 Mari Lynn Dahlquist
 ...+Dan Tillman
-• 6 Mary Ellen Hausman
+. 6 Mary Ellen Hausman
 Fredericksen
 . 5
 Isabella Elizabeth LaRoche
@@ -70,7 +70,7 @@ May 27, 1901 - Feb 28, 1969
 ..6 Jess LaRoche
 ....+Mary Hawkfield
 .....* Albert James LaRoche
-.....†Alice Mae Rouse
+.....+Alice Mae Rouse
 ....5 Jesse LaRoche
 May
 19, 1902 - Feb

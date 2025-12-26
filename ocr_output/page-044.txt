@@ -1,6 +1,6 @@
 .6 Charles Francis Rabideaux
 Sep 24, 1946
-•†Lorraine Marie Burke
+.+Lorraine Marie Burke
 Dec 31,
 1948
 ...7 Sheila Rae Rabideaux Oct 16, 1975
@@ -9,27 +9,27 @@ Dec 31,
 Oct 23, 1977
 Camille Ann Rabideaux
 May 15, 1948
-• Richard Prior Sexton
+. Richard Prior Sexton
 Mar 7, 1949
 .. 7. Frederick Martin Sexton
 May 11, 1976
-•I Frances Ann Sexton
+.I Frances Ann Sexton
 May 17,
 1979
 6
 Paul Lawrence Rabideaux
 Nov 25, 1950
-•Colleen Crane Nov 14, 1952
+.Colleen Crane Nov 14, 1952
 ..7 Jennifer Marie Rabideaux Mar 18, 1973
 ...7 Clayton Marshall Rabideaux
 Sep 15, 1975
 6 Michelle Louise Rabideaux
 Apr 23,
 1956
-•+Paul Howard Schnabel Mar 12, 1951
-•7 Stephen Howard Schnabel
+.+Paul Howard Schnabel Mar 12, 1951
+.7 Stephen Howard Schnabel
 Apr 24, 1978
-•7 Carey Leah Schnabel
+.7 Carey Leah Schnabel
 Nov 29, 1979
 .......5 Louise LeBeau
 Nov 11, 1916
@@ -40,7 +40,7 @@ Louise LeBeau
 ...+William Pickert 1975
 ...6 Emy Jo Pickert
 Nov 16, 1942
-...... ....+Keith Vannattan
+..........+Keith Vannattan
 ............7 Tracey Jo Vannattan
 Feb 1, 1969
 Emy Jo Pickert
@@ -73,18 +73,18 @@ Mar 14, 1905 - May 28, 1966
 ... 6 Benjamin Melvin Benoist
 Jul 26, 1929 - May 15, 1976
 Margaret Rose Ducheneaux
-•†William Lyle Benoist Aug 13, 1902 - Jul 13, 1970
-• 6 Benjamin Melvin Benoist
+.+William Lyle Benoist Aug 13, 1902 - Jul 13, 1970
+. 6 Benjamin Melvin Benoist
 Jul 26, 1929
 - May 15, 1976 (b)
-.. +Delphine Therese Martin
+..+Delphine Therese Martin
 * Benjamin Melvin Benoist
-•Lillian White Bull or Chasing Bear Aug 12, 1938
-•7 Phillip Dale Benoist Jul 15, 1961 (a)
+.Lillian White Bull or Chasing Bear Aug 12, 1938
+.7 Phillip Dale Benoist Jul 15, 1961 (a)
 .+Norma Dawn Left Hand
-•.8 Phillip Dale Benoist, Jr
-• 8 Christopher Benoist
-• 8
+..8 Phillip Dale Benoist, Jr
+. 8 Christopher Benoist
+. 8
 Tyler Benoist
 .. 8
 Justin Lawrence Benoist Jul 7, 1992
@@ -95,6 +95,6 @@ Melissa Benoist
 Benjamin Melvin Benoist
 +Lenore No Heart
 Jul 28, 1936 - Jun 15, 1967
-•.7 Della Rae No Heart
+..7 Della Rae No Heart
 May 7, 1976
 42

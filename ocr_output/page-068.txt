@@ -1,27 +1,27 @@
 +Kristen Kay Geier May 14, 1956
 .8 Travis William Rehfeld Jun 26,
 1977
-• 8
+. 8
 Holly Marie Rehfeld Sep 4, 1978
 . 8
 Kimberly Kay Rehfeld
 May 22, 1982
 6 William Gordon Ducheneaux Mar 10, 1933 - Jul 23, 1991
-•†Georgianna Merle 'Gina' Iron Wing
+.+Georgianna Merle 'Gina' Iron Wing
 Mar 9, 1940 - Nov 19, 1987
 6 Dale Alden Ducheneaux Sep 13, 1934
-.. +Deanne Rae Dayton
+..+Deanne Rae Dayton
 Aug 20, 1941
 ..7 Dale Ray Ducheneaux
 Oct 21,
 1960
-•+Teri Lynn Olsen Oct 26, 1959
-•.8 Derek Andrew Ducheneaux Jun 16, 1983 - Jun 16, 1983
+.+Teri Lynn Olsen Oct 26, 1959
+..8 Derek Andrew Ducheneaux Jun 16, 1983 - Jun 16, 1983
 ..8 David Matthew Ducheneaux Dec 18, 1984
 ... 8 Scott Lynn Ducheneaux
 Jul 20, 1988
 7 Mark J Ducheneaux Aug 7, 1962
-•†Karen Sue Jongsma Apr 19, 1958
+.+Karen Sue Jongsma Apr 19, 1958
 ..8 Darcy Sue Ducheneaux Aug 23, 1986
 ...8 Travis Andrew Ducheneaux
 Nov 9, 1987
@@ -35,12 +35,12 @@ Kelly K Ducheneaux
 ..+Joni Hendrickson
 ...7 Lance A Ducheneaux
 Feb 9, 1976
-•6 Neil Carlton Ducheneaux Nov 15, 1936 - Sep 8, 1974
+.6 Neil Carlton Ducheneaux Nov 15, 1936 - Sep 8, 1974
 ..+Mildred Ann Wright
 Nov 7, 1948 - 1983
 .7 Memory Ann Kruse
 Jun 14, 1970
-•*Doyle Deon Bell
+.*Doyle Deon Bell
 ..8 Taijscha Simone Bell Aug 19, 1994
 .... 8 Maudieaux Dean Bell
 Nov 22,
@@ -65,26 +65,26 @@ Feb 26, 1972 (b)
 6
 Sep 27, 1986
 Dallas Bernard Ducheneaux May 3, 1944
-•†Frances Refugio Martinez Jan 20, 1943
-•7 Bonnie Kay Ducheneaux Sep 15, 1964
-•+Robert Darrel Bowling
+.+Frances Refugio Martinez Jan 20, 1943
+.7 Bonnie Kay Ducheneaux Sep 15, 1964
+.+Robert Darrel Bowling
 ...8 Brittany Ann Bowling Jan 31, 1987
 Bonnie Kay Ducheneaux
 ..+Richard Brook Ray
 7 T'y Ducheneaux
 Jul 22, 1967
-•†Cynthia Barber
+.+Cynthia Barber
 ...8 Dallas Neal Ducheneaux
 Apr 15, 1990
 7 Toby Ducheneaux Aug 11, 1969
 7 Troy Ducheneaux
 1970
-•5 Joseph LeRoy Whitney May 6, 1907 - Jan 5, 1909
+.5 Joseph LeRoy Whitney May 6, 1907 - Jan 5, 1909
 Evelyn Cecelia Whitney Sep
 5, 1909
 - Jan
 6, 1980
-•+Cyril Ambrose 'Butch' Benoist
+.+Cyril Ambrose 'Butch' Benoist
 NOV
 9, 1907
 - Dec 20, 1975
@@ -96,7 +96,7 @@ Hambelton
 1936 - NOV
 4,
 1975
-•+Donald Morris 'Duke'
+.+Donald Morris 'Duke'
 Dupree
 Feb
 28, 1930

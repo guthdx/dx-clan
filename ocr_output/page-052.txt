@@ -5,7 +5,7 @@ May 31, 1974
 Apr 19, 1995
 ....5 Patricia Ann Ducheneaux
 Jun 20, 1938
-.†Harry William Pavey
+.+Harry William Pavey
 .. 6 William Dean Pavey Oct 14, 1962
 ..6 Julia Ann Pavey
 .... 6 Cheryl Lynn Pavey
@@ -29,7 +29,7 @@ Oct 14, 1909 - Jun 9, 1978
 ...+Ruby Grace Garreau Feb 14, 1914
 ..6 Opal Jean Marshall
 26, 1935 - Jan 29, 2000
-•+Donovan Valarian Heisler Apr 16,1931
+.+Donovan Valarian Heisler Apr 16,1931
 .7 Steven Joseph Heisler Aug 15, 1962 (c)
 ...+Vickie Lee Fagre
 Jan 25, 1962
@@ -39,27 +39,27 @@ Jan 25, 1962
 ...+Mark Decker
 6 Irving William
 'Beaux' Marshall, Jr May 26, 1937 - Jan 17, 1997
-• tEvanel Joyce Sutton
+. tEvanel Joyce Sutton
 Sep 29, 1942 - Jan 9, 1996
 ..7 Dareus
 Ray Montreal
 May 7, 1963
-•7 Beaux Jess Marshall Jan 16, 1966
+.7 Beaux Jess Marshall Jan 16, 1966
 ....8 Ryan Christopher Marshall Nov 6, 1990
 ...7 Marnita Ann Marshall
 6 Sandra Elizabeth Marshall Jan 26, 1939
-•+Jerald Allen 'Jerry' Longbrake
+.+Jerald Allen 'Jerry' Longbrake
 Dec 27, 1939 - May 12, 1964
-•7 Rhonda Jean Longbrake Aug 17,
+.7 Rhonda Jean Longbrake Aug 17,
 +Melvin Arthur Anderson, Jr Nov 24,
 1960
 -8 Audey James Anderson Dec 5, 1976 - Feb 1977
-•8 Deanna Jo Anderson Oct 14, 1978
+.8 Deanna Jo Anderson Oct 14, 1978
 8 Layne Marie Anderson Feb 25, 1981
 ..8 Kent Ryan Anderson
 Sep 1, 1982
 Rhonda Jean Longbrake
-•+John Ackley
+.+John Ackley
 ....8 Riley John Ackley
 Sep 7, 1995
 7 Jerri Lynn Longbrake
@@ -69,14 +69,14 @@ Jerri Lynn Longbrake
 . tAllan Hieb
 .. 8 Jace Hieb
 Jerri Lynn Longbrake
-•+Loren Sylvan Larrabee, SI Sep 3, 1964
+.+Loren Sylvan Larrabee, SI Sep 3, 1964
 ...8 Loren Sylvan Larrabee, Jr
 7
 Brian Allen
 'Pete' Longbrake
 Jan 16,
 1964
-•†Mindy Raquel Carter (Thompson)
+.+Mindy Raquel Carter (Thompson)
 NOV
 3, 1971
 ...8 Jerry Jeff Longbrake
@@ -84,10 +84,10 @@ Feb 22,
 1995
 Gerald Allen Longbrake
 Dec 29, 1964
-•+Deana Guenthner
+.+Deana Guenthner
 ..8 Casy Canon Longbrake
 Sandra Elizabeth Marshall
-•+Vernon Lyle 'Cheeto' Mestes
+.+Vernon Lyle 'Cheeto' Mestes
 Sep 23,
 1928
 .7 Perry Lee Longbrake

@@ -1,7 +1,7 @@
 ... 6 Michael A Slater Jul 2, 1966
-•.5 Hazel Jean Rousseau
+..5 Hazel Jean Rousseau
 Feb 12, 1927
-•.+Lyle Arleigh McLellan
+..+Lyle Arleigh McLellan
 Sep 18, 1926
 ..6 Philip Patrick Mcbellan
 Jul 28, 1952
@@ -10,14 +10,14 @@ Jul 28, 1952
 .. 6 Douglas Kent Mcellan
 ......6 Nancy Ellen McLellan Mar 2, 1962
 5 Louis Montelle 'Monty' Rousseau Mar 15, 1929 - May 18, 1974
-. +Ellen Carlson
+.+Ellen Carlson
 2122
-•5 William Romauld "Pony' Rousseau
+.5 William Romauld "Pony' Rousseau
 Jan 17, 1932
 . 5
 Robert Arlen Rousseau
 Apr 5, 1934
-•†Penelope D 'Penny' Dupris
+.+Penelope D 'Penny' Dupris
 Feb 27, 1936
 6 Dennis Michael Rousseau Nov 11, 1958 - Oct 13, 1979
 6 Arlen Louis Rousseau
@@ -48,10 +48,10 @@ May 6, 1884 - Jan
 1915 - Sep 12, 1916
 .5 Leta Laura Brown
 Dec 12, 1917 - Mar 30, 1918
-•5 Marie Eunice Brown 1921
+.5 Marie Eunice Brown 1921
 ..+
 Atwood
-•5 Elizabeth Lucy Brown 1925
+.5 Elizabeth Lucy Brown 1925
 ...+Lycurgus Blair Benson
 .. 6 Rosemary Benson
 May 17, 1953
@@ -62,7 +62,7 @@ Oct 9, 1957
 ......+Eathel Emma Crakes
 1893
 ........5 Joseph Albert Paradis, JI 1922 - Dec 7, 1944
-... +Elizabeth Moncada
+...+Elizabeth Moncada
 ...5 John Alden Paradis
 .....5 Mary Jane Paradis Mar 8,
 3 Edward Narcelle
@@ -72,12 +72,12 @@ Dec 2, 1924 - Aug 11, 1946
 1926
 May 1857 - Feb 12, 1911
 ..4 Mary Louise Narcelle, II May 1882 - Mar 3, 1916
-•†Albert Horn 1885 - Apr 18, 1919
+.+Albert Horn 1885 - Apr 18, 1919
 ..5 Alberta Marie Horn
 Jul
 . 4, 1913
 - Sep
-• 30,
+. 30,
 1970
 tAntoine Paul Howard
 Aug 6,
@@ -97,7 +97,7 @@ Oct 17, 1938
 .+
 Rodriquez
 * Marie Antoinette Howard
--.+
+.+
 White
 ..6 John Daniel Howard Apr 19, 1942
 132

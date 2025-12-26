@@ -1,11 +1,11 @@
 .*
 .7 Erin LaRoche
-•7 LeeAnn LaRoche
-•. 7 Shelly LaRoche
+.7 LeeAnn LaRoche
+.. 7 Shelly LaRoche
 .6 Sylvester Harrold LaRoche,
 Oct 29,
 1946
-•6 Joyce Linda LaRoche Oct 5, 1948
+.6 Joyce Linda LaRoche Oct 5, 1948
 ..t
 White Bull
 . 6
@@ -14,34 +14,34 @@ Jandreau
 . 6
 Jeanette Marie LaRoche
 Sep 27, 1957
--.+
+.+
 Scott
 ...6 Frederick B LaRoche
 .5 Edward Sherwood LaRoche Mar
 30, 1909
-•+Gale Nash
+.+Gale Nash
 .. 6 Gene LaRoche
 DeSmet Richard LaRoche
 .. tEmma 'Amy' LeBeau (Gilland)
 Jun
 6,1888 - Jul 4,1966
-•5 Elmer Louis LaRoche, SI
+.5 Elmer Louis LaRoche, SI
 Sep
 19,
 1911
-•+Helen Ann Marshall Apr 20, 1911
+.+Helen Ann Marshall Apr 20, 1911
 ..6 Lillian Mae Tegland May 22, 1935
 ..+George Lloyd Magnusson
-•.7 William Arthur Magnusson
+..7 William Arthur Magnusson
 Jul 27,1958
 ......7 Wanda Ann Magnusson
 Dec 4,
 1959
 Elmer Louis LaRoche, Sr
-.. +Margaret Hale
+..+Margaret Hale
 ... 6 Elmer Louis LaRoche, JI
 Elmer Louis LaRoche, Sr
-•+Lavina Long Turkey Oct 16, 1917
+.+Lavina Long Turkey Oct 16, 1917
 .. 6 Evelyn LaRoche
 Apr 9, 1938
 ..+
@@ -56,23 +56,23 @@ Lawrence LaRoche
 6
 JoAnne LaRoche
 1945
-•+Floyd Marlowe Langdeau
+.+Floyd Marlowe Langdeau
 Dec 13, 1926 - Mar 28, 1968
 ....7 Richard Langdeau
 JoAnne LaRoche
-•+Albert Roy Crazy Bull 1944 - 1982
+.+Albert Roy Crazy Bull 1944 - 1982
 .7 Jeanene Marie Crazy Bull
 Apr 19,
 1959
-•. +Robert Spangler
+..+Robert Spangler
 Jeanene Marie Crazy Bull
 ..+Lyle Camilla 'Butter Ball' Ducheneaux
 Jan 9, 1950
 ..8 Jamie Lynn Crazy Bull Sep 29, 1977
-•.9 Cangleska Rain Crazy Bull
+..9 Cangleska Rain Crazy Bull
 .....9 Chance Chainy Crazy Bull
 JoAnne LaRoche
-•†William Ziegler
+.+William Ziegler
 ...7 Margaret Lynn Ziegler
 Mar 21, 1961
 6 Sylvia LaRoche
@@ -82,7 +82,7 @@ almer Louis LaRoche, SR
 +Effie L Long Turkey
 Aug 28, 1922 - Jul 7, 1988
 .. 6 Karen LaRoche Mar 23, 1951
-..... +
+.....+
 Sherwood
 5
 Julia Angelique LaRoche Oct 13, 1913
