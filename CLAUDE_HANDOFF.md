@@ -134,20 +134,74 @@ deactivate
 - Source citations UI
 - Deduplication of repeated names (some persons appear multiple times in source)
 
-### Current State (as of Dec 24, 2024)
+### Current State (as of Dec 25, 2024)
 
+**Local Development:**
 - **Docker**: Services running (`docker compose up -d`)
-- **Database**: Populated with 13,356 persons from clean OCR data
-- **Frontend**: Live at http://localhost:5173
-- **API**: Live at http://localhost:8000/docs
-- **Git**: NOT initialized yet - run `git init` to start version control
+- **Database**: Populated with genealogy data
+- **Frontend**: http://localhost:5173
+- **API**: http://localhost:8000/docs
+- **Git**: Initialized, pushed to GitHub
 
-### Next Steps
+**Production Deployment (Ubuntu Server 192.168.11.20):**
+- **Location**: `/opt/apps/dxclan/`
+- **Docker Compose**: `docker-compose.production.yml`
+- **Frontend**: http://localhost:19080
+- **Backend API**: http://localhost:19000
+- **Database**: PostgreSQL 16 (Docker container)
+- **Data**: 8,988 persons, 11,396 parent-child, 2,760 marriages
 
-1. Review frontend visually to verify it meets requirements
-2. Initialize git repository and make initial commit
-3. (Optional) Push to GitHub when ready
+**Cloudflare Tunnel:**
+- DNS route added: `dxclan.iyeska.net` → tunnel
+- **TODO**: Add public hostname via Cloudflare Zero Trust dashboard
+  - Subdomain: `dxclan`
+  - Domain: `iyeska.net`
+  - Service: `http://localhost:19080`
 
-### Plan File
+### Recent Changes (Dec 25, 2024)
 
-Full implementation plan at: `/Users/guthdx/.claude/plans/hashed-crunching-crab.md`
+1. **OCR Date Fixes**:
+   - Fixed semicolons in dates (`Jan 22; 1978` → `Jan 22, 1978`)
+   - Added multi-line date joining for 3-line patterns
+   - Fixed Marie Elizabeth Kougl (1978) and Jewel Daleen Kougl (1988) dates
+
+2. **Production Deployment**:
+   - Deployed to `/opt/apps/dxclan/` following established process
+   - Created `docker-compose.production.yml` with localhost ports
+   - Configured nginx to proxy API requests to backend
+   - Imported data via `import_genealogy.py`
+
+3. **Cloudflare Integration**:
+   - Added DNS route via `cloudflared tunnel route dns`
+   - Local cloudflared config updated (but uses remote config)
+   - Pending: Add public hostname via Zero Trust dashboard
+
+### Key Files
+
+| File | Purpose |
+|------|---------|
+| `scripts/clean_ocr_punctuation.py` | Cleans OCR artifacts before parsing |
+| `backend/scripts/smart_parser.py` | Main parser for genealogy text |
+| `backend/scripts/import_genealogy.py` | Imports JSON to PostgreSQL |
+| `backend/scripts/qa_check.py` | Data quality checks |
+| `docker-compose.production.yml` | Production deployment config |
+
+### Management Commands
+
+**Local:**
+```bash
+docker compose up -d
+docker compose logs -f
+```
+
+**Production (SSH to 192.168.11.20):**
+```bash
+cd /opt/apps/dxclan
+docker compose -f docker-compose.production.yml up -d
+docker compose -f docker-compose.production.yml logs -f
+docker compose -f docker-compose.production.yml exec backend python scripts/import_genealogy.py --clear
+```
+
+### GitHub
+
+Repository: https://github.com/guthdx/dx_clan

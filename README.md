@@ -4,10 +4,24 @@ A searchable genealogy database for the Ducheneaux family history, built with Fa
 
 ## Database Statistics
 
-- **13,356 persons** in the database
-- **3,331 marriages** linked
-- **7,229 parent-child relationships**
-- **564 aliases** (nicknames, alternate names)
+- **8,988 persons** in the database
+- **2,760 marriages** linked
+- **11,396 parent-child relationships**
+
+## Production Deployment
+
+**URL**: https://dxclan.iyeska.net
+
+**Server**: 192.168.11.20 (IyeskaLLC Ubuntu server)
+
+**Location**: `/opt/apps/dxclan/`
+
+**Ports**:
+- Frontend: 19080 (nginx)
+- Backend: 19000 (FastAPI)
+- Database: internal Docker network
+
+**Cloudflare Tunnel**: Requires public hostname added via Zero Trust dashboard
 
 ## Quick Start
 
@@ -38,6 +52,34 @@ Once running:
 - **Frontend**: http://localhost:5173
 - **Backend API**: http://localhost:8000
 - **API Docs**: http://localhost:8000/docs
+
+### Production Deployment (Ubuntu Server)
+
+```bash
+# SSH to server
+ssh guthdx@192.168.11.20
+
+# Navigate to deployment
+cd /opt/apps/dxclan
+
+# Start services
+docker compose -f docker-compose.production.yml up -d
+
+# Check status
+docker compose -f docker-compose.production.yml ps
+
+# View logs
+docker compose -f docker-compose.production.yml logs -f
+
+# Reimport data (if OCR was updated)
+docker compose -f docker-compose.production.yml exec backend python scripts/import_genealogy.py --clear
+```
+
+Production URLs (once Cloudflare tunnel hostname is configured):
+- **Frontend**: https://dxclan.iyeska.net
+- **Backend API**: https://dxclan.iyeska.net/api/
+- **Local Frontend**: http://localhost:19080
+- **Local API**: http://localhost:19000
 
 ### Development Setup
 
