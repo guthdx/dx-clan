@@ -9,12 +9,13 @@ the persons, marriages, parent_child, and person_aliases tables.
 import asyncio
 import json
 import argparse
+import os
 from uuid import uuid4
 
 import asyncpg
 
 
-DATABASE_URL = "postgresql://dx_clan:localdev@localhost:5432/dx_clan"
+DATABASE_URL = os.environ.get("DATABASE_URL", "postgresql://dx_clan:localdev@localhost:5432/dx_clan")
 
 
 async def get_connection():

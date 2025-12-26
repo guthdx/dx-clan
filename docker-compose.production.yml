@@ -1,0 +1,85 @@
+# DX Clan Genealogy - Production Deployment
+
+services:
+  db:
+    image: postgres:16-alpine
+    container_name: dxclan-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: dx_clan
+      POSTGRES_USER: dx_clan
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-dxclan_prod_2024}
+    volumes:
+      - dxclan_postgres_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U dx_clan"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - dxclan
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100m"
+        max-file: "2"
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: dxclan-backend
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:19000:8000"
+    environment:
+      POSTGRES_HOST: db
+      POSTGRES_PORT: 5432
+      POSTGRES_DB: dx_clan
+      POSTGRES_USER: dx_clan
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-dxclan_prod_2024}
+      DATABASE_URL: postgresql://dx_clan:${POSTGRES_PASSWORD:-dxclan_prod_2024}@db:5432/dx_clan
+      ADMIN_KEY: ${ADMIN_KEY:-dxclan-admin-key-2024}
+      DOMAIN: dxclan.iyeska.net
+      CORS_ORIGINS: "https://dxclan.iyeska.net,http://localhost:19080"
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - dxclan
+    command: >
+      bash -c "
+        for i in 1 2 3 4 5; do alembic upgrade head && break || sleep 5; done &&
+        uvicorn app.main:app --host 0.0.0.0 --port 8000
+      "
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100m"
+        max-file: "2"
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.prod
+    container_name: dxclan-frontend
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:19080:80"
+    environment:
+      VITE_API_BASE_URL: ""
+    networks:
+      - dxclan
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100m"
+        max-file: "2"
+
+volumes:
+  dxclan_postgres_data:
+
+networks:
+  dxclan:
+    driver: bridge
